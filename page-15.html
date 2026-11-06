@@ -113,7 +113,7 @@
     if (!query) return reset();
     status.textContent = "검색 중…";
     try {
-      entries ||= await fetch("archive.json?v=ebd1d0aa0db532df", { cache: "force-cache" }).then((response) => {
+      entries ||= await fetch("archive.json?v=9de3e49258b371d2", { cache: "force-cache" }).then((response) => {
         if (!response.ok) throw new Error("archive index unavailable");
         return response.json();
       });
