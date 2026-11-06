@@ -4,6 +4,15 @@ on:
     # Bangkok UTC+7: daily 10:00. GitHub may delay scheduled execution.
     - cron: '0 3 * * *'
   workflow_dispatch:
+    inputs:
+      comments_only:
+        description: Backfill archived comments without collecting new posts
+        type: boolean
+        default: false
+      comments_limit:
+        description: Maximum archived posts to backfill (0 means all)
+        type: number
+        default: 0
 permissions:
   contents: write
 concurrency:
@@ -27,7 +36,17 @@ jobs:
       - name: Regression tests
         run: python -m unittest discover -s tests -v
       - name: Collect and checkpoint posts
+        if: '!inputs.comments_only'
         run: python -u archiver.py --pages 10 --workers 3 --publish
+      - name: Backfill missing comments, replies and emoticons
+        env:
+          COMMENTS_LIMIT: ${{ inputs.comments_limit || 0 }}
+        run: |
+          if [ "$COMMENTS_LIMIT" -gt 0 ]; then
+            python -u archiver.py --backfill-comments --workers 3 --comments-limit "$COMMENTS_LIMIT" --publish
+          else
+            python -u archiver.py --backfill-comments --workers 3 --publish
+          fi
       - name: Preserve checkpoint on failure
         if: failure()
         run: |

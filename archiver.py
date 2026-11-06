@@ -8,6 +8,7 @@ from pathlib import Path
 import re
 import subprocess
 import time
+from threading import Lock
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 from urllib.parse import urljoin, urlparse
@@ -18,12 +19,18 @@ import requests
 from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+from comments import COMMENT_VERSION, CommentFetchError, fetch_comment_pages, normalize_comments
+from presentation import article_page, list_page, saved_article, UI_VERSION
+from archive_ui import POSTS_PER_LIST_PAGE, list_page_path
+from storage import capacity
 
 ROOT = Path(__file__).resolve().parent
 BASE = 'https://gall.dcinside.com'
 LIST = BASE + '/board/lists/?id=dcbest&page={}'
 MAX_MEDIA = 12 * 1024 * 1024
 MEDIA_ARCHIVE_VERSION = 2
+_comment_media_cache = {}
+_comment_cache_lock = Lock()
 TAGS = frozenset({'p','div','span','br','b','strong','i','em','u','s','blockquote',
                   'ul','ol','li','a','img','video','audio','source','h1','h2','h3',
                   'table','tbody','tr','th','td','hr','pre','code','figure','figcaption'})
@@ -193,12 +200,22 @@ def archive_post(s, post):
     date = doc.select_one('.gall_date')
     entry['published'] = date.get('title',date.get_text(strip=True)) if date else ''
     notice = '<p class="notice">일부 미디어는 원본 링크로 남아 있습니다.</p>' if warnings else ''
-    page = shell(entry['title'], '<header><a href="../index.html">← 디시 아카이브</a></header>'
-                 + '<h1>' + html.escape(entry['title']) + '</h1><p class="meta">원문 작성(KST): '
-                 + html.escape(entry['published']) + ' · 보관(Bangkok): ' + entry['archived_at']
-                 + ' · <a rel="noreferrer" href="' + html.escape(post['source_url'],quote=True)
-                 + '">원문 보기</a></p>' + notice + '<article>' + content + '</article>'
-                 + '<footer>공개 본문과 지원 미디어를 보관합니다. 댓글은 보관하지 않습니다.</footer>')
+    comments = None
+    # Preserve the article even when the independent comments endpoint is down.
+    try:
+        comments,stats = get_comments(s,entry,doc)
+        entry.update(stats)
+        save('comments/'+post['id']+'.json',comments)
+    except (requests.RequestException,CommentFetchError) as error:
+        comments=load('comments/'+post['id']+'.json',None)
+        if comments is not None:
+            old=next((e for e in load('archive.json',[]) if e['id']==post['id']),{})
+            entry.update({k:v for k,v in old.items() if k.startswith('comment') or
+                          k in ('archived_comment_count','source_comment_count')})
+        entry['comment_status'] = 'pending_refresh' if comments is not None else 'pending'
+        print(f'Comments pending {post["id"]}: {error}',flush=True)
+    entry['ui_version'] = UI_VERSION
+    page = article_page(entry,content,comments)
     path = ROOT / 'posts' / (post['id'] + '.html')
     path.parent.mkdir(exist_ok=True)
     path.write_text(page,encoding='utf-8')
@@ -211,22 +228,114 @@ def shell(title, content):
 
 def render(entries):
     entries = sorted(entries,key=lambda e:int(e['id']),reverse=True)
-    count = max(1,(len(entries)+49)//50)
-    def link(n):
-        return 'index.html' if n == 1 else f'page-{n}.html'
+    count = max(1,(len(entries)+POSTS_PER_LIST_PAGE-1)//POSTS_PER_LIST_PAGE)
     for number in range(1,count+1):
-        nav = '<nav>' + ' '.join(f'<a href="{link(n)}">{n}</a>' for n in range(max(1,number-4),min(count,number+4)+1)) + '</nav>'
-        rows = ''.join('<li class="post"><a data-post="' + e['id'] + '" href="posts/' + e['id'] + '.html">' + html.escape(e['title']) + '</a><div class="meta">' + html.escape(e.get('published','')) + '</div></li>' for e in entries[(number-1)*50:number*50])
-        content = '<h1>디시 아카이브</h1><header>실시간 베스트 · 총 ' + str(len(entries)) + '개 · 매일 방콕 오전 10시 예약<br>개인 열람용 비공식 보관소 · <a href="https://gall.dcinside.com/board/lists/?id=dcbest">원본 실베</a></header><input id="search" type="search" placeholder="이 페이지 제목 검색" aria-label="제목 검색">' + nav + '<ul class="posts">' + rows + '</ul>' + nav
-        content += '''<script>const seen=JSON.parse(localStorage.getItem('dc-read')||'[]');document.querySelectorAll('[data-post]').forEach(a=>{if(seen.includes(a.dataset.post))a.classList.add('read');a.onclick=()=>{if(!seen.includes(a.dataset.post))seen.push(a.dataset.post);localStorage.setItem('dc-read',JSON.stringify(seen));};});document.getElementById('search').oninput=e=>document.querySelectorAll('li.post').forEach(li=>li.hidden=!li.textContent.toLowerCase().includes(e.target.value.toLowerCase()));</script>'''
-        (ROOT/link(number)).write_text(shell('디시 아카이브',content),encoding='utf-8')
+        (ROOT/list_page_path(number)).write_text(list_page(entries,number),encoding='utf-8')
     (ROOT/'.nojekyll').touch()
 
 
+def get_comments(s,post,doc):
+    rows,reported = fetch_comment_pages(s,post,doc)
+    def download(url,warnings):
+        with _comment_cache_lock:
+            cached = _comment_media_cache.get(url)
+        if cached and (ROOT/cached[3:]).is_file():
+            return cached
+        path = media(s,url,'comment-media',post['source_url'],warnings)
+        if path.startswith('../assets/'):
+            with _comment_cache_lock:
+                _comment_media_cache[url] = path
+        return path
+    comments,warnings = normalize_comments(rows,post,download)
+    retry_media = any(w.startswith('미디어 원본 유지') and 'Media exceeds' not in w
+                      and 'Unsupported media type' not in w for w in warnings)
+    return comments,{'comment_archive_version':COMMENT_VERSION,'comment_status':'complete',
+                     'archived_comment_count':len(comments),'source_comment_count':reported,
+                     'comments_archived_at':now(),'comment_media_warnings':warnings,
+                     'comment_media_retry_needed':retry_media}
+
+
+def retheme():
+    entries = load('archive.json',[])
+    for entry in entries:
+        path = ROOT/'posts'/(entry['id']+'.html')
+        content = saved_article(path.read_text(encoding='utf-8'))
+        comments = load('comments/'+entry['id']+'.json',None)
+        path.write_text(article_page(entry,content,comments),encoding='utf-8')
+        entry['ui_version'] = UI_VERSION
+    save('archive.json',entries)
+    render(entries)
+    print(f'Applied shared Dogdrip layout to {len(entries)} posts',flush=True)
+
+
+def backfill_comments(do_publish=False,workers=3,limit=None):
+    entries = load('archive.json',[])
+    with _comment_cache_lock:
+        _comment_media_cache.update(load('comment-media-cache.json',{}))
+    candidates = sorted([e for e in entries if
+        e.get('comment_archive_version',0) < COMMENT_VERSION or
+        e.get('comment_status') == 'pending_refresh' or
+        e.get('comment_media_retry_needed')],key=lambda e:int(e['id']),reverse=True)
+    if limit is not None:
+        candidates = candidates[:limit]
+    failures,successes = [],0
+    def process(post):
+        s=session()
+        try:
+            doc=document(s,post['source_url'])
+            comments,stats=get_comments(s,post,doc)
+            return post,comments,stats,None
+        except (requests.RequestException,CommentFetchError,RuntimeError) as error:
+            return post,None,None,str(error)
+        finally:
+            s.close()
+            time.sleep(0.5)
+    # Submit bounded batches: an origin outage must not spawn hundreds of retries.
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        for offset in range(0,len(candidates),workers):
+            batch=candidates[offset:offset+workers]
+            result=list(executor.map(process,batch))
+            for post,comments,stats,error in result:
+                print(f'Comments {offset+batch.index(post)+1}/{len(candidates)}: {post["id"]} '+(error or f'{len(comments)} saved'),flush=True)
+                if error:
+                    failures.append(post['id'])
+                    continue
+                post.update(stats)
+                path=ROOT/'posts'/(post['id']+'.html')
+                content=saved_article(path.read_text(encoding='utf-8'))
+                path.write_text(article_page(post,content,comments),encoding='utf-8')
+                save('comments/'+post['id']+'.json',comments)
+                successes+=1
+            save('archive.json',entries)
+            with _comment_cache_lock:
+                save('comment-media-cache.json',_comment_media_cache)
+            if do_publish and successes and successes % 15 < workers:
+                publish()
+            if result and all(error is not None and '404' not in error
+                              for _,_,_,error in result):
+                print('Comment source unavailable for the entire batch; keeping remaining work queued.',flush=True)
+                break
+    save('comments-status.json',{'checked_at':now(),'saved_this_run':successes,
+         'incomplete_posts':[e['id'] for e in entries if e.get('comment_archive_version',0)<COMMENT_VERSION or e.get('comment_status')=='pending_refresh'],
+         'failed_this_run':failures})
+    if do_publish:
+        publish()
+    if failures:
+        raise CommentFetchError('Comment backfill incomplete; preserved prior comments and pending work')
+    return successes
+
+
 def publish():
+    report=capacity(ROOT)
+    save('capacity-report.json',dict(report,checked_at=now()))
+    if report['warning']:
+        print('::warning::Active media exceeds the 2 GiB soft threshold. Review separate storage; no data was deleted.',flush=True)
     subprocess.run(['git','add','archive.json','pending.json','state.json','index.html','posts','assets','.nojekyll'],cwd=ROOT,check=True)
     for page in ROOT.glob('page-*.html'):
         subprocess.run(['git','add',page.name],cwd=ROOT,check=True)
+    for name in ('comments','comment-media-cache.json','comments-status.json','capacity-report.json'):
+        if (ROOT/name).exists():
+            subprocess.run(['git','add',name],cwd=ROOT,check=True)
     changed = subprocess.run(['git','diff','--cached','--quiet'],cwd=ROOT).returncode
     if changed:
         subprocess.run(['git','commit','--quiet','-m','Update real-time best archive'],cwd=ROOT,check=True)
@@ -240,6 +349,8 @@ def publish():
 
 def collect(pages=10, do_publish=False, workers=1, retry_media=False):
     s = session()
+    with _comment_cache_lock:
+        _comment_media_cache.update(load('comment-media-cache.json',{}))
     entries = load('archive.json',[])
     state = load('state.json',{})
     pending = {p['id']:p for p in load('pending.json',[])}
@@ -273,6 +384,8 @@ def collect(pages=10, do_publish=False, workers=1, retry_media=False):
         state['last_seen_id'] = max(highwater,max(int(p['id']) for p in discovered))
     state.update(initialized=True,bootstrap_pages=pages,last_discovery_at=now())
     save('state.json',state)
+    with _comment_cache_lock:
+        save('comment-media-cache.json',_comment_media_cache)
     save('pending.json',list(pending.values()))
     save('archive.json',entries)
     (ROOT/'posts').mkdir(exist_ok=True)
@@ -310,6 +423,8 @@ def collect(pages=10, do_publish=False, workers=1, retry_media=False):
     state['last_run_failed_ids'] = failures
     save('state.json',state)
     if do_publish:
+        with _comment_cache_lock:
+            save('comment-media-cache.json',_comment_media_cache)
         publish()
     print(f'Finished: {len(entries)} archived; {len(failures)} pending failures',flush=True)
     if failures:
@@ -323,8 +438,17 @@ if __name__ == '__main__':
     parser.add_argument('--render',action='store_true')
     parser.add_argument('--workers',type=int,choices=range(1,5),default=1)
     parser.add_argument('--retry-media',action='store_true')
+    parser.add_argument('--retheme',action='store_true')
+    parser.add_argument('--backfill-comments',action='store_true')
+    parser.add_argument('--comments-limit',type=int)
     args = parser.parse_args()
-    if args.render:
+    if args.retheme:
+        retheme()
+        if args.publish:
+            publish()
+    elif args.backfill_comments:
+        backfill_comments(args.publish,args.workers,args.comments_limit)
+    elif args.render:
         render(load('archive.json',[]))
     else:
         collect(args.pages,args.publish,args.workers,args.retry_media)
