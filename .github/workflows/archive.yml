@@ -1,0 +1,37 @@
+name: Daily DCInside Archive
+on:
+  schedule:
+    # Bangkok UTC+7: daily 10:00. GitHub may delay scheduled execution.
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: dcinside-archive-collector
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Configure archive author
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Regression tests
+        run: python -m unittest discover -s tests -v
+      - name: Collect and checkpoint posts
+        run: python -u archiver.py --pages 10 --publish
+      - name: Preserve checkpoint on failure
+        if: failure()
+        run: |
+          if [ -f archive.json ]; then
+            python archiver.py --render
+            python -c 'from archiver import publish; publish()'
+          fi
