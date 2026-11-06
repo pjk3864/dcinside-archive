@@ -23,6 +23,7 @@ ROOT = Path(__file__).resolve().parent
 BASE = 'https://gall.dcinside.com'
 LIST = BASE + '/board/lists/?id=dcbest&page={}'
 MAX_MEDIA = 12 * 1024 * 1024
+MEDIA_ARCHIVE_VERSION = 2
 TAGS = frozenset({'p','div','span','br','b','strong','i','em','u','s','blockquote',
                   'ul','ol','li','a','img','video','audio','source','h1','h2','h3',
                   'table','tbody','tr','th','td','hr','pre','code','figure','figcaption'})
@@ -146,9 +147,20 @@ def archive_post(s, post):
     if body is None or title is None:
         raise RuntimeError('Post body missing: ' + post['source_url'])
     warnings = []
-    for tag in body.select('script,style,iframe,object,embed,form,input,button'):
+    for tag in body.select('iframe,embed'):
+        source = tag.get('src','')
+        if source.startswith(('https://','http://','//')):
+            link = doc.new_tag('a',href=urljoin(post['source_url'],source))
+            link.string = '[외부 동영상 원본 열기]'
+            tag.replace_with(link)
+        else:
+            tag.decompose()
+    for tag in body.select('script,style,object,form,input,button'):
         tag.decompose()
     for tag in body.find_all(True):
+        if tag.name == 'img':
+            # Lazy-loaded DC images put the real URL in data-original, not src.
+            tag['src'] = tag.get('data-original') or tag.get('data-src') or tag.get('src','')
         for attr in ('src','poster'):
             value = tag.get(attr)
             if not value:
@@ -170,7 +182,7 @@ def archive_post(s, post):
                                        'source':['src','type'], 'td':['colspan','rowspan']},
                            protocols=['http','https'], strip=True)
     entry = dict(post, title=title.get_text(' ',strip=True), archived_at=now(),
-                 media_warnings=warnings)
+                 media_warnings=warnings, media_archive_version=MEDIA_ARCHIVE_VERSION)
     date = doc.select_one('.gall_date')
     entry['published'] = date.get('title',date.get_text(strip=True)) if date else ''
     notice = '<p class="notice">일부 미디어는 원본 링크로 남아 있습니다.</p>' if warnings else ''
@@ -224,10 +236,9 @@ def collect(pages=10, do_publish=False, workers=1, retry_media=False):
     entries = load('archive.json',[])
     state = load('state.json',{})
     pending = {p['id']:p for p in load('pending.json',[])}
-    if retry_media:
-        for entry in entries:
-            if entry.get('media_warnings'):
-                pending[entry['id']] = {k:entry[k] for k in ('id','title','source_url')}
+    for entry in entries:
+        if (retry_media and entry.get('media_warnings')) or entry.get('media_archive_version',0) < MEDIA_ARCHIVE_VERSION:
+            pending[entry['id']] = {k:entry[k] for k in ('id','title','source_url')}
     known = {p['id'] for p in entries if p['id'] not in pending}
     highwater = int(state.get('last_seen_id',0))
     discovered = []

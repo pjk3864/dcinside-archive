@@ -7,6 +7,12 @@ import archiver as a
 
 
 class ArchiveTests(unittest.TestCase):
+    def test_lazy_image_uses_original_not_placeholder(self):
+        doc = BeautifulSoup('<span class="title_subject">safe</span><div class="write_div"><img src="https://nstatic.dcinside.com/loading.gif" data-original="https://dcimg6.dcinside.co.kr/real.jpg"></div>','html.parser')
+        with tempfile.TemporaryDirectory() as tmp, patch.object(a,'ROOT',Path(tmp)), patch.object(a,'document',return_value=doc), patch.object(a,'media',return_value='../assets/1/real.jpg') as media:
+            a.archive_post(None,{'id':'1','source_url':'https://gall.dcinside.com/board/view/?id=dcbest&no=1'})
+            self.assertEqual(media.call_args.args[1],'https://dcimg6.dcinside.co.kr/real.jpg')
+
     def test_octet_stream_image_is_saved(self):
         from unittest.mock import MagicMock
         response = MagicMock()
@@ -54,7 +60,7 @@ class ArchiveTests(unittest.TestCase):
         old = {'id':'1','title':'retry','source_url':'https://gall.dcinside.com/'}
         with tempfile.TemporaryDirectory() as tmp, patch.object(a,'ROOT',Path(tmp)), patch.object(a,'session'), patch.object(a,'document'), patch.object(a,'parse_list',return_value=[{'id':'3','title':'known'}]), patch.object(a,'archive_post',return_value=dict(old,published='')) as archive, patch.object(a.time,'sleep'):
             a.save('state.json',{'initialized':True,'last_seen_id':3})
-            a.save('archive.json',[{'id':'3','title':'known'}])
+            a.save('archive.json',[{'id':'3','title':'known','media_archive_version':a.MEDIA_ARCHIVE_VERSION}])
             a.save('pending.json',[old])
             a.collect()
             self.assertEqual(archive.call_args.args[1]['id'],'1')
