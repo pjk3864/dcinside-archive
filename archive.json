@@ -2848,18 +2848,6 @@
     "published": "2026-11-05 09:56:02"
   },
   {
-    "id": "475744",
-    "title": "재혼황후 보면서 더 아쉬운 여배우",
-    "source_url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475744",
-    "archived_at": "2026-11-06T20:38:18+07:00",
-    "media_warnings": [
-      "미디어 원본 유지 (Empty media): https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bee67fc5c3429f58f756214ebda45d086901cc4ee8c21ab28243b50bcd00728acd49bdbeeb04d132cbf5aa06f7f12180",
-      "미디어 원본 유지 (Empty media): https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bee67fc5c3429f58f756214ebda45d086706ce47e4c72dff198768385c862cb19f09fe49427b84c154cb8a40a3acb43b"
-    ],
-    "media_archive_version": 2,
-    "published": "2026-11-05 09:51:03"
-  },
-  {
     "id": "475740",
     "title": "데센<<이거 ㅈㄴ 웃긴 게 미국여조보면",
     "source_url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475740",
@@ -4442,17 +4430,6 @@
     "published": "2026-11-03 22:55:02"
   },
   {
-    "id": "475318",
-    "title": "[Official]코시 1차전 MVP 올려라",
-    "source_url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475318",
-    "archived_at": "2026-11-06T20:42:32+07:00",
-    "media_warnings": [
-      "미디어 원본 유지 (Empty media): https://dcimg3.dcinside.co.kr/viewimage.php?id=26a9c72fff&no=24b0d769e1d32ca73ce782fa11d02831c544c0747503709e757c5254a53bfc8cac197c9e8999a73a2f324bbe08543208839ba7617019260e1076ae47025ad079821d8013fe060112dc1334"
-    ],
-    "media_archive_version": 2,
-    "published": "2026-11-03 22:35:02"
-  },
-  {
     "id": "475316",
     "title": "日, 중위연령 50세 넘었다... 일본은 50대가 젊은 층!",
     "source_url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475316",
@@ -4595,5 +4572,63 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-06 22:30:02"
+  },
+  {
+    "id": "475744",
+    "title": "재혼황후 보면서 더 아쉬운 여배우",
+    "source_url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475744",
+    "archived_at": "2026-11-06T20:47:42+07:00",
+    "media_warnings": [
+      "미디어 원본 유지 (Empty media): https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bee67fc5c3429f58f756214ebda45d086901cc4ee8c21ab28243b50bcd00728acd49bdbeeb04d132cbf5aa06f7f12180",
+      "미디어 원본 유지 (Empty media): https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bee67fc5c3429f58f756214ebda45d086706ce47e4c72dff198768385c862cb19f09fe49427b84c154cb8a40a3acb43b"
+    ],
+    "media_archive_version": 2,
+    "media_retry_needed": true,
+    "published": "2026-11-05 09:51:03"
+  },
+  {
+    "id": "475318",
+    "title": "[Official]코시 1차전 MVP 올려라",
+    "source_url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475318",
+    "archived_at": "2026-11-06T20:48:34+07:00",
+    "media_warnings": [
+      "미디어 원본 유지 (Empty media): https://dcimg3.dcinside.co.kr/viewimage.php?id=26a9c72fff&no=24b0d769e1d32ca73ce782fa11d02831c544c0747503709e757c5254a53bfc8cac197c9e8999a73a2f324bbe08543208839ba7617019260e1076ae47025ad079821d8013fe060112dc1334"
+    ],
+    "media_archive_version": 2,
+    "media_retry_needed": true,
+    "published": "2026-11-03 22:35:02"
+  },
+  {
+    "id": "476399",
+    "title": "부캉이 닮은 AI 수중로봇 띄우자\"…부산시의회",
+    "source_url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476399",
+    "archived_at": "2026-11-06T20:47:23+07:00",
+    "media_warnings": [],
+    "media_archive_version": 2,
+    "media_retry_needed": false,
+    "published": "2026-11-06 22:45:02"
+  },
+  {
+    "id": "476397",
+    "title": "미소녀들이 늘어가는 일본근황",
+    "source_url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476397",
+    "archived_at": "2026-11-06T20:47:26+07:00",
+    "media_warnings": [],
+    "media_archive_version": 2,
+    "media_retry_needed": false,
+    "published": "2026-11-06 22:40:02"
+  },
+  {
+    "id": "476394",
+    "title": "오픈AI 도게자 박았노 ㅋㅋㅋ",
+    "source_url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476394",
+    "archived_at": "2026-11-06T20:47:28+07:00",
+    "media_warnings": [
+      "외부 미디어 원본 유지: https://imgnews.pstatic.net/image/052/2026/11/06/202611061014416922_t_20261106101820983.jpg?type=w800",
+      "외부 미디어 원본 유지: https://imgnews.pstatic.net/image/016/2026/11/06/0002719725_001_20261106092913733.jpg?type=w800"
+    ],
+    "media_archive_version": 2,
+    "media_retry_needed": false,
+    "published": "2026-11-06 22:35:02"
   }
 ]
