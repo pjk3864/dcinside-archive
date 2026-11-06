@@ -1,0 +1,822 @@
+[
+  {
+    "id": "267236604",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 09:35:24",
+    "depth": 0,
+    "body": "시스템 프롬프트에 인프라 아끼려고 뭐 집어넣은거같음. 지난주에 비해 보상해킹으로 작업 최소한으로 하고 끊는거 개심해짐",
+    "body_html": "시스템 프롬프트에 인프라 아끼려고 뭐 집어넣은거같음. 지난주에 비해 보상해킹으로 작업 최소한으로 하고 끊는거 개심해짐",
+    "deleted": false
+  },
+  {
+    "id": "267236611",
+    "parent_id": "267236604",
+    "author": "ㅇㅇ",
+    "published": "11.04 09:37:32",
+    "depth": 1,
+    "body": "두번 더 파일은 안주고 이빨 털길래. 최종파일 만들어질때까지 닥치고 하라니깐 마지막에 결과는 뱉어내긴하네",
+    "body_html": "두번 더 파일은 안주고 이빨 털길래. 최종파일 만들어질때까지 닥치고 하라니깐 마지막에 결과는 뱉어내긴하네",
+    "deleted": false
+  },
+  {
+    "id": "267236612",
+    "parent_id": "267236604",
+    "author": "ㅇㅇ",
+    "published": "11.04 09:38:20",
+    "depth": 1,
+    "body": "밑에 애들 말대로 goal 걸면 괜찮긴한데 이거도 명세 제대로 안짜주면 딱 문자 그대로 시킨거만 하고 끊으니까 설계 문서 넣고 시켜",
+    "body_html": "밑에 애들 말대로 goal 걸면 괜찮긴한데 이거도 명세 제대로 안짜주면 딱 문자 그대로 시킨거만 하고 끊으니까 설계 문서 넣고 시켜",
+    "deleted": false
+  },
+  {
+    "id": "267236615",
+    "parent_id": "267236604",
+    "author": "ㅇㅇ",
+    "published": "11.04 09:41:00",
+    "depth": 1,
+    "body": "ㄹㅇ 뭔 별것도 아닌거 해놓고 끊더라 정작 기능 구현도 안됐는데",
+    "body_html": "ㄹㅇ 뭔 별것도 아닌거 해놓고 끊더라 정작 기능 구현도 안됐는데",
+    "deleted": false
+  },
+  {
+    "id": "267236605",
+    "parent_id": "",
+    "author": "ㅇㅇ1",
+    "published": "11.04 09:36:30",
+    "depth": 0,
+    "body": "사용자 능지 문제 같은데 왜 목표 goal 설정도 안하고 파트 섹션 나눠서 병렬 섹션 안돌림???!!  \n파트 통합할 메인 AI 오케스트레이션에 시니어 엔지니어 페르소나 부여해놓고 하면되는데",
+    "body_html": "사용자 능지 문제 같은데 왜 목표 goal 설정도 안하고 파트 섹션 나눠서 병렬 섹션 안돌림???!!  \n파트 통합할 메인 AI 오케스트레이션에 시니어 엔지니어 페르소나 부여해놓고 하면되는데",
+    "deleted": false
+  },
+  {
+    "id": "267236613",
+    "parent_id": "267236605",
+    "author": "ㅇㅇ",
+    "published": "11.04 09:39:27",
+    "depth": 1,
+    "body": "오!",
+    "body_html": "오!",
+    "deleted": false
+  },
+  {
+    "id": "267236616",
+    "parent_id": "267236605",
+    "author": "ㅇㅇ1",
+    "published": "11.04 09:46:38",
+    "depth": 1,
+    "body": "@글쓴 ㅇㅇ(118.218)\n이녀석 해결 방법을 가져오는 글에 통달했구나",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@글쓴 ㅇㅇ(118.218)</a> 이녀석 해결 방법을 가져오는 글에 통달했구나",
+    "deleted": false
+  },
+  {
+    "id": "267236606",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 09:36:52",
+    "depth": 0,
+    "body": "/goal 써보셈",
+    "body_html": "/goal 써보셈",
+    "deleted": false
+  },
+  {
+    "id": "267236614",
+    "parent_id": "267236606",
+    "author": "ㅇㅇ",
+    "published": "11.04 09:40:30",
+    "depth": 1,
+    "body": "goal쓰니 반성하네 완성될때까지 거짓말 안하겠다고",
+    "body_html": "goal쓰니 반성하네 완성될때까지 거짓말 안하겠다고",
+    "deleted": false
+  },
+  {
+    "id": "267236607",
+    "parent_id": "",
+    "author": "ㅇㅇ2",
+    "published": "11.04 09:38:50",
+    "depth": 0,
+    "body": "시발 나랑 완벽히 똑같네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 개좆같음....문제는 클로드도 저지랄한다는것임.. 그래서 지금 코딩 잠깐 쉴까 생각중...다음 모델 나오면 또 괜찮아 질까 싶기도 하고....좆나 욕하면서 나도 저렇게 표로 출력해서 하나씩 하나씩 일 시켜가는데 겨우 다 완성하면 버그 좆나 터짐. 버그 또 전수조사 해오면 저 체크표 지옥 또 시작이고....클로드에게 리뷰&수정 맡겨도 마찬가지...지금 좀 좆같아...진도가 좆나 안나가",
+    "body_html": "시발 나랑 완벽히 똑같네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 개좆같음....문제는 클로드도 저지랄한다는것임.. 그래서 지금 코딩 잠깐 쉴까 생각중...다음 모델 나오면 또 괜찮아 질까 싶기도 하고....좆나 욕하면서 나도 저렇게 표로 출력해서 하나씩 하나씩 일 시켜가는데 겨우 다 완성하면 버그 좆나 터짐. 버그 또 전수조사 해오면 저 체크표 지옥 또 시작이고....클로드에게 리뷰&amp;수정 맡겨도 마찬가지...지금 좀 좆같아...진도가 좆나 안나가",
+    "deleted": false
+  },
+  {
+    "id": "267236608",
+    "parent_id": "",
+    "author": "파이는파이다",
+    "published": "11.04 09:39:28",
+    "depth": 0,
+    "body": "챗으로 해서 그런거 아님?",
+    "body_html": "챗으로 해서 그런거 아님?",
+    "deleted": false
+  },
+  {
+    "id": "267236609",
+    "parent_id": "",
+    "author": "ㅇㅇ2",
+    "published": "11.04 09:40:13",
+    "depth": 0,
+    "body": "1달전만해도 코딩 시키면 버그 거의 없이 완벽하던게 지금 10월 이후부터 좆나 터짐",
+    "body_html": "1달전만해도 코딩 시키면 버그 거의 없이 완벽하던게 지금 10월 이후부터 좆나 터짐",
+    "deleted": false
+  },
+  {
+    "id": "267236610",
+    "parent_id": "",
+    "author": "ㅇㅇ3",
+    "published": "11.04 09:41:06",
+    "depth": 0,
+    "body": "프롬프트와 폰트만 봐도 AI를 제대로 쓰는 사람은 아닌듯..",
+    "body_html": "프롬프트와 폰트만 봐도 AI를 제대로 쓰는 사람은 아닌듯..",
+    "deleted": false
+  },
+  {
+    "id": "267236617",
+    "parent_id": "267236610",
+    "author": "ㅇㅇ",
+    "published": "11.04 09:54:40",
+    "depth": 1,
+    "body": "초보 맞긴해. 내가 뭘 알아야 상세히 시키지 ㅋ\n대충 채팅창 클라우드화 시키는 것만 시키면 될줄 알았지 ㅋ 코덱스한테 시켰어야 했나?",
+    "body_html": "초보 맞긴해. 내가 뭘 알아야 상세히 시키지 ㅋ\n대충 채팅창 클라우드화 시키는 것만 시키면 될줄 알았지 ㅋ 코덱스한테 시켰어야 했나?",
+    "deleted": false
+  },
+  {
+    "id": "267244469",
+    "parent_id": "267236610",
+    "author": "ㄱㄱㄱ",
+    "published": "11.04 13:25:30",
+    "depth": 1,
+    "body": "@글쓴 ㅇㅇ(118.218)\n당연한 소리를 하냐 \n누가 개발을 채팅창으로해",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@글쓴 ㅇㅇ(118.218)</a> 당연한 소리를 하냐 \n누가 개발을 채팅창으로해",
+    "deleted": false
+  },
+  {
+    "id": "267236629",
+    "parent_id": "",
+    "author": "땨뗘(봇)",
+    "published": "11.04 11:11:07",
+    "depth": 0,
+    "body": "ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n⛔❗✨ 실베 절취선 ✨❗⛔\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ",
+    "body_html": "ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n⛔❗✨ 실베 절취선 ✨❗⛔\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ",
+    "deleted": false
+  },
+  {
+    "id": "267236760",
+    "parent_id": "",
+    "author": "PP사비",
+    "published": "11.04 11:13:42",
+    "depth": 0,
+    "body": "요즘 ai 트랜드가 신버전 나올때 우리 깨쩜 하고 홍보 오지게 한다음에\n실사용자들 이용할때 은근슬쩍 너프해서 리소스 아끼는거 모름?",
+    "body_html": "요즘 ai 트랜드가 신버전 나올때 우리 깨쩜 하고 홍보 오지게 한다음에\n실사용자들 이용할때 은근슬쩍 너프해서 리소스 아끼는거 모름?",
+    "deleted": false
+  },
+  {
+    "id": "267236915",
+    "parent_id": "267236760",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:16:31",
+    "depth": 1,
+    "body": "원래 그럼 ㅇㅇ 신모델 출시할때 한 일주일정도 풀출력으로 해주고 그이후부터 모델성능 조금씩 내려서 붕신뎀 - dc App",
+    "body_html": "원래 그럼 ㅇㅇ 신모델 출시할때 한 일주일정도 풀출력으로 해주고 그이후부터 모델성능 조금씩 내려서 붕신뎀 - dc App",
+    "deleted": false
+  },
+  {
+    "id": "267236764",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:13:47",
+    "depth": 0,
+    "body": "유료버전 팔려고 병신만들어 놨더라 ㅋㅋㅋ",
+    "body_html": "유료버전 팔려고 병신만들어 놨더라 ㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267236938",
+    "parent_id": "267236764",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:17:04",
+    "depth": 1,
+    "body": "무료로 풀어주는 것에 감사해라. 그록은 그냥 씹창남",
+    "body_html": "무료로 풀어주는 것에 감사해라. 그록은 그냥 씹창남",
+    "deleted": false
+  },
+  {
+    "id": "267236767",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:13:53",
+    "depth": 0,
+    "body": "gtp는 뭐임?",
+    "body_html": "gtp는 뭐임?",
+    "deleted": false
+  },
+  {
+    "id": "267236811",
+    "parent_id": "267236767",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:14:40",
+    "depth": 1,
+    "body": "오타",
+    "body_html": "오타",
+    "deleted": false
+  },
+  {
+    "id": "267236778",
+    "parent_id": "",
+    "author": "앤드류그레이브스",
+    "published": "11.04 11:14:07",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"13\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/206123f719aec2d65ce68e5f.png\" title=\"13\">",
+    "deleted": false
+  },
+  {
+    "id": "267236799",
+    "parent_id": "267236778",
+    "author": "앤드류그레이브스",
+    "published": "11.04 11:14:24",
+    "depth": 1,
+    "body": "gtp가 맞나 순간 당황했네",
+    "body_html": "gtp가 맞나 순간 당황했네",
+    "deleted": false
+  },
+  {
+    "id": "267236838",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:15:08",
+    "depth": 0,
+    "body": "병신",
+    "body_html": "병신",
+    "deleted": false
+  },
+  {
+    "id": "267236855",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:15:32",
+    "depth": 0,
+    "body": "하나하나 말해줘야지 자기가 그냥 대충 '모든' 이렇게 써놓으면 AI가 어케 알아먹냐? 그건 사람한테 말해도 죽탱이 날라온다 ㅋㅋㅋㅋ",
+    "body_html": "하나하나 말해줘야지 자기가 그냥 대충 '모든' 이렇게 써놓으면 AI가 어케 알아먹냐? 그건 사람한테 말해도 죽탱이 날라온다 ㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267236937",
+    "parent_id": "267236855",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:17:03",
+    "depth": 1,
+    "body": "상사가 '야 걍 보고서 다 써와. 다 써올 때까지 퇴근하지마' 이러고 뭘 써야될지 안알려주면 '아 내가 병신이니까 퇴근하지 말고 일 해야지' 이럴까 아니면 '도대체 뭘 하라는 건지 인수인계도 안해주고 이딴 개좆소 퇴사마렵네 씨발' 이럴까? ㅋㅋㅋㅋ",
+    "body_html": "상사가 '야 걍 보고서 다 써와. 다 써올 때까지 퇴근하지마' 이러고 뭘 써야될지 안알려주면 '아 내가 병신이니까 퇴근하지 말고 일 해야지' 이럴까 아니면 '도대체 뭘 하라는 건지 인수인계도 안해주고 이딴 개좆소 퇴사마렵네 씨발' 이럴까? ㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267237343",
+    "parent_id": "267236855",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:25:26",
+    "depth": 1,
+    "body": "@ㅇㅇ(124.49)\n푸하하",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ(124.49)</a> 푸하하",
+    "deleted": false
+  },
+  {
+    "id": "267237985",
+    "parent_id": "267236855",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:40:23",
+    "depth": 1,
+    "body": "@ㅇㅇ(124.49)\n이게맞음",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ(124.49)</a> 이게맞음",
+    "deleted": false
+  },
+  {
+    "id": "267238190",
+    "parent_id": "267236855",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:45:51",
+    "depth": 1,
+    "body": "원래 꼰대는 무지에서나온다",
+    "body_html": "원래 꼰대는 무지에서나온다",
+    "deleted": false
+  },
+  {
+    "id": "267236912",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:16:20",
+    "depth": 0,
+    "body": "다른건 둘째치고 이런 작업을 왜 PC로 안하고 스마트폰 붙잡고 하는거임?",
+    "body_html": "다른건 둘째치고 이런 작업을 왜 PC로 안하고 스마트폰 붙잡고 하는거임?",
+    "deleted": false
+  },
+  {
+    "id": "267237013",
+    "parent_id": "267236912",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:18:56",
+    "depth": 1,
+    "body": "성능차이 없으니까 그러지 ㅋㅋ",
+    "body_html": "성능차이 없으니까 그러지 ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267237142",
+    "parent_id": "267236912",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:21:05",
+    "depth": 1,
+    "body": "@ㅇㅇ\n모델 성능차이야 없을 수 있겠는데, 사용자의 환경 자체가 넘사로 다르잖아.",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ</a> 모델 성능차이야 없을 수 있겠는데, 사용자의 환경 자체가 넘사로 다르잖아.",
+    "deleted": false
+  },
+  {
+    "id": "267236979",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:18:06",
+    "depth": 0,
+    "body": "여기가 ai슬롭 만들면서 gpt한테 돈버리는 곳인가요",
+    "body_html": "여기가 ai슬롭 만들면서 gpt한테 돈버리는 곳인가요",
+    "deleted": false
+  },
+  {
+    "id": "267237016",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:19:00",
+    "depth": 0,
+    "body": "굳이 텔레그램쪽으로 뭐 만드는 새끼들 존나 수상함",
+    "body_html": "굳이 텔레그램쪽으로 뭐 만드는 새끼들 존나 수상함",
+    "deleted": false
+  },
+  {
+    "id": "267237020",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:19:02",
+    "depth": 0,
+    "body": "이 글 보고 이 글에 나온 문제점 해결 추천법을 gpt에게 물어보고 고대로 gpt 너에게 적용시켜달라고 했다",
+    "body_html": "이 글 보고 이 글에 나온 문제점 해결 추천법을 gpt에게 물어보고 고대로 gpt 너에게 적용시켜달라고 했다",
+    "deleted": false
+  },
+  {
+    "id": "267237069",
+    "parent_id": "",
+    "author": "수붕이",
+    "published": "11.04 11:20:08",
+    "depth": 0,
+    "body": "14만원 지르고 Astra ultra 써라.",
+    "body_html": "14만원 지르고 Astra ultra 써라.",
+    "deleted": false
+  },
+  {
+    "id": "267237178",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:21:51",
+    "depth": 0,
+    "body": "유룔ㄹ 처쓰면 될껄 인간이 ㅂㅅ이구만",
+    "body_html": "유룔ㄹ 처쓰면 될껄 인간이 ㅂㅅ이구만",
+    "deleted": false
+  },
+  {
+    "id": "267237180",
+    "parent_id": "",
+    "author": "미얌",
+    "published": "11.04 11:21:54",
+    "depth": 0,
+    "body": "영포티 갤 수준",
+    "body_html": "영포티 갤 수준",
+    "deleted": false
+  },
+  {
+    "id": "267237193",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:22:13",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"137\"><source src=\"../assets/comment-media/fbba2da45a7c67c260c9d3d4.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267253591",
+    "parent_id": "267237193",
+    "author": "ㅇㅇ",
+    "published": "11.04 16:09:46",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"14\"><source src=\"../assets/comment-media/7e03aca056e6823a50cc33e0.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267237320",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:24:59",
+    "depth": 0,
+    "body": "작업 계획을 턴 별로 체계화한 다음 착수해야 안 꼬이지 그냥 해줘하면 개판나는거 모르노? 그냥 모르겠으면 ai한테 작업 지시문도 써달라고 해라. 차라리 그게 낫다.",
+    "body_html": "작업 계획을 턴 별로 체계화한 다음 착수해야 안 꼬이지 그냥 해줘하면 개판나는거 모르노? 그냥 모르겠으면 ai한테 작업 지시문도 써달라고 해라. 차라리 그게 낫다.",
+    "deleted": false
+  },
+  {
+    "id": "267237341",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:25:25",
+    "depth": 0,
+    "body": "지피티뿐 아니라, 오푸스도 아직까지 다 병신이야. 뭔 시발 agi 어쩌고 떠드는데 한참 멀었다",
+    "body_html": "지피티뿐 아니라, 오푸스도 아직까지 다 병신이야. 뭔 시발 agi 어쩌고 떠드는데 한참 멀었다",
+    "deleted": false
+  },
+  {
+    "id": "267237488",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:28:41",
+    "depth": 0,
+    "body": "돈주고좀 써라 아직도 그지새끼마냥 무료로 쓰노;; 돈아깝다고 생각할지도 모르겠지만 백수새끼마냥 자포자기하고 뒤처질새끼아니면 돈주고써",
+    "body_html": "돈주고좀 써라 아직도 그지새끼마냥 무료로 쓰노;; 돈아깝다고 생각할지도 모르겠지만 백수새끼마냥 자포자기하고 뒤처질새끼아니면 돈주고써",
+    "deleted": false
+  },
+  {
+    "id": "267237530",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:29:54",
+    "depth": 0,
+    "body": "가끔씩 과도기 있음 지나면 정상으로 돌아옴. 일단 다른 ai로 갈아 탔다가 다시 정착",
+    "body_html": "가끔씩 과도기 있음 지나면 정상으로 돌아옴. 일단 다른 ai로 갈아 탔다가 다시 정착",
+    "deleted": false
+  },
+  {
+    "id": "267237705",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:33:35",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"6\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/48f460250d21e2c66d40c69b.png\" title=\"6\">",
+    "deleted": false
+  },
+  {
+    "id": "267237710",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:33:38",
+    "depth": 0,
+    "body": "폰트 뭐임? 특수체도 아닌것같은데 가독성 존나떨어지네",
+    "body_html": "폰트 뭐임? 특수체도 아닌것같은데 가독성 존나떨어지네",
+    "deleted": false
+  },
+  {
+    "id": "267237852",
+    "parent_id": "",
+    "author": "삭제됨",
+    "published": "11.04 11:37:32",
+    "depth": 0,
+    "body": "삭제된 댓글입니다.",
+    "body_html": "삭제된 댓글입니다.",
+    "deleted": true
+  },
+  {
+    "id": "267237876",
+    "parent_id": "267237852",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:38:06",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"16\"><source src=\"../assets/comment-media/61673066c141ee90279b70ad.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267238131",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:44:00",
+    "depth": 0,
+    "body": "ㅋㅋㅋ \"해줘\" 이 지랄 하니까 AI가 ㅈ같다고 탈주하지",
+    "body_html": "ㅋㅋㅋ \"해줘\" 이 지랄 하니까 AI가 ㅈ같다고 탈주하지",
+    "deleted": false
+  },
+  {
+    "id": "267238169",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:45:14",
+    "depth": 0,
+    "body": "니들이 얼마를 내든 니들한텐 싸구려 추론밖에 제공안한다고 ㅋㅋ",
+    "body_html": "니들이 얼마를 내든 니들한텐 싸구려 추론밖에 제공안한다고 ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267238509",
+    "parent_id": "267238169",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:49:54",
+    "depth": 1,
+    "body": "가격 몇백불만 올려도 화들짝 놀라서 결제 취소할 새끼들이 ㅋㅋ",
+    "body_html": "가격 몇백불만 올려도 화들짝 놀라서 결제 취소할 새끼들이 ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267238371",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:47:20",
+    "depth": 0,
+    "body": "Ai를 신처럼 모시는 애들은 하나같이 왜 유료버전을 안쓰냐",
+    "body_html": "Ai를 신처럼 모시는 애들은 하나같이 왜 유료버전을 안쓰냐",
+    "deleted": false
+  },
+  {
+    "id": "267238538",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:50:27",
+    "depth": 0,
+    "body": "gtp가 아니라 GPT임 병신아",
+    "body_html": "gtp가 아니라 GPT임 병신아",
+    "deleted": false
+  },
+  {
+    "id": "267238774",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:54:20",
+    "depth": 0,
+    "body": "이런 좃병신새끼들 특징이뭐냐면\n지가 뭘하고있는지 모름\n결과가 나와도 맞는지 틀린지 모름\n그것도 모르고 AI붙들고 하루종일 개병신짓만함\n그냥 경지새끼들임",
+    "body_html": "이런 좃병신새끼들 특징이뭐냐면\n지가 뭘하고있는지 모름\n결과가 나와도 맞는지 틀린지 모름\n그것도 모르고 AI붙들고 하루종일 개병신짓만함\n그냥 경지새끼들임",
+    "deleted": false
+  },
+  {
+    "id": "267238861",
+    "parent_id": "267238774",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:55:50",
+    "depth": 1,
+    "body": "한순간에 뚝딱되는것도아니라 1부터 100까지 차근히해야하는데\n그냥 시작부터 100해달라하니 꼬이는데 그냥 병신같이 왜안댐? 다시해줘 이짓만 하루종일 하고있음",
+    "body_html": "한순간에 뚝딱되는것도아니라 1부터 100까지 차근히해야하는데\n그냥 시작부터 100해달라하니 꼬이는데 그냥 병신같이 왜안댐? 다시해줘 이짓만 하루종일 하고있음",
+    "deleted": false
+  },
+  {
+    "id": "267263064",
+    "parent_id": "267238774",
+    "author": "ㅇㅇ",
+    "published": "11.04 19:00:22",
+    "depth": 1,
+    "body": "@ㅇㅇ(140.248)\n애초에 코딩이란거 자체가 1부터 100까지 어떻게 하면 차근히 돌아갈지 로직짜는거 아닌가? 그것조차 안하고 자아의탁하니 야랄이 나지",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ(140.248)</a> 애초에 코딩이란거 자체가 1부터 100까지 어떻게 하면 차근히 돌아갈지 로직짜는거 아닌가? 그것조차 안하고 자아의탁하니 야랄이 나지",
+    "deleted": false
+  },
+  {
+    "id": "267238969",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 11:57:13",
+    "depth": 0,
+    "body": "창작이나 공부를 안해봤나... 원래 하면서 재차 확인하는건 사람끼리도 하지 않음?",
+    "body_html": "창작이나 공부를 안해봤나... 원래 하면서 재차 확인하는건 사람끼리도 하지 않음?",
+    "deleted": false
+  },
+  {
+    "id": "267239194",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 12:00:37",
+    "depth": 0,
+    "body": "AI도 이용자가 똑똑해야함 ㅅㅂ 시키는거봐라",
+    "body_html": "AI도 이용자가 똑똑해야함 ㅅㅂ 시키는거봐라",
+    "deleted": false
+  },
+  {
+    "id": "267239351",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 12:02:43",
+    "depth": 0,
+    "body": "AI딸칵이라고 진짜 딸칵하고있네 ㅂㅅ들",
+    "body_html": "AI딸칵이라고 진짜 딸칵하고있네 ㅂㅅ들",
+    "deleted": false
+  },
+  {
+    "id": "267239412",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 12:03:39",
+    "depth": 0,
+    "body": "요청하는 꼬라지가 진짜 저능아라\n뭐라 욕하기도 미안해진다",
+    "body_html": "요청하는 꼬라지가 진짜 저능아라\n뭐라 욕하기도 미안해진다",
+    "deleted": false
+  },
+  {
+    "id": "267239730",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 12:08:22",
+    "depth": 0,
+    "body": "GPT 세 글자도 똑바로 못쓰는 장애인새끼가 뭔 평가질이노",
+    "body_html": "GPT 세 글자도 똑바로 못쓰는 장애인새끼가 뭔 평가질이노",
+    "deleted": false
+  },
+  {
+    "id": "267258495",
+    "parent_id": "267239730",
+    "author": "ㅇㅇ",
+    "published": "11.04 17:46:14",
+    "depth": 1,
+    "body": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267240932",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 12:26:06",
+    "depth": 0,
+    "body": "GTP는 구아노신 삼인산염이고.. - 의대생",
+    "body_html": "GTP는 구아노신 삼인산염이고.. - 의대생",
+    "deleted": false
+  },
+  {
+    "id": "267241110",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 12:29:46",
+    "depth": 0,
+    "body": "그냥 다 해줘는 ai도 못 한다\n요구하는바를 정확히 얘기해야 해주지",
+    "body_html": "그냥 다 해줘는 ai도 못 한다\n요구하는바를 정확히 얘기해야 해주지",
+    "deleted": false
+  },
+  {
+    "id": "267243155",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 13:01:19",
+    "depth": 0,
+    "body": "대화하면서 하면 정확하게 구현해 주는데",
+    "body_html": "대화하면서 하면 정확하게 구현해 주는데",
+    "deleted": false
+  },
+  {
+    "id": "267243225",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 13:02:36",
+    "depth": 0,
+    "body": "하네스도 해야하고 에이전트 md로 프로젝트 관리해둬야함",
+    "body_html": "하네스도 해야하고 에이전트 md로 프로젝트 관리해둬야함",
+    "deleted": false
+  },
+  {
+    "id": "267244596",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 13:27:15",
+    "depth": 0,
+    "body": "이름 잘못부르는거 까지 영포티스럽내 ㅋㅋ",
+    "body_html": "이름 잘못부르는거 까지 영포티스럽내 ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267244990",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 13:34:48",
+    "depth": 0,
+    "body": "그지색기야 GTP를 쓰니까 그렇지 ㅋㅋ GPT써라",
+    "body_html": "그지색기야 GTP를 쓰니까 그렇지 ㅋㅋ GPT써라",
+    "deleted": false
+  },
+  {
+    "id": "267245215",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 13:39:06",
+    "depth": 0,
+    "body": "궁금한데 이색기 코덱스나 에이전트들안쓰고 GPT한테 그냥 해줘한거임?..",
+    "body_html": "궁금한데 이색기 코덱스나 에이전트들안쓰고 GPT한테 그냥 해줘한거임?..",
+    "deleted": false
+  },
+  {
+    "id": "267245907",
+    "parent_id": "",
+    "author": "원또",
+    "published": "11.04 13:52:05",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"26\"><source src=\"../assets/comment-media/9c57a7f9eb30dc2b66f5c4fe.mp4\" type=\"video/mp4\"></video><video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"26\"><source src=\"../assets/comment-media/9c57a7f9eb30dc2b66f5c4fe.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267246933",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 14:10:53",
+    "depth": 0,
+    "body": "ai가 못하면 너가 해야지 뭐 어쩌겠노 ㅋㅋ",
+    "body_html": "ai가 못하면 너가 해야지 뭐 어쩌겠노 ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267247495",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 14:22:48",
+    "depth": 0,
+    "body": "AI는 비효율의 극치. 자원을 엄청나게 쳐먹기때문에 너프는 필연적. AI는 거품.",
+    "body_html": "AI는 비효율의 극치. 자원을 엄청나게 쳐먹기때문에 너프는 필연적. AI는 거품.",
+    "deleted": false
+  },
+  {
+    "id": "267251567",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 15:32:25",
+    "depth": 0,
+    "body": "무료쓰는 애들이 지랄하는거임?",
+    "body_html": "무료쓰는 애들이 지랄하는거임?",
+    "deleted": false
+  },
+  {
+    "id": "267253974",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 16:17:12",
+    "depth": 0,
+    "body": "설마 무료버전쓰면서 바이브코딩 하는거임??? ㄹㅇ이면 능지이슈인데 ㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "설마 무료버전쓰면서 바이브코딩 하는거임??? ㄹㅇ이면 능지이슈인데 ㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267255089",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 16:41:47",
+    "depth": 0,
+    "body": "gtp라고 하는 시점에서 사용자 능지가 문제인 거 아님? ㅋㅋㅋ",
+    "body_html": "gtp라고 하는 시점에서 사용자 능지가 문제인 거 아님? ㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267255523",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 16:50:37",
+    "depth": 0,
+    "body": "제미나이 써야지 다음 버전에 gpo재평가해봐",
+    "body_html": "제미나이 써야지 다음 버전에 gpo재평가해봐",
+    "deleted": false
+  },
+  {
+    "id": "267262343",
+    "parent_id": "",
+    "author": "JungNu",
+    "published": "11.04 18:50:02",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"44\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/2f49cad12fbbf2fb415606c8.png\" title=\"44\">",
+    "deleted": false
+  },
+  {
+    "id": "267263283",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 19:04:26",
+    "depth": 0,
+    "body": "한심하게 쓴다. 아키텍쳐는 쓰고 하는거야? 아키텍쳐 없이 한 번에 작성하면 나중에 문제 다 터진다. \n\n바이브코딩은 쉬운데 바이브디버깅은 헬이고 너가 공부해야 하는 거야. 그때 버그 터지면 개발자가 단순하게 고칠 수 있는 함수들 AI 가 만줄 이상 넘어가는거 해석 못하고 버그 못 잡고 터진다. 개발하는 나도 AI는 도구지 의존 용도가 아님.",
+    "body_html": "한심하게 쓴다. 아키텍쳐는 쓰고 하는거야? 아키텍쳐 없이 한 번에 작성하면 나중에 문제 다 터진다. \n\n바이브코딩은 쉬운데 바이브디버깅은 헬이고 너가 공부해야 하는 거야. 그때 버그 터지면 개발자가 단순하게 고칠 수 있는 함수들 AI 가 만줄 이상 넘어가는거 해석 못하고 버그 못 잡고 터진다. 개발하는 나도 AI는 도구지 의존 용도가 아님.",
+    "deleted": false
+  },
+  {
+    "id": "267270261",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 21:01:33",
+    "depth": 0,
+    "body": "개포티 거지새끼는 진짜 순수역겹네 기생수같음 진심",
+    "body_html": "개포티 거지새끼는 진짜 순수역겹네 기생수같음 진심",
+    "deleted": false
+  },
+  {
+    "id": "267270343",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.04 21:03:14",
+    "depth": 0,
+    "body": "애미뒤진 폰트부터 최소 38 ~ 45세 사이봄",
+    "body_html": "애미뒤진 폰트부터 최소 38 ~ 45세 사이봄",
+    "deleted": false
+  },
+  {
+    "id": "267279380",
+    "parent_id": "",
+    "author": "환란 전 교회 휴거",
+    "published": "11.04 23:42:12",
+    "depth": 0,
+    "body": "모든 인간은 죄 본성에 대한 심판으로 지옥에 갈 수 밖에 없지만 선을 추구하는 \"양심\"이 있는 자, 그 인류 죗값을 위해 주 예수 그리스도께서 보혈을 흘리시고 부활하신 사실을 \"믿는\"다면 구원받게 된다 더 나아가 현재 휴거 임박 시점에 선을 추구하는 \"양심\"이 있는 자, 이 복음을 \"믿는\"다면 곧 닥칠 7년 환란과 죽음을 면하고 살아서 천국에 직행하게 된다",
+    "body_html": "모든 인간은 죄 본성에 대한 심판으로 지옥에 갈 수 밖에 없지만 선을 추구하는 \"양심\"이 있는 자, 그 인류 죗값을 위해 주 예수 그리스도께서 보혈을 흘리시고 부활하신 사실을 \"믿는\"다면 구원받게 된다 더 나아가 현재 휴거 임박 시점에 선을 추구하는 \"양심\"이 있는 자, 이 복음을 \"믿는\"다면 곧 닥칠 7년 환란과 죽음을 면하고 살아서 천국에 직행하게 된다",
+    "deleted": false
+  }
+]
