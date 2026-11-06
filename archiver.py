@@ -87,7 +87,7 @@ def parse_list(doc):
     return result
 
 
-def media(s, url, ident, referer, warnings):
+def media(s, url, ident, referer, warnings, attempt=0):
     parsed = urlparse(url)
     if parsed.scheme not in ('http','https'):
         return ''
@@ -136,6 +136,9 @@ def media(s, url, ident, referer, warnings):
             (ROOT / path).write_bytes(content)
             return '../' + path.as_posix()
     except (requests.RequestException, ValueError) as error:
+        if isinstance(error,ValueError) and str(error) == 'Empty media' and attempt < 2:
+            time.sleep(2 ** (attempt + 1))
+            return media(s,url,ident,referer,warnings,attempt + 1)
         warnings.append('미디어 원본 유지 (' + str(error) + '): ' + url)
         return url
 
@@ -183,6 +186,10 @@ def archive_post(s, post):
                            protocols=['http','https'], strip=True)
     entry = dict(post, title=title.get_text(' ',strip=True), archived_at=now(),
                  media_warnings=warnings, media_archive_version=MEDIA_ARCHIVE_VERSION)
+    entry['media_retry_needed'] = any(
+        w.startswith('미디어 원본 유지') and 'Media exceeds' not in w and 'Unsupported media type' not in w
+        for w in warnings
+    )
     date = doc.select_one('.gall_date')
     entry['published'] = date.get('title',date.get_text(strip=True)) if date else ''
     notice = '<p class="notice">일부 미디어는 원본 링크로 남아 있습니다.</p>' if warnings else ''
@@ -222,7 +229,7 @@ def publish():
         subprocess.run(['git','add',page.name],cwd=ROOT,check=True)
     changed = subprocess.run(['git','diff','--cached','--quiet'],cwd=ROOT).returncode
     if changed:
-        subprocess.run(['git','commit','-m','Update real-time best archive'],cwd=ROOT,check=True)
+        subprocess.run(['git','commit','--quiet','-m','Update real-time best archive'],cwd=ROOT,check=True)
     for attempt in range(5):
         result = subprocess.run(['git','push','origin','HEAD:main'],cwd=ROOT)
         if result.returncode == 0:
@@ -237,7 +244,11 @@ def collect(pages=10, do_publish=False, workers=1, retry_media=False):
     state = load('state.json',{})
     pending = {p['id']:p for p in load('pending.json',[])}
     for entry in entries:
-        if (retry_media and entry.get('media_warnings')) or entry.get('media_archive_version',0) < MEDIA_ARCHIVE_VERSION:
+        media_failed = entry.get('media_retry_needed') or any(
+            w.startswith('미디어 원본 유지') and 'Media exceeds' not in w and 'Unsupported media type' not in w
+            for w in entry.get('media_warnings',[])
+        )
+        if media_failed or (retry_media and entry.get('media_warnings')) or entry.get('media_archive_version',0) < MEDIA_ARCHIVE_VERSION:
             pending[entry['id']] = {k:entry[k] for k in ('id','title','source_url')}
     known = {p['id'] for p in entries if p['id'] not in pending}
     highwater = int(state.get('last_seen_id',0))
@@ -279,21 +290,21 @@ def collect(pages=10, do_publish=False, workers=1, retry_media=False):
         finally:
             time.sleep(0.5)
     with ThreadPoolExecutor(max_workers=workers) as executor:
-      results = executor.map(process,list(pending.values())) if workers > 1 else map(process,list(pending.values()))
-      for index,(post,entry,error) in enumerate(results,1):
-        print(f'Archive {index}/{len(pending)}: {post["id"]} {post["title"]}',flush=True)
-        if error is None:
-            entries = [e for e in entries if e['id'] != post['id']] + [entry]
-            known.add(post['id'])
-            save('archive.json',entries)
-            save('pending.json',[p for i,p in pending.items() if i not in known])
-        else:
-            print(f'FAILED {post["id"]}: {error}',flush=True)
-            failures.append(post['id'])
-        if index % 20 == 0:
-            render(entries)
-            if do_publish:
-                publish()
+        results = executor.map(process,list(pending.values())) if workers > 1 else map(process,list(pending.values()))
+        for index,(post,entry,error) in enumerate(results,1):
+            print(f'Archive {index}/{len(pending)}: {post["id"]} {post["title"]}',flush=True)
+            if error is None:
+                entries = [e for e in entries if e['id'] != post['id']] + [entry]
+                known.add(post['id'])
+                save('archive.json',entries)
+                save('pending.json',[p for i,p in pending.items() if i not in known])
+            else:
+                print(f'FAILED {post["id"]}: {error}',flush=True)
+                failures.append(post['id'])
+            if index % 20 == 0:
+                render(entries)
+                if do_publish:
+                    publish()
     render(entries)
     state['last_run_at'] = now()
     state['last_run_failed_ids'] = failures

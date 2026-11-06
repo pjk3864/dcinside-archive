@@ -7,6 +7,17 @@ import archiver as a
 
 
 class ArchiveTests(unittest.TestCase):
+    def test_failed_media_is_refreshed_on_next_run(self):
+        old = {'id':'1','title':'retry image','source_url':'https://gall.dcinside.com/',
+               'media_archive_version':a.MEDIA_ARCHIVE_VERSION,'media_warnings':['미디어 원본 유지 (Empty media): https://dcimg6.dcinside.co.kr/image']}
+        with tempfile.TemporaryDirectory() as tmp, patch.object(a,'ROOT',Path(tmp)), patch.object(a,'session'), patch.object(a,'document'), patch.object(a,'parse_list',return_value=[{'id':'1','title':'known'}]), patch.object(a,'archive_post',return_value=dict(old,media_warnings=[],published='')) as archive, patch.object(a.time,'sleep'):
+            a.save('state.json',{'initialized':True,'last_seen_id':1})
+            a.save('archive.json',[old])
+            a.collect()
+            archive.assert_called_once()
+            self.assertEqual(len(a.load('archive.json',[])),1)
+            self.assertEqual(a.load('archive.json',[])[0]['media_warnings'],[])
+
     def test_lazy_image_uses_original_not_placeholder(self):
         doc = BeautifulSoup('<span class="title_subject">safe</span><div class="write_div"><img src="https://nstatic.dcinside.com/loading.gif" data-original="https://dcimg6.dcinside.co.kr/real.jpg"></div>','html.parser')
         with tempfile.TemporaryDirectory() as tmp, patch.object(a,'ROOT',Path(tmp)), patch.object(a,'document',return_value=doc), patch.object(a,'media',return_value='../assets/1/real.jpg') as media:
