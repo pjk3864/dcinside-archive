@@ -7,6 +7,20 @@ import archiver as a
 
 
 class ArchiveTests(unittest.TestCase):
+    def test_octet_stream_image_is_saved(self):
+        from unittest.mock import MagicMock
+        response = MagicMock()
+        response.headers = {'Content-Type':'application/octet-stream'}
+        response.iter_content.return_value = [b'\xff\xd8\xffexample']
+        s = MagicMock()
+        s.get.return_value.__enter__.return_value = response
+        with tempfile.TemporaryDirectory() as tmp, patch.object(a,'ROOT',Path(tmp)):
+            warnings = []
+            path = a.media(s,'https://dcimg6.dcinside.co.kr/viewimage.php','1','https://gall.dcinside.com/',warnings)
+            self.assertTrue(path.endswith('.jpg'))
+            self.assertTrue((Path(tmp)/path[3:]).is_file())
+            self.assertEqual(warnings,[])
+
     def test_list_skips_notice(self):
         doc = BeautifulSoup('<tr class="ub-content" data-no="9"><td class="gall_num">공지</td><td class="gall_tit"><a href="/board/view/?no=9">notice</a></td></tr><tr class="ub-content" data-no="10"><td class="gall_num">10</td><td class="gall_tit"><a href="/board/view/?no=10"><div class="thumimg">thumbnail</div>title</a></td></tr>','html.parser')
         posts = a.parse_list(doc)

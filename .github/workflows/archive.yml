@@ -27,7 +27,7 @@ jobs:
       - name: Regression tests
         run: python -m unittest discover -s tests -v
       - name: Collect and checkpoint posts
-        run: python -u archiver.py --pages 10 --publish
+        run: python -u archiver.py --pages 10 --workers 3 --publish
       - name: Preserve checkpoint on failure
         if: failure()
         run: |

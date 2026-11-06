@@ -8,6 +8,7 @@ from pathlib import Path
 import re
 import subprocess
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 from urllib.parse import urljoin, urlparse
 from zoneinfo import ZoneInfo
@@ -101,8 +102,6 @@ def media(s, url, ident, referer, warnings):
             extensions = {'image/jpeg':'.jpg','image/png':'.png','image/gif':'.gif',
                           'image/webp':'.webp','image/avif':'.avif','video/mp4':'.mp4',
                           'video/webm':'.webm','audio/mpeg':'.mp3'}
-            if kind not in extensions:
-                raise ValueError('Unsupported media type: ' + kind)
             if int(r.headers.get('Content-Length',0)) > MAX_MEDIA:
                 raise ValueError('Media exceeds 12 MiB')
             chunks, size = [], 0
@@ -114,6 +113,22 @@ def media(s, url, ident, referer, warnings):
             content = b''.join(chunks)
             if not content:
                 raise ValueError('Empty media')
+            if kind not in extensions:
+                # DC sometimes serves valid images as application/octet-stream.
+                if content.startswith(b'\xff\xd8\xff'):
+                    kind = 'image/jpeg'
+                elif content.startswith(b'\x89PNG\r\n\x1a\n'):
+                    kind = 'image/png'
+                elif content.startswith((b'GIF87a',b'GIF89a')):
+                    kind = 'image/gif'
+                elif content[:4] == b'RIFF' and content[8:12] == b'WEBP':
+                    kind = 'image/webp'
+                elif content[4:8] == b'ftyp' and content[8:12] in (b'avif',b'avis'):
+                    kind = 'image/avif'
+                elif content[4:8] == b'ftyp':
+                    kind = 'video/mp4'
+                else:
+                    raise ValueError('Unsupported media type: ' + kind)
             digest = hashlib.sha256(content).hexdigest()[:24]
             path = Path('assets') / ident / (digest + extensions[kind])
             (ROOT / path).parent.mkdir(parents=True, exist_ok=True)
@@ -204,12 +219,16 @@ def publish():
     raise RuntimeError('Git push failed; local checkpoint is preserved')
 
 
-def collect(pages=10, do_publish=False):
+def collect(pages=10, do_publish=False, workers=1, retry_media=False):
     s = session()
     entries = load('archive.json',[])
     state = load('state.json',{})
     pending = {p['id']:p for p in load('pending.json',[])}
-    known = {p['id'] for p in entries}
+    if retry_media:
+        for entry in entries:
+            if entry.get('media_warnings'):
+                pending[entry['id']] = {k:entry[k] for k in ('id','title','source_url')}
+    known = {p['id'] for p in entries if p['id'] not in pending}
     highwater = int(state.get('last_seen_id',0))
     discovered = []
     # Bootstrap exactly ten source list pages. Daily runs scan through the last
@@ -240,22 +259,30 @@ def collect(pages=10, do_publish=False):
     if do_publish:
         publish()
     failures = []
-    for index,post in enumerate(list(pending.values()),1):
-        print(f'Archive {index}/{len(pending)}: {post["id"]} {post["title"]}',flush=True)
+    def process(post):
         try:
-            entry = archive_post(s,post)
-            entries.append(entry)
+            entry = archive_post(s if workers == 1 else session(),post)
+            return post,entry,None
+        except (requests.RequestException,RuntimeError,ValueError) as error:
+            return post,None,error
+        finally:
+            time.sleep(0.5)
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+      results = executor.map(process,list(pending.values())) if workers > 1 else map(process,list(pending.values()))
+      for index,(post,entry,error) in enumerate(results,1):
+        print(f'Archive {index}/{len(pending)}: {post["id"]} {post["title"]}',flush=True)
+        if error is None:
+            entries = [e for e in entries if e['id'] != post['id']] + [entry]
             known.add(post['id'])
             save('archive.json',entries)
             save('pending.json',[p for i,p in pending.items() if i not in known])
-        except (requests.RequestException,RuntimeError,ValueError) as error:
+        else:
             print(f'FAILED {post["id"]}: {error}',flush=True)
             failures.append(post['id'])
         if index % 20 == 0:
             render(entries)
             if do_publish:
                 publish()
-        time.sleep(0.5)
     render(entries)
     state['last_run_at'] = now()
     state['last_run_failed_ids'] = failures
@@ -272,8 +299,10 @@ if __name__ == '__main__':
     parser.add_argument('--pages',type=int,default=10)
     parser.add_argument('--publish',action='store_true')
     parser.add_argument('--render',action='store_true')
+    parser.add_argument('--workers',type=int,choices=range(1,5),default=1)
+    parser.add_argument('--retry-media',action='store_true')
     args = parser.parse_args()
     if args.render:
         render(load('archive.json',[]))
     else:
-        collect(args.pages,args.publish)
+        collect(args.pages,args.publish,args.workers,args.retry_media)
