@@ -6204,7 +6204,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 18:55:02",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 114,
+    "source_comment_count": 113,
+    "comments_archived_at": "2026-11-06T22:45:33+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475569",
@@ -6214,7 +6221,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 18:50:02",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 149,
+    "source_comment_count": 148,
+    "comments_archived_at": "2026-11-06T22:45:29+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475567",
@@ -6224,7 +6238,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 18:45:02",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 319,
+    "source_comment_count": 319,
+    "comments_archived_at": "2026-11-06T22:45:35+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475565",
@@ -6234,7 +6255,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-06 12:09:32",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 516,
+    "source_comment_count": 511,
+    "comments_archived_at": "2026-11-06T22:46:11+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475563",
@@ -6244,7 +6272,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 18:35:02",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 57,
+    "source_comment_count": 57,
+    "comments_archived_at": "2026-11-06T22:45:43+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475562",
@@ -6254,7 +6289,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-06 12:09:35",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 482,
+    "source_comment_count": 481,
+    "comments_archived_at": "2026-11-06T22:46:19+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475557",
@@ -6264,7 +6306,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 18:26:05",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 451,
+    "source_comment_count": 451,
+    "comments_archived_at": "2026-11-06T22:49:30+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475555",
@@ -6274,7 +6323,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 18:16:04",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 230,
+    "source_comment_count": 229,
+    "comments_archived_at": "2026-11-06T22:46:41+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475552",
@@ -6284,7 +6340,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 18:11:04",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 192,
+    "source_comment_count": 191,
+    "comments_archived_at": "2026-11-06T22:46:25+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475550",
@@ -6294,7 +6357,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 18:01:02",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 197,
+    "source_comment_count": 197,
+    "comments_archived_at": "2026-11-06T22:49:49+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475549",
@@ -6304,7 +6374,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 17:56:00",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 103,
+    "source_comment_count": 103,
+    "comments_archived_at": "2026-11-06T22:49:47+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475547",
@@ -6314,7 +6391,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 17:46:03",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 331,
+    "source_comment_count": 330,
+    "comments_archived_at": "2026-11-06T22:49:59+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475543",
@@ -6324,7 +6408,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 17:36:01",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 16,
+    "source_comment_count": 16,
+    "comments_archived_at": "2026-11-06T22:50:02+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475541",
@@ -6334,7 +6425,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 17:31:07",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 241,
+    "source_comment_count": 239,
+    "comments_archived_at": "2026-11-06T22:50:17+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475539",
@@ -6344,7 +6442,14 @@
     "media_warnings": [],
     "media_archive_version": 2,
     "published": "2026-11-04 17:16:01",
-    "ui_version": 2
+    "ui_version": 2,
+    "comment_archive_version": 1,
+    "comment_status": "complete",
+    "archived_comment_count": 173,
+    "source_comment_count": 172,
+    "comments_archived_at": "2026-11-06T22:50:26+07:00",
+    "comment_media_warnings": [],
+    "comment_media_retry_needed": false
   },
   {
     "id": "475538",
