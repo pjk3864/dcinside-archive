@@ -1,8 +1,5 @@
 name: Daily DCInside Archive
 on:
-  push:
-    branches: [main]
-    paths: ['.github/workflows/archive.yml']
   schedule:
     # Bangkok UTC+7: daily 10:00. GitHub may delay scheduled execution.
     - cron: '0 3 * * *'
@@ -57,5 +54,3 @@ jobs:
             python archiver.py --render
             python -c 'from archiver import publish; publish()'
           fi
-
-
