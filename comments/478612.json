@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "267845832",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:41:23",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"18\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/7ce401b7ed4d28184744e523.png\" title=\"18\">",
+    "deleted": false
+  },
+  {
+    "id": "267845861",
+    "parent_id": "267845832",
+    "author": "숨쉬는청년",
+    "published": "11.14 14:41:49",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"쮸글\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/838ad83aab64ac5251d4cc8d.png\" title=\"쮸글\">",
+    "deleted": false
+  },
+  {
+    "id": "267847500",
+    "parent_id": "267845832",
+    "author": "2456778",
+    "published": "11.14 15:12:49",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"145\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/e6e812c6b2df22f0c6ac8ee1.png\" title=\"145\">",
+    "deleted": false
+  },
+  {
+    "id": "267854317",
+    "parent_id": "267845832",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:54:54",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"쾅쾅\"><source src=\"../assets/comment-media/1ecdb905680c73697cfdad19.mp4\" type=\"video/mp4\"></video><video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"쾅쾅\"><source src=\"../assets/comment-media/1ecdb905680c73697cfdad19.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267845839",
+    "parent_id": "",
+    "author": "삭제됨",
+    "published": "11.14 14:41:32",
+    "depth": 0,
+    "body": "삭제된 댓글입니다.",
+    "body_html": "삭제된 댓글입니다.",
+    "deleted": true
+  },
+  {
+    "id": "267845872",
+    "parent_id": "267845839",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:41:57",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"ㄹㅇ\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/b1eb826bb623e77775ec2873.png\" title=\"ㄹㅇ\">",
+    "deleted": false
+  },
+  {
+    "id": "267845881",
+    "parent_id": "267845839",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:42:02",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"ㅋㅋ\"><source src=\"../assets/comment-media/3626c2059f6c456f29a107ac.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267845865",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:41:51",
+    "depth": 0,
+    "body": "유죄 땅땅",
+    "body_html": "유죄 땅땅",
+    "deleted": false
+  },
+  {
+    "id": "267845875",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:42:01",
+    "depth": 0,
+    "body": "그거 얼마나 한다고 시발 ㅋㅋ",
+    "body_html": "그거 얼마나 한다고 시발 ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267845944",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:43:36",
+    "depth": 0,
+    "body": "기분나빠져서가 유력하다",
+    "body_html": "기분나빠져서가 유력하다",
+    "deleted": false
+  },
+  {
+    "id": "267845965",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:44:11",
+    "depth": 0,
+    "body": "와 이건 도저히 실드불가네 ㅋㅋㅋ",
+    "body_html": "와 이건 도저히 실드불가네 ㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267845968",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:44:14",
+    "depth": 0,
+    "body": "이건 커버가 안되는데",
+    "body_html": "이건 커버가 안되는데",
+    "deleted": false
+  },
+  {
+    "id": "267845998",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:44:47",
+    "depth": 0,
+    "body": "ㅅㅂ련이노",
+    "body_html": "ㅅㅂ련이노",
+    "deleted": false
+  },
+  {
+    "id": "267846010",
+    "parent_id": "",
+    "author": "스턉",
+    "published": "11.14 14:45:04",
+    "depth": 0,
+    "body": "기프티콘 자주 뿌리는 사람들은 안쓰고 몇달 놔두는거 싫다고 한달 넘으면 걍 회수해버리는 사람도 있던데",
+    "body_html": "기프티콘 자주 뿌리는 사람들은 안쓰고 몇달 놔두는거 싫다고 한달 넘으면 걍 회수해버리는 사람도 있던데",
+    "deleted": false
+  },
+  {
+    "id": "267854382",
+    "parent_id": "267846010",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:56:57",
+    "depth": 1,
+    "body": "그건 이상한 사람이지 줬으면 그만이지 쓰는지 왜확인해 ㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "그건 이상한 사람이지 줬으면 그만이지 쓰는지 왜확인해 ㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267846122",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:46:43",
+    "depth": 0,
+    "body": "제척기간",
+    "body_html": "제척기간",
+    "deleted": false
+  },
+  {
+    "id": "267846130",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:46:47",
+    "depth": 0,
+    "body": "줫뺏 ㅋㅋㅋ",
+    "body_html": "줫뺏 ㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267846226",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:48:39",
+    "depth": 0,
+    "body": "무슨 한달을 썩혀",
+    "body_html": "무슨 한달을 썩혀",
+    "deleted": false
+  },
+  {
+    "id": "267846262",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:49:17",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"햄부기\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/3e4d7f7fd765a1bac28450b9.png\" title=\"햄부기\">",
+    "deleted": false
+  },
+  {
+    "id": "267846280",
+    "parent_id": "267846262",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:49:40",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"죽인다\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/50f67f7ec5f80d0bbf6a6e36.png\" title=\"죽인다\">",
+    "deleted": false
+  },
+  {
+    "id": "267847492",
+    "parent_id": "267846262",
+    "author": "2456778",
+    "published": "11.14 15:12:39",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"8\"><source src=\"../assets/comment-media/e0322d63fd4d6952eb27233d.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267854331",
+    "parent_id": "267846262",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:55:20",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"어억컥\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/7f8ffe2afda205cbf1caf1ec.png\" title=\"어억컥\">",
+    "deleted": false
+  },
+  {
+    "id": "267846284",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:49:45",
+    "depth": 0,
+    "body": "그러게 빨리좀 처먹지",
+    "body_html": "그러게 빨리좀 처먹지",
+    "deleted": false
+  },
+  {
+    "id": "267846320",
+    "parent_id": "",
+    "author": "xopowo",
+    "published": "11.14 14:50:18",
+    "depth": 0,
+    "body": "이건 커버안됨",
+    "body_html": "이건 커버안됨",
+    "deleted": false
+  },
+  {
+    "id": "267846409",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:51:17",
+    "depth": 0,
+    "body": "한달은 씨발아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "한달은 씨발아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267851649",
+    "parent_id": "267846409",
+    "author": "찢",
+    "published": "11.14 16:42:44",
+    "depth": 1,
+    "body": "기한이 1년인데 한달만에 취소하는 새끼가 어딨음?",
+    "body_html": "기한이 1년인데 한달만에 취소하는 새끼가 어딨음?",
+    "deleted": false
+  },
+  {
+    "id": "267846423",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:51:32",
+    "depth": 0,
+    "body": "나도 대학시절에 시험기간에 공부 알려줘서 고맙다고 동기가 영화 깊콘 뿌린거 시험 끝나고 쓰려고 보니까 이미 쓴 쿠폰이라 하더라 고맙다 이 개새끼 ㅋㅋ 선의도 사람 가려가면서 해야한다는거 깨달았음",
+    "body_html": "나도 대학시절에 시험기간에 공부 알려줘서 고맙다고 동기가 영화 깊콘 뿌린거 시험 끝나고 쓰려고 보니까 이미 쓴 쿠폰이라 하더라 고맙다 이 개새끼 ㅋㅋ 선의도 사람 가려가면서 해야한다는거 깨달았음",
+    "deleted": false
+  },
+  {
+    "id": "267846470",
+    "parent_id": "",
+    "author": "piyo",
+    "published": "11.14 14:52:35",
+    "depth": 0,
+    "body": "리트냥이 절대용서못함",
+    "body_html": "리트냥이 절대용서못함",
+    "deleted": false
+  },
+  {
+    "id": "267846476",
+    "parent_id": "",
+    "author": "piyo",
+    "published": "11.14 14:52:40",
+    "depth": 0,
+    "body": "용서는없음",
+    "body_html": "용서는없음",
+    "deleted": false
+  },
+  {
+    "id": "267846513",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:53:17",
+    "depth": 0,
+    "body": "아..",
+    "body_html": "아..",
+    "deleted": false
+  },
+  {
+    "id": "267846558",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:54:00",
+    "depth": 0,
+    "body": "이게 스마트글라스보다 더 치명적일듯",
+    "body_html": "이게 스마트글라스보다 더 치명적일듯",
+    "deleted": false
+  },
+  {
+    "id": "267846759",
+    "parent_id": "",
+    "author": "Vanitatum",
+    "published": "11.14 14:57:32",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"돌아\"><source src=\"../assets/comment-media/16cdd7db91c6f4f127da78b7.mp4\" type=\"video/mp4\"></video><video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"돌아\"><source src=\"../assets/comment-media/091ec2becf7973140b5439fb.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267846763",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:57:34",
+    "depth": 0,
+    "body": "화나게 만드네",
+    "body_html": "화나게 만드네",
+    "deleted": false
+  },
+  {
+    "id": "267846769",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:57:42",
+    "depth": 0,
+    "body": "개좆냥이는 당장 해명하라! 해명하라!! 해명하라!!!",
+    "body_html": "개좆냥이는 당장 해명하라! 해명하라!! 해명하라!!!",
+    "deleted": false
+  },
+  {
+    "id": "267846779",
+    "parent_id": "",
+    "author": "고양이경비대장",
+    "published": "11.14 14:57:55",
+    "depth": 0,
+    "body": "나도 미주갤에서 버거받았는데 씨발년이 나중에 취소함",
+    "body_html": "나도 미주갤에서 버거받았는데 씨발년이 나중에 취소함",
+    "deleted": false
+  },
+  {
+    "id": "267846783",
+    "parent_id": "267846779",
+    "author": "고양이경비대장",
+    "published": "11.14 14:58:03",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"쾅쾅\"><source src=\"../assets/comment-media/1ecdb905680c73697cfdad19.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267846859",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:59:39",
+    "depth": 0,
+    "body": "줬다뺐노 엌ㅋㅋㅋㅋ",
+    "body_html": "줬다뺐노 엌ㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267846870",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:59:48",
+    "depth": 0,
+    "body": "결과적으로 햄버거를 먹은 사람은 없습니다 그렇지만 교재를 구매한 비용, 싸이버거를 먹으러 가기위해 든 이동비 등으로 인해 경제가 활성화 되었습니다",
+    "body_html": "결과적으로 햄버거를 먹은 사람은 없습니다 그렇지만 교재를 구매한 비용, 싸이버거를 먹으러 가기위해 든 이동비 등으로 인해 경제가 활성화 되었습니다",
+    "deleted": false
+  },
+  {
+    "id": "267846920",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:01:05",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"9\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/68de4a475eafd9293704deb9.png\" title=\"9\">",
+    "deleted": false
+  },
+  {
+    "id": "267847488",
+    "parent_id": "267846920",
+    "author": "2456778",
+    "published": "11.14 15:12:34",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"2\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/9036739ffe30ba7a0fe1ec04.png\" title=\"2\">",
+    "deleted": false
+  },
+  {
+    "id": "267846923",
+    "parent_id": "",
+    "author": "fwv",
+    "published": "11.14 15:01:09",
+    "depth": 0,
+    "body": "ㅅㅂ 이건못참는다",
+    "body_html": "ㅅㅂ 이건못참는다",
+    "deleted": false
+  },
+  {
+    "id": "267847067",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:04:36",
+    "depth": 0,
+    "body": "만점이라 역시 똑똑하노",
+    "body_html": "만점이라 역시 똑똑하노",
+    "deleted": false
+  },
+  {
+    "id": "267847081",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:04:48",
+    "depth": 0,
+    "body": "이건 아니지 ㄹㅇ",
+    "body_html": "이건 아니지 ㄹㅇ",
+    "deleted": false
+  },
+  {
+    "id": "267847199",
+    "parent_id": "",
+    "author": "ㅋㅋ",
+    "published": "11.14 15:07:53",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"119\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/13fbb496eb379ddd8bb6d727.png\" title=\"119\">",
+    "deleted": false
+  },
+  {
+    "id": "267847479",
+    "parent_id": "267847199",
+    "author": "2456778",
+    "published": "11.14 15:12:29",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"8\"><source src=\"../assets/comment-media/e0322d63fd4d6952eb27233d.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267847527",
+    "parent_id": "267847199",
+    "author": "파도.",
+    "published": "11.14 15:13:19",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"17\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/395a00c543b36973787bf42b.png\" title=\"17\">",
+    "deleted": false
+  },
+  {
+    "id": "267847472",
+    "parent_id": "",
+    "author": "잠이안와유",
+    "published": "11.14 15:12:20",
+    "depth": 0,
+    "body": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267847476",
+    "parent_id": "",
+    "author": "2456778",
+    "published": "11.14 15:12:24",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"11\"><source src=\"../assets/comment-media/e0322d63fd4d6952eb27233d.mp4\" type=\"video/mp4\"></video><img alt=\"11\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/1594772a7b6ab9402af62bea.png\" title=\"11\">",
+    "deleted": false
+  },
+  {
+    "id": "267847539",
+    "parent_id": "267847476",
+    "author": "파도.",
+    "published": "11.14 15:13:30",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"62\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/e7368422c0c4512a7f332f5d.png\" title=\"62\">",
+    "deleted": false
+  },
+  {
+    "id": "267847566",
+    "parent_id": "267847476",
+    "author": "ㅋㅋ",
+    "published": "11.14 15:14:12",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"7.5\"><source src=\"../assets/comment-media/3ddbeb667ce523da94e94386.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267847684",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:16:40",
+    "depth": 0,
+    "body": "진짜선넘었네",
+    "body_html": "진짜선넘었네",
+    "deleted": false
+  },
+  {
+    "id": "267847832",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:19:44",
+    "depth": 0,
+    "body": "개짜치네 진짜ㅋㅋㅋㅋㅋ",
+    "body_html": "개짜치네 진짜ㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267847898",
+    "parent_id": "",
+    "author": "처녀따개",
+    "published": "11.14 15:20:51",
+    "depth": 0,
+    "body": "이건 ai안경보다 심각한 사안인데",
+    "body_html": "이건 ai안경보다 심각한 사안인데",
+    "deleted": false
+  },
+  {
+    "id": "267847931",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:21:16",
+    "depth": 0,
+    "body": "브래인액셀러는 다르노 ㅋㅋㅋㅋ",
+    "body_html": "브래인액셀러는 다르노 ㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267848104",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:24:44",
+    "depth": 0,
+    "body": "역시 천재는 다르네",
+    "body_html": "역시 천재는 다르네",
+    "deleted": false
+  },
+  {
+    "id": "267848370",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:29:58",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"22\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/c06d990d8dc9b4211b12b0d3.png\" title=\"22\">",
+    "deleted": false
+  },
+  {
+    "id": "267848379",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:30:12",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"21\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/38225af08d9137cabb37829f.png\" title=\"21\">",
+    "deleted": false
+  },
+  {
+    "id": "267848537",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:34:02",
+    "depth": 0,
+    "body": "저건 안쓴놈이 잘못임. 주는사람 입장에선 빨리 쓰고 간단하게 인사라도 받으면 기분 좋은데 받아놓고 며칠이 지나도 안쓰고 있는거 보면 꼴받거든",
+    "body_html": "저건 안쓴놈이 잘못임. 주는사람 입장에선 빨리 쓰고 간단하게 인사라도 받으면 기분 좋은데 받아놓고 며칠이 지나도 안쓰고 있는거 보면 꼴받거든",
+    "deleted": false
+  },
+  {
+    "id": "267848837",
+    "parent_id": "267848537",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:41:17",
+    "depth": 1,
+    "body": "ㄹㅇ 한달 존버는 에바임",
+    "body_html": "ㄹㅇ 한달 존버는 에바임",
+    "deleted": false
+  },
+  {
+    "id": "267854666",
+    "parent_id": "267848537",
+    "author": "ㅇㅇ",
+    "published": "11.14 18:04:57",
+    "depth": 1,
+    "body": "주면 준걸로 끝이지 받은 놈이 쓰던 말던 무슨 상관임?\n얼마간 안쓰면 취소할거라고 미리 고지한 것도 아닌데",
+    "body_html": "주면 준걸로 끝이지 받은 놈이 쓰던 말던 무슨 상관임?\n얼마간 안쓰면 취소할거라고 미리 고지한 것도 아닌데",
+    "deleted": false
+  },
+  {
+    "id": "267855027",
+    "parent_id": "267848537",
+    "author": "Vanguard",
+    "published": "11.14 18:13:04",
+    "depth": 1,
+    "body": "저건 걍 쌀먹하겠다는거자나",
+    "body_html": "저건 걍 쌀먹하겠다는거자나",
+    "deleted": false
+  },
+  {
+    "id": "267856647",
+    "parent_id": "267848537",
+    "author": "ㅇㅇ",
+    "published": "11.14 18:47:00",
+    "depth": 1,
+    "body": "리트만점이 ㅈ으로 보이누 저런 디테일이 바로 만점의 증거다",
+    "body_html": "리트만점이 ㅈ으로 보이누 저런 디테일이 바로 만점의 증거다",
+    "deleted": false
+  },
+  {
+    "id": "267848725",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:39:13",
+    "depth": 0,
+    "body": "그냥 고지능자인데 입벌구인거 아니냐\n아스퍼거처럼",
+    "body_html": "그냥 고지능자인데 입벌구인거 아니냐\n아스퍼거처럼",
+    "deleted": false
+  },
+  {
+    "id": "267849003",
+    "parent_id": "267848725",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:45:24",
+    "depth": 1,
+    "body": "아스퍼거는 사회성 없는거지 구라를 치고 다니진 않음 디시에 찐따들 많아서 아스퍼거 많을텐데",
+    "body_html": "아스퍼거는 사회성 없는거지 구라를 치고 다니진 않음 디시에 찐따들 많아서 아스퍼거 많을텐데",
+    "deleted": false
+  },
+  {
+    "id": "267848902",
+    "parent_id": "",
+    "author": "술담배여자도박",
+    "published": "11.14 15:42:49",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"+뽀빠\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/00beeed89c36335fdcb39e14.png\" title=\"+뽀빠\">",
+    "deleted": false
+  },
+  {
+    "id": "267848954",
+    "parent_id": "",
+    "author": "리ㅣ디",
+    "published": "11.14 15:44:15",
+    "depth": 0,
+    "body": "이거 한달이면 자동 취소 아님? 내가 잘못알고있나?",
+    "body_html": "이거 한달이면 자동 취소 아님? 내가 잘못알고있나?",
+    "deleted": false
+  },
+  {
+    "id": "267851658",
+    "parent_id": "267848954",
+    "author": "찢",
+    "published": "11.14 16:43:04",
+    "depth": 1,
+    "body": "기한 써있는거 안보이냐",
+    "body_html": "기한 써있는거 안보이냐",
+    "deleted": false
+  },
+  {
+    "id": "267849365",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 15:53:11",
+    "depth": 0,
+    "body": "엔사)cafe )삼.  카카)오      c)af)eb)uy    )빼   고  문의",
+    "body_html": "엔사)cafe )삼.  카카)오      c)af)eb)uy    )빼   고  문의",
+    "deleted": false
+  },
+  {
+    "id": "267850002",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 16:02:27",
+    "depth": 0,
+    "body": "와이건ㅋㅋㅋㅋ",
+    "body_html": "와이건ㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267850318",
+    "parent_id": "",
+    "author": "파치카",
+    "published": "11.14 16:09:51",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"18\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/bf6d44677a4c1986206292a4.png\" title=\"18\">",
+    "deleted": false
+  },
+  {
+    "id": "267854360",
+    "parent_id": "267850318",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:56:11",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"94\"><source src=\"../assets/comment-media/fa7f35b1bd7b7ed809fd1fef.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267850404",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 16:12:06",
+    "depth": 0,
+    "body": "천재네",
+    "body_html": "천재네",
+    "deleted": false
+  },
+  {
+    "id": "267850408",
+    "parent_id": "",
+    "author": "욕받이",
+    "published": "11.14 16:12:19",
+    "depth": 0,
+    "body": "ai 무조건 쉴드치던 그냥 실베 댓글에서 어그로 끌던 병신들도 이 글엔 안보이네… 싸이버거 줬다 뺐기는 너무하긴함 ㄹㅇ… 그들조차 변호 포기했음",
+    "body_html": "ai 무조건 쉴드치던 그냥 실베 댓글에서 어그로 끌던 병신들도 이 글엔 안보이네… 싸이버거 줬다 뺐기는 너무하긴함 ㄹㅇ… 그들조차 변호 포기했음",
+    "deleted": false
+  },
+  {
+    "id": "267850635",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 16:16:58",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"17\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/cfe6ea009de8a18f6adf2c8e.png\" title=\"17\">",
+    "deleted": false
+  },
+  {
+    "id": "267850774",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 16:20:19",
+    "depth": 0,
+    "body": "인간이라면 저래선 안된다",
+    "body_html": "인간이라면 저래선 안된다",
+    "deleted": false
+  },
+  {
+    "id": "267851092",
+    "parent_id": "",
+    "author": "o o",
+    "published": "11.14 16:29:05",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"햄부기\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/3e4d7f7fd765a1bac28450b9.png\" title=\"햄부기\">",
+    "deleted": false
+  },
+  {
+    "id": "267851175",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 16:31:10",
+    "depth": 0,
+    "body": "떡잎부터 알아본다더니",
+    "body_html": "떡잎부터 알아본다더니",
+    "deleted": false
+  },
+  {
+    "id": "267851405",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 16:35:49",
+    "depth": 0,
+    "body": "눈을 떴구나 버츄얼고소갤로 가거라",
+    "body_html": "눈을 떴구나 버츄얼고소갤로 가거라",
+    "deleted": false
+  },
+  {
+    "id": "267851632",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 16:42:14",
+    "depth": 0,
+    "body": "그동안 중립이었는데 이건 참을수 없네",
+    "body_html": "그동안 중립이었는데 이건 참을수 없네",
+    "deleted": false
+  },
+  {
+    "id": "267851692",
+    "parent_id": "",
+    "author": "SMN",
+    "published": "11.14 16:44:09",
+    "depth": 0,
+    "body": "엑셀은 다르노",
+    "body_html": "엑셀은 다르노",
+    "deleted": false
+  },
+  {
+    "id": "267851719",
+    "parent_id": "",
+    "author": "알카",
+    "published": "11.14 16:45:10",
+    "depth": 0,
+    "body": "진짜 앰뒤 무빙이노 첨부터 안주면 모를까",
+    "body_html": "진짜 앰뒤 무빙이노 첨부터 안주면 모를까",
+    "deleted": false
+  },
+  {
+    "id": "267851801",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 16:47:43",
+    "depth": 0,
+    "body": "저걸 주고 썼는지 안썼는지 보고있다가 확인하고 아직 안썼으면 취소 하는 애들 진짜있냐? 난 내가 준거 썼는지 확인해본적이 없는데",
+    "body_html": "저걸 주고 썼는지 안썼는지 보고있다가 확인하고 아직 안썼으면 취소 하는 애들 진짜있냐? 난 내가 준거 썼는지 확인해본적이 없는데",
+    "deleted": false
+  },
+  {
+    "id": "267852663",
+    "parent_id": "267851801",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:13:32",
+    "depth": 1,
+    "body": "소인배 계집 병신들이나 그러지",
+    "body_html": "소인배 계집 병신들이나 그러지",
+    "deleted": false
+  },
+  {
+    "id": "267851865",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 16:50:00",
+    "depth": 0,
+    "body": "아",
+    "body_html": "<div class=\"coment_dccon_txt cbg_3b4890\"><p class=\"txtcon_txt ctxt_ffffff\">아</p></div>",
+    "deleted": false
+  },
+  {
+    "id": "267852242",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:01:11",
+    "depth": 0,
+    "body": "여기까지가 브레인악셀임",
+    "body_html": "여기까지가 브레인악셀임",
+    "deleted": false
+  },
+  {
+    "id": "267852343",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:04:14",
+    "depth": 0,
+    "body": "ㄹㅇ이면 이건 좀",
+    "body_html": "ㄹㅇ이면 이건 좀",
+    "deleted": false
+  },
+  {
+    "id": "267852494",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:08:48",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"사람X\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/44a307e5744c2ef1ab7428df.png\" title=\"사람X\">",
+    "deleted": false
+  },
+  {
+    "id": "267852533",
+    "parent_id": "",
+    "author": "향격쳐",
+    "published": "11.14 17:09:39",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"외성고\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/410ada55de30b30133971678.png\" title=\"외성고\">",
+    "deleted": false
+  },
+  {
+    "id": "267852964",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:20:36",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"햄부기\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/3e4d7f7fd765a1bac28450b9.png\" title=\"햄부기\">",
+    "deleted": false
+  },
+  {
+    "id": "267853287",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:28:04",
+    "depth": 0,
+    "body": "한남들 남성성 다 죽었다더니 줬으면 그냥 끝인거지 그걸 썼는지 안 썼는지 주기적으로 확인하다가 일정기간 안 쓰면 취소해버린다고? ㅋㅋㅋㅋㅋ",
+    "body_html": "한남들 남성성 다 죽었다더니 줬으면 그냥 끝인거지 그걸 썼는지 안 썼는지 주기적으로 확인하다가 일정기간 안 쓰면 취소해버린다고? ㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267853602",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:35:15",
+    "depth": 0,
+    "body": "와 이건 ㅅㅂㅋㅋ  - dc App",
+    "body_html": "와 이건 ㅅㅂㅋㅋ  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "267853613",
+    "parent_id": "267853602",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:35:31",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"햄부기\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/3e4d7f7fd765a1bac28450b9.png\" title=\"햄부기\">",
+    "deleted": false
+  },
+  {
+    "id": "267853742",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:38:27",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"햄부기\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/3e4d7f7fd765a1bac28450b9.png\" title=\"햄부기\">",
+    "deleted": false
+  },
+  {
+    "id": "267854023",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:46:58",
+    "depth": 0,
+    "body": "유죄!!",
+    "body_html": "유죄!!",
+    "deleted": false
+  },
+  {
+    "id": "267854627",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 18:03:49",
+    "depth": 0,
+    "body": "받자마자 바로 써야지 ㅋㅋㅋㅋ 당연한거 아니노",
+    "body_html": "받자마자 바로 써야지 ㅋㅋㅋㅋ 당연한거 아니노",
+    "deleted": false
+  },
+  {
+    "id": "267854759",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 18:07:30",
+    "depth": 0,
+    "body": "근데 한달동안 묵힌거도 괘씸한데???",
+    "body_html": "근데 한달동안 묵힌거도 괘씸한데???",
+    "deleted": false
+  },
+  {
+    "id": "267854764",
+    "parent_id": "267854759",
+    "author": "ㅇㅇ",
+    "published": "11.14 18:07:37",
+    "depth": 1,
+    "body": "줬으면 바로쓰고 인증 해야지 ㅡㅡ",
+    "body_html": "줬으면 바로쓰고 인증 해야지 ㅡㅡ",
+    "deleted": false
+  },
+  {
+    "id": "267855265",
+    "parent_id": "267854759",
+    "author": "ㅇㅇ",
+    "published": "11.14 18:19:56",
+    "depth": 1,
+    "body": "@ㅇㅇ(112.212)\n병신인가. 기한이 1년인데 그런 조건이 어딨냐 씨발아. 너도 저러냐? ㅋㅋㅋ",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ(112.212)</a> 병신인가. 기한이 1년인데 그런 조건이 어딨냐 씨발아. 너도 저러냐? ㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267854981",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 18:11:25",
+    "depth": 0,
+    "body": "부거낚시는 용서못함",
+    "body_html": "부거낚시는 용서못함",
+    "deleted": false
+  },
+  {
+    "id": "267855214",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 18:18:40",
+    "depth": 0,
+    "body": "받고 인증하라고 주는건데 묵혀두면 누가주노??",
+    "body_html": "받고 인증하라고 주는건데 묵혀두면 누가주노??",
+    "deleted": false
+  },
+  {
+    "id": "267845537",
+    "parent_id": "",
+    "author": "세뽕이1",
+    "published": "11.13 19:46:31",
+    "depth": 0,
+    "body": "와 이건...",
+    "body_html": "와 이건...",
+    "deleted": false
+  },
+  {
+    "id": "267845538",
+    "parent_id": "",
+    "author": "세뽕이2",
+    "published": "11.13 19:50:51",
+    "depth": 0,
+    "body": "줬뺐ㅋㅋㅋㅋㅋㅋ  - dc App",
+    "body_html": "줬뺐ㅋㅋㅋㅋㅋㅋ  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "267845539",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.13 19:51:43",
+    "depth": 0,
+    "body": "ㅋㅋㅋㅋㅋ - dc App",
+    "body_html": "ㅋㅋㅋㅋㅋ - dc App",
+    "deleted": false
+  },
+  {
+    "id": "267845540",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.13 19:52:08",
+    "depth": 0,
+    "body": "이건 너무 추한데 ㅋㅋㅋㅋㅋ",
+    "body_html": "이건 너무 추한데 ㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267845541",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.13 19:52:23",
+    "depth": 0,
+    "body": "똑똑한데?",
+    "body_html": "똑똑한데?",
+    "deleted": false
+  },
+  {
+    "id": "267845542",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.13 19:52:34",
+    "depth": 0,
+    "body": "이건또 뭐야ㅋㅋㅋㅋㅋㅋ",
+    "body_html": "이건또 뭐야ㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267845545",
+    "parent_id": "",
+    "author": "세뽕이3",
+    "published": "11.13 20:08:08",
+    "depth": 0,
+    "body": "괴담  - dc App",
+    "body_html": "괴담  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "267845546",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.13 20:08:43",
+    "depth": 0,
+    "body": "에이 설마 사람이면 그럴수가없는데 ㄹㅇ 억까아니냐?  말이 안되잔음  - dc App",
+    "body_html": "에이 설마 사람이면 그럴수가없는데 ㄹㅇ 억까아니냐?  말이 안되잔음  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "267845547",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.13 20:09:58",
+    "depth": 0,
+    "body": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267845548",
+    "parent_id": "",
+    "author": "세뽕이4",
+    "published": "11.13 20:10:01",
+    "depth": 0,
+    "body": "ㄷㄷㄷㄷㄷㄷ",
+    "body_html": "ㄷㄷㄷㄷㄷㄷ",
+    "deleted": false
+  },
+  {
+    "id": "267845549",
+    "parent_id": "",
+    "author": "세뽕이5",
+    "published": "11.13 20:12:50",
+    "depth": 0,
+    "body": "와 개추하네",
+    "body_html": "와 개추하네",
+    "deleted": false
+  },
+  {
+    "id": "267845550",
+    "parent_id": "",
+    "author": "세뽕이6",
+    "published": "11.13 20:20:52",
+    "depth": 0,
+    "body": "이건 논란이 좀 있겠는데",
+    "body_html": "이건 논란이 좀 있겠는데",
+    "deleted": false
+  },
+  {
+    "id": "267845551",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.13 20:32:27",
+    "depth": 0,
+    "body": "부기 줬다 뺏는 새끼 종종 있음\n원래 내가 부기 받으면 꽁쳐놓는 타입인데 그런새끼 만나고나서 그냥 받으면 바로 써버림",
+    "body_html": "부기 줬다 뺏는 새끼 종종 있음\n원래 내가 부기 받으면 꽁쳐놓는 타입인데 그런새끼 만나고나서 그냥 받으면 바로 써버림",
+    "deleted": false
+  },
+  {
+    "id": "267845554",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.13 21:22:28",
+    "depth": 0,
+    "body": "이건 뭐노",
+    "body_html": "이건 뭐노",
+    "deleted": false
+  },
+  {
+    "id": "267845620",
+    "parent_id": "",
+    "author": "3dd",
+    "published": "11.14 14:36:56",
+    "depth": 0,
+    "body": "한남 = 그냥 진짜 싫다 하..  - dc App",
+    "body_html": "한남 = 그냥 진짜 싫다 하..  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "267845647",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:37:34",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"2\"><source src=\"../assets/comment-media/695304241bdca248fb778b98.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267845780",
+    "parent_id": "267845647",
+    "author": "숨쉬는청년",
+    "published": "11.14 14:40:53",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"48\"><source src=\"../assets/comment-media/24eccee72ebedb39db1dbf0b.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267845672",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:38:17",
+    "depth": 0,
+    "body": "이건 진짜 용서 안되겠네",
+    "body_html": "이건 진짜 용서 안되겠네",
+    "deleted": false
+  },
+  {
+    "id": "267845679",
+    "parent_id": "",
+    "author": "파도.",
+    "published": "11.14 14:38:23",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"4\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/2280ef03d00b7b536f8bdf20.png\" title=\"4\">",
+    "deleted": false
+  },
+  {
+    "id": "267845826",
+    "parent_id": "267845679",
+    "author": "숨쉬는청년",
+    "published": "11.14 14:41:17",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"아로나\"><source src=\"../assets/comment-media/d421f25e02cdcbbdfb9454d0.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267845869",
+    "parent_id": "267845679",
+    "author": "파도.",
+    "published": "11.14 14:41:55",
+    "depth": 1,
+    "body": "@숨쉬는청년",
+    "body_html": "<a class=\"mention deco\" rel=\"noopener noreferrer\">@숨쉬는청년</a> <video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"49\"><source src=\"../assets/comment-media/a7a641fbff1211ef4139c67a.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267847322",
+    "parent_id": "267845679",
+    "author": "ㅋㅋ",
+    "published": "11.14 15:10:32",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"걱걱걱\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/36c156ae0ffaf586b5a8f655.png\" title=\"걱걱걱\">",
+    "deleted": false
+  },
+  {
+    "id": "267845697",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:38:54",
+    "depth": 0,
+    "body": "그 때에 승가타 법문을 연설하였는데, \n이 법을 들으면 아뇩다라삼먁삼보리에 이르게 되어 모든 죄를 멸하고 번뇌를 쉬게 된다. \n너는 이제 자세히 듣거라. \n너를 위해 설하여 네가 듣고 나서 속히 해탈을 얻게 하리라.\n[4구게를 듣고 중간을 빠뜨리지만 않아도 모든 악을 다 없애고 수다원의 과를 얻는다. 그런 뒤에 보시를 하여 모든 고통을 멀리 여의고, 고통받는 중생들에게 해탈을 얻게 하고, 공포에 떠는 중생에게 공포를 멀리 여의게 한다.]",
+    "body_html": "그 때에 승가타 법문을 연설하였는데, \n이 법을 들으면 아뇩다라삼먁삼보리에 이르게 되어 모든 죄를 멸하고 번뇌를 쉬게 된다. \n너는 이제 자세히 듣거라. \n너를 위해 설하여 네가 듣고 나서 속히 해탈을 얻게 하리라.\n[4구게를 듣고 중간을 빠뜨리지만 않아도 모든 악을 다 없애고 수다원의 과를 얻는다. 그런 뒤에 보시를 하여 모든 고통을 멀리 여의고, 고통받는 중생들에게 해탈을 얻게 하고, 공포에 떠는 중생에게 공포를 멀리 여의게 한다.]",
+    "deleted": false
+  },
+  {
+    "id": "267845723",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:39:37",
+    "depth": 0,
+    "body": "진짜 취소함? ㅅㅂ 존나 치사하네 ㅋㅋ",
+    "body_html": "진짜 취소함? ㅅㅂ 존나 치사하네 ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267845731",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:39:47",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"침착함\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/f7842aefb507df68e6c1ddfb.png\" title=\"침착함\">",
+    "deleted": false
+  },
+  {
+    "id": "267845837",
+    "parent_id": "267845731",
+    "author": "숨쉬는청년",
+    "published": "11.14 14:41:28",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"이리ㄱ\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/a74a6489636aeae9697b2f30.png\" title=\"이리ㄱ\">",
+    "deleted": false
+  },
+  {
+    "id": "267845734",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:39:48",
+    "depth": 0,
+    "body": "정말 재명스럽다",
+    "body_html": "정말 재명스럽다",
+    "deleted": false
+  },
+  {
+    "id": "267845737",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:39:48",
+    "depth": 0,
+    "body": "이건 선넘었지 ㄹㅇ;;",
+    "body_html": "이건 선넘었지 ㄹㅇ;;",
+    "deleted": false
+  },
+  {
+    "id": "267845739",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:39:50",
+    "depth": 0,
+    "body": "단순당 먹으면 안된다면서 햄버거 세트 선물은 대체 뭐노? 전자스크린 안된다면서 나무위키로 독해력 배양 ... 앞뒤가 안맞음",
+    "body_html": "단순당 먹으면 안된다면서 햄버거 세트 선물은 대체 뭐노? 전자스크린 안된다면서 나무위키로 독해력 배양 ... 앞뒤가 안맞음",
+    "deleted": false
+  },
+  {
+    "id": "267845857",
+    "parent_id": "267845739",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:41:48",
+    "depth": 1,
+    "body": "ㄹㅇ 나만 느낀거 아니구나 뭔가 뜬구름잡는 말들 자체도 앞뒤가 안맞는 느낌이였음",
+    "body_html": "ㄹㅇ 나만 느낀거 아니구나 뭔가 뜬구름잡는 말들 자체도 앞뒤가 안맞는 느낌이였음",
+    "deleted": false
+  },
+  {
+    "id": "267851935",
+    "parent_id": "267845739",
+    "author": "ㅇㅇㄴ",
+    "published": "11.14 16:51:49",
+    "depth": 1,
+    "body": "그니까 취소한거잖아  억까존나하네",
+    "body_html": "그니까 취소한거잖아  억까존나하네",
+    "deleted": false
+  },
+  {
+    "id": "267853096",
+    "parent_id": "267845739",
+    "author": "푸른반복",
+    "published": "11.14 17:23:36",
+    "depth": 1,
+    "body": "@ㅇㅇㄴ(211.234)\n다 뜻이 있었노 ㅋㅋㅋ",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇㄴ(211.234)</a> 다 뜻이 있었노 ㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267845760",
+    "parent_id": "",
+    "author": "DC전사쿠루미쨩",
+    "published": "11.14 14:40:21",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"모오\"><source src=\"../assets/comment-media/2f58dd8af4e21bf40155eb3f.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "267845851",
+    "parent_id": "267845760",
+    "author": "숨쉬는청년",
+    "published": "11.14 14:41:39",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"68\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/568d15d5fd3ed45578dd93f0.gif\" title=\"68\">",
+    "deleted": false
+  },
+  {
+    "id": "267847507",
+    "parent_id": "267845760",
+    "author": "2456778",
+    "published": "11.14 15:12:57",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"8\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/0f1f61e17e983c6c9f546cb1.png\" title=\"8\">",
+    "deleted": false
+  },
+  {
+    "id": "267854301",
+    "parent_id": "267845760",
+    "author": "ㅇㅇ",
+    "published": "11.14 17:54:27",
+    "depth": 1,
+    "body": "@2456778",
+    "body_html": "<a class=\"mention deco\" rel=\"noopener noreferrer\">@2456778</a> <img alt=\"쯉\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/a8303e8bd994835ebc0b454a.png\" title=\"쯉\">",
+    "deleted": false
+  },
+  {
+    "id": "267845774",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:40:45",
+    "depth": 0,
+    "body": "이건 선넘네 ㅅㅂ",
+    "body_html": "이건 선넘네 ㅅㅂ",
+    "deleted": false
+  },
+  {
+    "id": "267845787",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:41:02",
+    "depth": 0,
+    "body": "아이들에게 Ai안경을사주자",
+    "body_html": "<div class=\"coment_dccon_txt cbg_3b4890\"><p class=\"txtcon_txt ctxt_ffffff\">아이들에게 Ai안경을사주자</p></div>",
+    "deleted": false
+  },
+  {
+    "id": "267845816",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:41:06",
+    "depth": 0,
+    "body": "이건 용서할수없지 ㅋㅋㅋㅋㅋ",
+    "body_html": "이건 용서할수없지 ㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "267845820",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:41:10",
+    "depth": 0,
+    "body": "아.....",
+    "body_html": "아.....",
+    "deleted": false
+  },
+  {
+    "id": "267845836",
+    "parent_id": "267845820",
+    "author": "ㅇㅇ",
+    "published": "11.14 14:41:26",
+    "depth": 1,
+    "body": "입막음 싸이버거는 좀 짜치긴하네.......",
+    "body_html": "입막음 싸이버거는 좀 짜치긴하네.......",
+    "deleted": false
+  }
+]
