@@ -16,7 +16,9 @@
     @media(max-width:640px) { header { height:50px; padding:0 14px; } .updated,.search { padding-left:14px; padding-right:14px; } .search-status { padding-left:14px; padding-right:14px; } .post-row { min-height:55px; padding:16px 14px; } .row-title { font-size:16px; } .pager { gap:5px; padding:20px 10px; } .page-link { min-width:32px; padding:7px 8px; } }
   </style>
 </head>
-<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 1939개 · 78/97 페이지 · 마지막 수집 2026-11-17 18:37 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="476188" href="posts/476188.html">
+<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 1940개 · 78/97 페이지 · 마지막 수집 2026-11-17 18:37 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="476190" href="posts/476190.html">
+  <span class="row-title">싱글벙글 미국에서 마갤 완장 이미지....</span>
+</a><a class="post-row" data-post-id="476188" href="posts/476188.html">
   <span class="row-title">실시간 후푸 현 메타를 꿰뚫어보는 일침.jpg</span>
 </a><a class="post-row" data-post-id="476184" href="posts/476184.html">
   <span class="row-title">싱글벙글 릴라이거를 아시나요?</span>
@@ -54,8 +56,6 @@
   <span class="row-title">이스라엘군에 미국자금 지원안했으면 망했을 무기가 있다?</span>
 </a><a class="post-row" data-post-id="476150" href="posts/476150.html">
   <span class="row-title">&quot;안중근은 애국자였다&quot;..일본 시의원의 고백</span>
-</a><a class="post-row" data-post-id="476148" href="posts/476148.html">
-  <span class="row-title">도쿠시마 DAY 4 (끝)</span>
 </a></section><section id="archive-search-results" hidden aria-label="검색 결과"></section><nav class="pager" aria-label="목록 페이지"><a class="page-link page-shift" href="page-70.html" aria-label="이전 페이지 묶음">이전</a><a class="page-link" href="page-71.html">71</a><a class="page-link" href="page-72.html">72</a><a class="page-link" href="page-73.html">73</a><a class="page-link" href="page-74.html">74</a><a class="page-link" href="page-75.html">75</a><a class="page-link" href="page-76.html">76</a><a class="page-link" href="page-77.html">77</a><a class="page-link current" href="page-78.html" aria-current="page">78</a><a class="page-link" href="page-79.html">79</a><a class="page-link" href="page-80.html">80</a><a class="page-link page-shift" href="page-81.html" aria-label="다음 페이지 묶음">다음</a></nav></main><script id="archive-read-list">
 (() => {
   const key = "dcinside-archive-read-posts";
@@ -113,7 +113,7 @@
     if (!query) return reset();
     status.textContent = "검색 중…";
     try {
-      entries ||= await fetch("archive.json?v=8d4199f23d77b1f6", { cache: "force-cache" }).then((response) => {
+      entries ||= await fetch("archive.json?v=b2badc3ea181389f", { cache: "force-cache" }).then((response) => {
         if (!response.ok) throw new Error("archive index unavailable");
         return response.json();
       });

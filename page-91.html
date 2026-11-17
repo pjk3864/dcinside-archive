@@ -16,7 +16,9 @@
     @media(max-width:640px) { header { height:50px; padding:0 14px; } .updated,.search { padding-left:14px; padding-right:14px; } .search-status { padding-left:14px; padding-right:14px; } .post-row { min-height:55px; padding:16px 14px; } .row-title { font-size:16px; } .pager { gap:5px; padding:20px 10px; } .page-link { min-width:32px; padding:7px 8px; } }
   </style>
 </head>
-<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 1939개 · 91/97 페이지 · 마지막 수집 2026-11-17 18:37 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="475616" href="posts/475616.html">
+<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 1940개 · 91/97 페이지 · 마지막 수집 2026-11-17 18:37 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="475622" href="posts/475622.html">
+  <span class="row-title">싱글벙글 한우의 불편한 진실글의 진실을 알아보자</span>
+</a><a class="post-row" data-post-id="475616" href="posts/475616.html">
   <span class="row-title">메이플스토리 핵 프로그램 돈줄 끊으려는 넥슨.. 美법원, 소송 기각 경고</span>
 </a><a class="post-row" data-post-id="475613" href="posts/475613.html">
   <span class="row-title">30세 공격수 숨지자 후폭풍…&#x27;살인자&#x27; 몰린 골키퍼</span>
@@ -54,8 +56,6 @@
   <span class="row-title">&quot;아내 몰래 신혼집에 몰카 설치&quot;…32기 영수, 사생활 침해 논란</span>
 </a><a class="post-row" data-post-id="475562" href="posts/475562.html">
   <span class="row-title">❗❗❗니케 해킹사태 총정리함❗❗❗</span>
-</a><a class="post-row" data-post-id="475557" href="posts/475557.html">
-  <span class="row-title">씹덕겜 디시콘들이 좆병신같은 이유.fact</span>
 </a></section><section id="archive-search-results" hidden aria-label="검색 결과"></section><nav class="pager" aria-label="목록 페이지"><a class="page-link page-shift" href="page-90.html" aria-label="이전 페이지 묶음">이전</a><a class="page-link current" href="page-91.html" aria-current="page">91</a><a class="page-link" href="page-92.html">92</a><a class="page-link" href="page-93.html">93</a><a class="page-link" href="page-94.html">94</a><a class="page-link" href="page-95.html">95</a><a class="page-link" href="page-96.html">96</a><a class="page-link" href="page-97.html">97</a></nav></main><script id="archive-read-list">
 (() => {
   const key = "dcinside-archive-read-posts";
@@ -113,7 +113,7 @@
     if (!query) return reset();
     status.textContent = "검색 중…";
     try {
-      entries ||= await fetch("archive.json?v=8d4199f23d77b1f6", { cache: "force-cache" }).then((response) => {
+      entries ||= await fetch("archive.json?v=b2badc3ea181389f", { cache: "force-cache" }).then((response) => {
         if (!response.ok) throw new Error("archive index unavailable");
         return response.json();
       });

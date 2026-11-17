@@ -16,7 +16,9 @@
     @media(max-width:640px) { header { height:50px; padding:0 14px; } .updated,.search { padding-left:14px; padding-right:14px; } .search-status { padding-left:14px; padding-right:14px; } .post-row { min-height:55px; padding:16px 14px; } .row-title { font-size:16px; } .pager { gap:5px; padding:20px 10px; } .page-link { min-width:32px; padding:7px 8px; } }
   </style>
 </head>
-<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 1939개 · 81/97 페이지 · 마지막 수집 2026-11-17 18:37 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="476073" href="posts/476073.html">
+<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 1940개 · 81/97 페이지 · 마지막 수집 2026-11-17 18:37 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="476075" href="posts/476075.html">
+  <span class="row-title">한국인 기우제 근황 ㅋㅋㅋㅋㅋㅋㅋㅋ</span>
+</a><a class="post-row" data-post-id="476073" href="posts/476073.html">
   <span class="row-title">싱글벙글 뉴진스 근황</span>
 </a><a class="post-row" data-post-id="476071" href="posts/476071.html">
   <span class="row-title">싱글벙글 어느 40대 부장의 20년 회사 후기</span>
@@ -54,8 +56,6 @@
   <span class="row-title">같이 계곡 갈까?? 여자친구 게하에서 남자만나고 같이 롯데월드</span>
 </a><a class="post-row" data-post-id="476035" href="posts/476035.html">
   <span class="row-title">Probably Stolen이 출시 5일만에 75만장 판매한 비결</span>
-</a><a class="post-row" data-post-id="476033" href="posts/476033.html">
-  <span class="row-title">싱글벙글 히틀러 똥꼬를 빨던 르 코르뷔지에에 대해.araboja</span>
 </a></section><section id="archive-search-results" hidden aria-label="검색 결과"></section><nav class="pager" aria-label="목록 페이지"><a class="page-link page-shift" href="page-80.html" aria-label="이전 페이지 묶음">이전</a><a class="page-link current" href="page-81.html" aria-current="page">81</a><a class="page-link" href="page-82.html">82</a><a class="page-link" href="page-83.html">83</a><a class="page-link" href="page-84.html">84</a><a class="page-link" href="page-85.html">85</a><a class="page-link" href="page-86.html">86</a><a class="page-link" href="page-87.html">87</a><a class="page-link" href="page-88.html">88</a><a class="page-link" href="page-89.html">89</a><a class="page-link" href="page-90.html">90</a><a class="page-link page-shift" href="page-91.html" aria-label="다음 페이지 묶음">다음</a></nav></main><script id="archive-read-list">
 (() => {
   const key = "dcinside-archive-read-posts";
@@ -113,7 +113,7 @@
     if (!query) return reset();
     status.textContent = "검색 중…";
     try {
-      entries ||= await fetch("archive.json?v=8d4199f23d77b1f6", { cache: "force-cache" }).then((response) => {
+      entries ||= await fetch("archive.json?v=b2badc3ea181389f", { cache: "force-cache" }).then((response) => {
         if (!response.ok) throw new Error("archive index unavailable");
         return response.json();
       });
