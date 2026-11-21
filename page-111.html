@@ -16,7 +16,17 @@
     @media(max-width:640px) { header { height:50px; padding:0 14px; } .updated,.search { padding-left:14px; padding-right:14px; } .search-status { padding-left:14px; padding-right:14px; } .post-row { min-height:55px; padding:16px 14px; } .row-title { font-size:16px; } .pager { gap:5px; padding:20px 10px; } .page-link { min-width:32px; padding:7px 8px; } }
   </style>
 </head>
-<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2391개 · 111/120 페이지 · 마지막 수집 2026-11-21 10:11 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="475758" href="posts/475758.html">
+<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2396개 · 111/120 페이지 · 마지막 수집 2026-11-21 10:11 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="475770" href="posts/475770.html">
+  <span class="row-title">싱글벙글 젤다 리메이크 점수 근황</span>
+</a><a class="post-row" data-post-id="475768" href="posts/475768.html">
+  <span class="row-title">단소 근황</span>
+</a><a class="post-row" data-post-id="475766" href="posts/475766.html">
+  <span class="row-title">씨발.... 컴터 악성코드 검사했는데 지랄났노</span>
+</a><a class="post-row" data-post-id="475764" href="posts/475764.html">
+  <span class="row-title">백종원 돌려까던 유튜버 글댕이 근황 ㅋㅋㅋㅋ</span>
+</a><a class="post-row" data-post-id="475760" href="posts/475760.html">
+  <span class="row-title">여자들 끼리 핥아주기? 그게 병신 같은 이유</span>
+</a><a class="post-row" data-post-id="475758" href="posts/475758.html">
   <span class="row-title">반더벤 남친짤</span>
 </a><a class="post-row" data-post-id="475756" href="posts/475756.html">
   <span class="row-title">비트 3억롱 근황</span>
@@ -46,16 +56,6 @@
   <span class="row-title">싱글벙글 싸움을 말리는 방법.....</span>
 </a><a class="post-row" data-post-id="475726" href="posts/475726.html">
   <span class="row-title">도쿠시마 DAY 2</span>
-</a><a class="post-row" data-post-id="475724" href="posts/475724.html">
-  <span class="row-title">여인숙 익스트랙션 개발 10월 결산</span>
-</a><a class="post-row" data-post-id="475722" href="posts/475722.html">
-  <span class="row-title">디아즈 선제 적시 3루타.webp</span>
-</a><a class="post-row" data-post-id="475720" href="posts/475720.html">
-  <span class="row-title">싱글벙글 내가 서유럽녀들 싫어하게된 이유.SSUL</span>
-</a><a class="post-row" data-post-id="475718" href="posts/475718.html">
-  <span class="row-title">연프에 등장한 자신감 넘치는 모솔남</span>
-</a><a class="post-row" data-post-id="475716" href="posts/475716.html">
-  <span class="row-title">어느 만화가의 여캐 그리는 과정</span>
 </a></section><section id="archive-search-results" hidden aria-label="검색 결과"></section><nav class="pager" aria-label="목록 페이지"><a class="page-link page-shift" href="page-110.html" aria-label="이전 페이지 묶음">이전</a><a class="page-link current" href="page-111.html" aria-current="page">111</a><a class="page-link" href="page-112.html">112</a><a class="page-link" href="page-113.html">113</a><a class="page-link" href="page-114.html">114</a><a class="page-link" href="page-115.html">115</a><a class="page-link" href="page-116.html">116</a><a class="page-link" href="page-117.html">117</a><a class="page-link" href="page-118.html">118</a><a class="page-link" href="page-119.html">119</a><a class="page-link" href="page-120.html">120</a></nav></main><script id="archive-read-list">
 (() => {
   const key = "dcinside-archive-read-posts";
@@ -113,7 +113,7 @@
     if (!query) return reset();
     status.textContent = "검색 중…";
     try {
-      entries ||= await fetch("archive.json?v=5da549262feec570", { cache: "force-cache" }).then((response) => {
+      entries ||= await fetch("archive.json?v=ee95adaa7ca23ed2", { cache: "force-cache" }).then((response) => {
         if (!response.ok) throw new Error("archive index unavailable");
         return response.json();
       });

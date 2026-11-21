@@ -16,7 +16,17 @@
     @media(max-width:640px) { header { height:50px; padding:0 14px; } .updated,.search { padding-left:14px; padding-right:14px; } .search-status { padding-left:14px; padding-right:14px; } .post-row { min-height:55px; padding:16px 14px; } .row-title { font-size:16px; } .pager { gap:5px; padding:20px 10px; } .page-link { min-width:32px; padding:7px 8px; } }
   </style>
 </head>
-<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2391개 · 5/120 페이지 · 마지막 수집 2026-11-21 10:11 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="480444" href="posts/480444.html">
+<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2396개 · 5/120 페이지 · 마지막 수집 2026-11-21 10:11 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="480453" href="posts/480453.html">
+  <span class="row-title">재미재미 대한민국 게임의 표본</span>
+</a><a class="post-row" data-post-id="480450" href="posts/480450.html">
+  <span class="row-title">[단독]수험생들 “커닝 확인 끝날때까지 합격자 발표 연기하라”</span>
+</a><a class="post-row" data-post-id="480449" href="posts/480449.html">
+  <span class="row-title">한국 수출액 1조달러 첫 돌파 일본 야후 반응.jpg</span>
+</a><a class="post-row" data-post-id="480447" href="posts/480447.html">
+  <span class="row-title">훌쩍훌쩍 GTA6 무료나눔</span>
+</a><a class="post-row" data-post-id="480446" href="posts/480446.html">
+  <span class="row-title">TGA 수장 트위터 근황 ㅋㅋㅋㅋㅋ</span>
+</a><a class="post-row" data-post-id="480444" href="posts/480444.html">
   <span class="row-title">엄마랑 연락하는데 숨이 진짜 개턱막히네</span>
 </a><a class="post-row" data-post-id="480443" href="posts/480443.html">
   <span class="row-title">오들오들 디시콘으로 설명하는 재난문자 회피 수법</span>
@@ -46,16 +56,6 @@
   <span class="row-title">루시아랑 우호도 최악이면 바람2번 핀다는데ㅅㅂ</span>
 </a><a class="post-row" data-post-id="480415" href="posts/480415.html">
   <span class="row-title">마마 리센느 입장신</span>
-</a><a class="post-row" data-post-id="480409" href="posts/480409.html">
-  <span class="row-title">공유) 평가원에 충격적인 글 올라옴 ㄷㄷㄷ</span>
-</a><a class="post-row" data-post-id="480407" href="posts/480407.html">
-  <span class="row-title">의외로 전과자들이 더 취업이 쉬움 법무무산하협력기업이 튼실함</span>
-</a><a class="post-row" data-post-id="480406" href="posts/480406.html">
-  <span class="row-title">남녀 혐오가없던 2000년대초</span>
-</a><a class="post-row" data-post-id="480402" href="posts/480402.html">
-  <span class="row-title">대학가요제 후기</span>
-</a><a class="post-row" data-post-id="480400" href="posts/480400.html">
-  <span class="row-title">번개장터 진짜 광기.....jpg</span>
 </a></section><section id="archive-search-results" hidden aria-label="검색 결과"></section><nav class="pager" aria-label="목록 페이지"><a class="page-link" href="index.html">1</a><a class="page-link" href="page-2.html">2</a><a class="page-link" href="page-3.html">3</a><a class="page-link" href="page-4.html">4</a><a class="page-link current" href="page-5.html" aria-current="page">5</a><a class="page-link" href="page-6.html">6</a><a class="page-link" href="page-7.html">7</a><a class="page-link" href="page-8.html">8</a><a class="page-link" href="page-9.html">9</a><a class="page-link" href="page-10.html">10</a><a class="page-link page-shift" href="page-11.html" aria-label="다음 페이지 묶음">다음</a></nav></main><script id="archive-read-list">
 (() => {
   const key = "dcinside-archive-read-posts";
@@ -113,7 +113,7 @@
     if (!query) return reset();
     status.textContent = "검색 중…";
     try {
-      entries ||= await fetch("archive.json?v=5da549262feec570", { cache: "force-cache" }).then((response) => {
+      entries ||= await fetch("archive.json?v=ee95adaa7ca23ed2", { cache: "force-cache" }).then((response) => {
         if (!response.ok) throw new Error("archive index unavailable");
         return response.json();
       });
