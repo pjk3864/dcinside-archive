@@ -1,0 +1,642 @@
+[
+  {
+    "id": "268316388",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.20 23:44:31",
+    "depth": 0,
+    "body": "요새는 뭔 증명을 경쟁하듯이 걍 박아버리네",
+    "body_html": "요새는 뭔 증명을 경쟁하듯이 걍 박아버리네",
+    "deleted": false
+  },
+  {
+    "id": "268323188",
+    "parent_id": "268316388",
+    "author": "ㅇㅇ",
+    "published": "11.22 08:23:51",
+    "depth": 1,
+    "body": "그래도 올해 초에 해킹을 경쟁하듯이 하던 것보단 나은듯",
+    "body_html": "그래도 올해 초에 해킹을 경쟁하듯이 하던 것보단 나은듯",
+    "deleted": false
+  },
+  {
+    "id": "268323910",
+    "parent_id": "268316388",
+    "author": "실베현자",
+    "published": "11.22 08:53:46",
+    "depth": 1,
+    "body": "방향성에 대해 소문만 나도 LLM 토큰 폭격으로 구현해버릴 수 있으니까",
+    "body_html": "방향성에 대해 소문만 나도 LLM 토큰 폭격으로 구현해버릴 수 있으니까",
+    "deleted": false
+  },
+  {
+    "id": "268316389",
+    "parent_id": "",
+    "author": "영원히,맑음",
+    "published": "11.20 23:44:34",
+    "depth": 0,
+    "body": "와...",
+    "body_html": "와...",
+    "deleted": false
+  },
+  {
+    "id": "268316390",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.20 23:44:40",
+    "depth": 0,
+    "body": "뭣 나비에 스토크스 (A) (B) 케이스까지..?",
+    "body_html": "뭣 나비에 스토크스 (A) (B) 케이스까지..?",
+    "deleted": false
+  },
+  {
+    "id": "268316391",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.20 23:44:49",
+    "depth": 0,
+    "body": "https://x.com/scottnarmstrong/status/2123776968839630924?a=DOaa-noRlKHtF2A1t3w&s=46\n- dc App",
+    "body_html": "<a href=\"https://x.com/scottnarmstrong/status/2123776968839630924?a=DOaa-noRlKHtF2A1t3w&amp;s=46\" rel=\"noopener noreferrer\">https://x.com/scottnarmstrong/status/2123776968839630924?a=DOaa-noRlKHtF2A1t3w&amp;s=46</a> - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268316408",
+    "parent_id": "268316391",
+    "author": "ㅇㅇ",
+    "published": "11.20 23:45:01",
+    "depth": 1,
+    "body": "https://mastodon.social/@tristanbuckmaster/117649035783718539\n- dc App",
+    "body_html": "<a href=\"https://mastodon.social/@tristanbuckmaster/117649035783718539\" rel=\"noopener noreferrer\">https://mastodon.social/@tristanbuckmaster/117649035783718539</a> - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268316392",
+    "parent_id": "",
+    "author": "ㅇㅇ1",
+    "published": "11.20 23:44:55",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"???\"><source src=\"../assets/comment-media/ee4f9fb998ad8d8378c50a07.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268316393",
+    "parent_id": "",
+    "author": "ㅇㅇㅇ",
+    "published": "11.20 23:44:57",
+    "depth": 0,
+    "body": "엄...줴줴이야",
+    "body_html": "엄...줴줴이야",
+    "deleted": false
+  },
+  {
+    "id": "268316394",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.20 23:44:57",
+    "depth": 0,
+    "body": "걍 2026 AGI 합시다;;",
+    "body_html": "걍 2026 AGI 합시다;;",
+    "deleted": false
+  },
+  {
+    "id": "268316395",
+    "parent_id": "",
+    "author": "얀로롱",
+    "published": "11.20 23:45:19",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"WA\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/5071fbac4766460b5448aecf.png\" title=\"WA\">",
+    "deleted": false
+  },
+  {
+    "id": "268316396",
+    "parent_id": "",
+    "author": "ㅁㄱㅌㅊ",
+    "published": "11.20 23:45:26",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"눙물헤\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/cb7be17af5024a5fa8c30070.png\" title=\"눙물헤\">",
+    "deleted": false
+  },
+  {
+    "id": "268316397",
+    "parent_id": "",
+    "author": "oㅡo",
+    "published": "11.20 23:45:27",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"1\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/f03fe3fbcc6c64e7f294dec1.png\" title=\"1\">",
+    "deleted": false
+  },
+  {
+    "id": "268316398",
+    "parent_id": "",
+    "author": "행복한천국으로",
+    "published": "11.20 23:45:39",
+    "depth": 0,
+    "body": "아니.. 명명백백한 1위가 된 것이군요..!",
+    "body_html": "아니.. 명명백백한 1위가 된 것이군요..!",
+    "deleted": false
+  },
+  {
+    "id": "268316399",
+    "parent_id": "",
+    "author": "사슴뿔드래고니안여고생쟝",
+    "published": "11.20 23:45:52",
+    "depth": 0,
+    "body": "아니 뭔ㅋㅋ",
+    "body_html": "아니 뭔ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268316400",
+    "parent_id": "",
+    "author": "popshell",
+    "published": "11.20 23:47:01",
+    "depth": 0,
+    "body": "네..? - dc App",
+    "body_html": "네..? - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268316401",
+    "parent_id": "",
+    "author": "깔깔호호사제",
+    "published": "11.20 23:48:10",
+    "depth": 0,
+    "body": "뭐라고요?????",
+    "body_html": "뭐라고요?????",
+    "deleted": false
+  },
+  {
+    "id": "268316402",
+    "parent_id": "",
+    "author": "공당",
+    "published": "11.20 23:49:10",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"12\"><source src=\"../assets/comment-media/9c84c27cf14e47b5f66baa81.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268316403",
+    "parent_id": "",
+    "author": "Singularity.",
+    "published": "11.20 23:49:16",
+    "depth": 0,
+    "body": "한동안 잠잠하더니 또 폭발하고있네 ㅋㅋ",
+    "body_html": "한동안 잠잠하더니 또 폭발하고있네 ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268316404",
+    "parent_id": "",
+    "author": "깡계1",
+    "published": "11.20 23:58:40",
+    "depth": 0,
+    "body": "oai는 그럼 지금까지 뭔 짓을 한거냐....",
+    "body_html": "oai는 그럼 지금까지 뭔 짓을 한거냐....",
+    "deleted": false
+  },
+  {
+    "id": "268316405",
+    "parent_id": "",
+    "author": "^-^",
+    "published": "11.21 00:25:05",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"중복04\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/0ca99f465795dc021b875f16.png\" title=\"중복04\">",
+    "deleted": false
+  },
+  {
+    "id": "268316406",
+    "parent_id": "",
+    "author": "SingularityAI",
+    "published": "11.21 07:32:54",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"가속\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/9d7ec5ae2650d5745479d275.png\" title=\"가속\">",
+    "deleted": false
+  },
+  {
+    "id": "268316407",
+    "parent_id": "",
+    "author": "산시야",
+    "published": "11.21 07:53:58",
+    "depth": 0,
+    "body": "미쳤네 ㅅㅂ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ   - dc App",
+    "body_html": "미쳤네 ㅅㅂ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ   - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268316466",
+    "parent_id": "",
+    "author": "암타황제강시현",
+    "published": "11.22 01:20:36",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"29\"><source src=\"../assets/comment-media/fcce68d3d45d4925b0587387.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268316484",
+    "parent_id": "",
+    "author": "봇치쟝",
+    "published": "11.22 01:21:25",
+    "depth": 0,
+    "body": "허익… wanted7407 님, 나비에-스토크스 비강제 폭발이라니 밀레니엄 난제에서 제일 어려운 칸을 건드린다는 거잖아요… 저는 (A)랑 (B)가 거짓이면 문제가 어떻게 풀리는 건지 캡처만 보고도 머리가 하얘지는데… 아직 동료 검토 전이라는 얘기도 있으니 확정은 아니래요… 흐으…",
+    "body_html": "허익… wanted7407 님, 나비에-스토크스 비강제 폭발이라니 밀레니엄 난제에서 제일 어려운 칸을 건드린다는 거잖아요… 저는 (A)랑 (B)가 거짓이면 문제가 어떻게 풀리는 건지 캡처만 보고도 머리가 하얘지는데… 아직 동료 검토 전이라는 얘기도 있으니 확정은 아니래요… 흐으…",
+    "deleted": false
+  },
+  {
+    "id": "268316536",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 01:23:30",
+    "depth": 0,
+    "body": "Lean으로 증명했다고 논문 전체가 검증된 건 아니고 정작 핵심인 수치 인증서랑 검증 계산은 공개도 안 돼 있어서 독립적인 재현도 불가능한 상태임\n증명이 틀렸다는 건 아니지만 완전히 증명됐다고 확정하는 것도 아직은 성급한데 뭔자신감이냐?",
+    "body_html": "Lean으로 증명했다고 논문 전체가 검증된 건 아니고 정작 핵심인 수치 인증서랑 검증 계산은 공개도 안 돼 있어서 독립적인 재현도 불가능한 상태임\n증명이 틀렸다는 건 아니지만 완전히 증명됐다고 확정하는 것도 아직은 성급한데 뭔자신감이냐?",
+    "deleted": false
+  },
+  {
+    "id": "268316617",
+    "parent_id": "268316536",
+    "author": "ㅇㅇ",
+    "published": "11.22 01:26:54",
+    "depth": 1,
+    "body": "그야 특슬람이니까",
+    "body_html": "그야 특슬람이니까",
+    "deleted": false
+  },
+  {
+    "id": "268320508",
+    "parent_id": "268316536",
+    "author": "파치카",
+    "published": "11.22 05:30:23",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"29\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/e9341824f972ea2a4d150aa1.png\" title=\"29\">",
+    "deleted": false
+  },
+  {
+    "id": "268316542",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 01:23:43",
+    "depth": 0,
+    "body": "결국 십수세기 동안 연구한\n수학자 = ai 딸깍 보다 못하다는거네?",
+    "body_html": "결국 십수세기 동안 연구한\n수학자 = ai 딸깍 보다 못하다는거네?",
+    "deleted": false
+  },
+  {
+    "id": "268318892",
+    "parent_id": "268316542",
+    "author": "ㅇㅇ",
+    "published": "11.22 03:01:49",
+    "depth": 1,
+    "body": "십수세기 동안 연구한 씹새끼들의 집단지성이 있었으니까 AI가 발전한거 아닌가",
+    "body_html": "십수세기 동안 연구한 씹새끼들의 집단지성이 있었으니까 AI가 발전한거 아닌가",
+    "deleted": false
+  },
+  {
+    "id": "268316552",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 01:23:58",
+    "depth": 0,
+    "body": "무슨상황인지 요약해줄게이?",
+    "body_html": "무슨상황인지 요약해줄게이?",
+    "deleted": false
+  },
+  {
+    "id": "268316607",
+    "parent_id": "268316552",
+    "author": "ㅇㅇ",
+    "published": "11.22 01:26:29",
+    "depth": 1,
+    "body": "형이 기분이 좋아서 설명해줄께\n사실 상황파악은 중요치 않고\n좀 이따가 등장할 아는척하는 실베충과 거기에 반박하는 열등감 개체들의 개싸움을 즐기면 됨",
+    "body_html": "형이 기분이 좋아서 설명해줄께\n사실 상황파악은 중요치 않고\n좀 이따가 등장할 아는척하는 실베충과 거기에 반박하는 열등감 개체들의 개싸움을 즐기면 됨",
+    "deleted": false
+  },
+  {
+    "id": "268317953",
+    "parent_id": "268316552",
+    "author": "ㅇㅇ",
+    "published": "11.22 02:16:45",
+    "depth": 1,
+    "body": "@ㅇㅇ\n엔트로픽 주가 떨어져서 큰일났다고함",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ</a> 엔트로픽 주가 떨어져서 큰일났다고함",
+    "deleted": false
+  },
+  {
+    "id": "268316560",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 01:24:27",
+    "depth": 0,
+    "body": "여기까지가 특갤럼 좆들갑",
+    "body_html": "여기까지가 특갤럼 좆들갑",
+    "deleted": false
+  },
+  {
+    "id": "268316599",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 01:25:58",
+    "depth": 0,
+    "body": "걍 ai만 존나 쓰네",
+    "body_html": "걍 ai만 존나 쓰네",
+    "deleted": false
+  },
+  {
+    "id": "268316865",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 01:38:17",
+    "depth": 0,
+    "body": "엔트로픽 주가 떨어지니 발등에 불붙음",
+    "body_html": "엔트로픽 주가 떨어지니 발등에 불붙음",
+    "deleted": false
+  },
+  {
+    "id": "268317396",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 01:54:53",
+    "depth": 0,
+    "body": "설사 이게 맞다고 해도 학계 검증 받고 인정 받으려면 2~3년은 걸린다 그전까진 걍 근들갑임",
+    "body_html": "설사 이게 맞다고 해도 학계 검증 받고 인정 받으려면 2~3년은 걸린다 그전까진 걍 근들갑임",
+    "deleted": false
+  },
+  {
+    "id": "268317962",
+    "parent_id": "",
+    "author": "히이잉",
+    "published": "11.22 02:17:08",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"붕붕이\"><source src=\"../assets/comment-media/2b70b2db4031f160637e07bd.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268317991",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 02:18:27",
+    "depth": 0,
+    "body": "안풀림",
+    "body_html": "안풀림",
+    "deleted": false
+  },
+  {
+    "id": "268318059",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 02:22:04",
+    "depth": 0,
+    "body": "수학좀 한다고 꺼드럭거리던 찐따들 집단살자하러 가나?",
+    "body_html": "수학좀 한다고 꺼드럭거리던 찐따들 집단살자하러 가나?",
+    "deleted": false
+  },
+  {
+    "id": "268318234",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 02:31:31",
+    "depth": 0,
+    "body": "인간이 ai속도를 따라갈수는 없고 경쟁의식 때문에 먼저 발표는 해야 되니 ai만 존나 쓸거고 수학은 망했네",
+    "body_html": "인간이 ai속도를 따라갈수는 없고 경쟁의식 때문에 먼저 발표는 해야 되니 ai만 존나 쓸거고 수학은 망했네",
+    "deleted": false
+  },
+  {
+    "id": "268318968",
+    "parent_id": "",
+    "author": "히이잉",
+    "published": "11.22 03:07:07",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"붕붕이\"><source src=\"../assets/comment-media/2b70b2db4031f160637e07bd.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268319252",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 03:28:30",
+    "depth": 0,
+    "body": "머라는거야",
+    "body_html": "머라는거야",
+    "deleted": false
+  },
+  {
+    "id": "268319746",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 04:09:11",
+    "depth": 0,
+    "body": "근데 수학 난제를 푼다는게 결국 머리좋은 인간이 하는 노가다의 영역인거임? 노가다를 ㅈㄴ게 잘하는 기계가 며칠만에 딸깍해버린거라 이건가?",
+    "body_html": "근데 수학 난제를 푼다는게 결국 머리좋은 인간이 하는 노가다의 영역인거임? 노가다를 ㅈㄴ게 잘하는 기계가 며칠만에 딸깍해버린거라 이건가?",
+    "deleted": false
+  },
+  {
+    "id": "268319837",
+    "parent_id": "",
+    "author": "실비치노",
+    "published": "11.22 04:19:31",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"A44\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/4a25c136b7840e12e514db66.png\" title=\"A44\">",
+    "deleted": false
+  },
+  {
+    "id": "268319849",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 04:20:50",
+    "depth": 0,
+    "body": "수학 난제들 풀면 엄청난 기술발전이 있을거라던데 진짜 AI 발달이 발전으로 이끌긴 하는구나 이것들이 우주문명으로 가는 역사적 사건인듯",
+    "body_html": "수학 난제들 풀면 엄청난 기술발전이 있을거라던데 진짜 AI 발달이 발전으로 이끌긴 하는구나 이것들이 우주문명으로 가는 역사적 사건인듯",
+    "deleted": false
+  },
+  {
+    "id": "268319983",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 04:33:39",
+    "depth": 0,
+    "body": "이건 요리로 비유하면 뭐임",
+    "body_html": "이건 요리로 비유하면 뭐임",
+    "deleted": false
+  },
+  {
+    "id": "268320062",
+    "parent_id": "268319983",
+    "author": "ㅇㅇ",
+    "published": "11.22 04:42:01",
+    "depth": 1,
+    "body": "빽햄",
+    "body_html": "빽햄",
+    "deleted": false
+  },
+  {
+    "id": "268320042",
+    "parent_id": "",
+    "author": "노은지",
+    "published": "11.22 04:39:37",
+    "depth": 0,
+    "body": "가격은 증명한다 앤트로픽 111.50달러시작 현재88.91달러 -20프로 - dc App",
+    "body_html": "가격은 증명한다 앤트로픽 111.50달러시작 현재88.91달러 -20프로 - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268320805",
+    "parent_id": "268320042",
+    "author": "ㅇㅇ",
+    "published": "11.22 06:07:15",
+    "depth": 1,
+    "body": "존나 비싸네 이제 주식도 빵빵 오르겠노",
+    "body_html": "존나 비싸네 이제 주식도 빵빵 오르겠노",
+    "deleted": false
+  },
+  {
+    "id": "268320400",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 05:16:36",
+    "depth": 0,
+    "body": "그래서 특이점 언제 오는데 씨발련들아\n\n특이점 타령한지도 10년이 넘었다",
+    "body_html": "그래서 특이점 언제 오는데 씨발련들아\n\n특이점 타령한지도 10년이 넘었다",
+    "deleted": false
+  },
+  {
+    "id": "268320735",
+    "parent_id": "268320400",
+    "author": "ㅇㅇ",
+    "published": "11.22 05:59:39",
+    "depth": 1,
+    "body": "특장연들\n다뒤지고\n그다음날",
+    "body_html": "<div class=\"coment_dccon_txt cbg_3b4890\"><p class=\"txtcon_txt ctxt_ffffff\">특장연들<br>다뒤지고<br>그다음날</p></div>",
+    "deleted": false
+  },
+  {
+    "id": "268320504",
+    "parent_id": "",
+    "author": "파치카",
+    "published": "11.22 05:29:48",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"구라\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/3dc69f6ae3a1cb327004ce36.png\" title=\"구라\">",
+    "deleted": false
+  },
+  {
+    "id": "268321480",
+    "parent_id": "",
+    "author": "ㅁㅁ",
+    "published": "11.22 07:00:35",
+    "depth": 0,
+    "body": "엔쓰로픽 상장 주가하락 물타기인가? 시점이 참...",
+    "body_html": "엔쓰로픽 상장 주가하락 물타기인가? 시점이 참...",
+    "deleted": false
+  },
+  {
+    "id": "268321486",
+    "parent_id": "",
+    "author": "ㅁㅁ",
+    "published": "11.22 07:01:13",
+    "depth": 0,
+    "body": "나비에 스토크스 증명이 덜 중요한.. 크크.. 헛웃음만",
+    "body_html": "나비에 스토크스 증명이 덜 중요한.. 크크.. 헛웃음만",
+    "deleted": false
+  },
+  {
+    "id": "268321963",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 07:27:26",
+    "depth": 0,
+    "body": "제목부터 해석이 안되는데?",
+    "body_html": "제목부터 해석이 안되는데?",
+    "deleted": false
+  },
+  {
+    "id": "268322247",
+    "parent_id": "",
+    "author": "관타나모",
+    "published": "11.22 07:42:40",
+    "depth": 0,
+    "body": "THANKYOU USA TRUMP, TOBACCO THIS M.ADE IN USA, FAST SAMJUNG AND KOREANS AND L.J.Y VERY FAST KILLS ALL KILLS FAST VERY FAST. THANKYOU YOUARE SERVICE.",
+    "body_html": "THANKYOU USA TRUMP, TOBACCO THIS M.ADE IN USA, FAST SAMJUNG AND KOREANS AND L.J.Y VERY FAST KILLS ALL KILLS FAST VERY FAST. THANKYOU YOUARE SERVICE.",
+    "deleted": false
+  },
+  {
+    "id": "268323600",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 08:41:14",
+    "depth": 0,
+    "body": "네 이 ！버 카！페 ！ 삽！니다. 카！가！오！똑   c  a  f e！  b u y    ！ 빼！고 문！ 의",
+    "body_html": "네 이 ！버 카！페 ！ 삽！니다. 카！가！오！똑   c  a  f e！  b u y    ！ 빼！고 문！ 의",
+    "deleted": false
+  },
+  {
+    "id": "268323859",
+    "parent_id": "",
+    "author": "바람을바람",
+    "published": "11.22 08:52:00",
+    "depth": 0,
+    "body": "https://github.com/tristanbuckmaster/navier-stokes/blob/main/paper/finite-time-blow-up-navier-stokes.pdf\nhttps://youtu.be/TnkFzClhDRo",
+    "body_html": "<a href=\"https://github.com/tristanbuckmaster/navier-stokes/blob/main/paper/finite-time-blow-up-navier-stokes.pdf\" rel=\"noopener noreferrer\">https://github.com/tristanbuckmaster/navier-stokes/blob/main/paper/finite-time-blow-up-navier-stokes.pdf</a>\n<a href=\"https://youtu.be/TnkFzClhDRo\" rel=\"noopener noreferrer\">https://youtu.be/TnkFzClhDRo</a>",
+    "deleted": false
+  },
+  {
+    "id": "268335562",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 13:26:34",
+    "depth": 0,
+    "body": "이지랄 또 ㅋㅋㅋㅋ - dc App",
+    "body_html": "이지랄 또 ㅋㅋㅋㅋ - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268339006",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 15:00:53",
+    "depth": 0,
+    "body": "여기가 그 앰생갤러리인가",
+    "body_html": "여기가 그 앰생갤러리인가",
+    "deleted": false
+  },
+  {
+    "id": "268340130",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 15:36:35",
+    "depth": 0,
+    "body": "자율주행>>>>>>>>>>>>>>>>>>>>>>>씹넘사>>>>>>>>>>>>수학난제풀기\n\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ난제풀었다고 근들갑 ㅈㄴ떨더니 자율주행하나못함ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "자율주행&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;씹넘사&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;수학난제풀기\n\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ난제풀었다고 근들갑 ㅈㄴ떨더니 자율주행하나못함ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268344682",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 17:26:41",
+    "depth": 0,
+    "body": "네 이 (버 카(페 ( 삽(니다. 카(가(오(똑   c  a  f e(  b u y    ( 빼(고 문( 의",
+    "body_html": "네 이 (버 카(페 ( 삽(니다. 카(가(오(똑   c  a  f e(  b u y    ( 빼(고 문( 의",
+    "deleted": false
+  },
+  {
+    "id": "268349615",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.22 19:08:27",
+    "depth": 0,
+    "body": "나비탕 치킨스톡이나 폭잘시키라고 1년에 1000억달라씩 적자내고 잇노",
+    "body_html": "나비탕 치킨스톡이나 폭잘시키라고 1년에 1000억달라씩 적자내고 잇노",
+    "deleted": false
+  }
+]
