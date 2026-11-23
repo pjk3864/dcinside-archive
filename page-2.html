@@ -16,7 +16,7 @@
     @media(max-width:640px) { header { height:50px; padding:0 14px; } .updated,.search { padding-left:14px; padding-right:14px; } .search-status { padding-left:14px; padding-right:14px; } .post-row { min-height:55px; padding:16px 14px; } .row-title { font-size:16px; } .pager { gap:5px; padding:20px 10px; } .page-link { min-width:32px; padding:7px 8px; } }
   </style>
 </head>
-<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2575개 · 2/129 페이지 · 마지막 수집 2026-11-23 18:47 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="481107" href="posts/481107.html">
+<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2595개 · 2/130 페이지 · 마지막 수집 2026-11-23 18:48 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="481107" href="posts/481107.html">
   <span class="row-title">한전, 개인정보 150여만건 유출…주민·계좌번호도 포함</span>
 </a><a class="post-row" data-post-id="481106" href="posts/481106.html">
   <span class="row-title">교육부 &quot;작년 수능 부정행위 전수조사 안한다&quot;</span>
@@ -113,7 +113,7 @@
     if (!query) return reset();
     status.textContent = "검색 중…";
     try {
-      entries ||= await fetch("archive.json?v=997f95a48a65a28b", { cache: "force-cache" }).then((response) => {
+      entries ||= await fetch("archive.json?v=e488ec038a2347fe", { cache: "force-cache" }).then((response) => {
         if (!response.ok) throw new Error("archive index unavailable");
         return response.json();
       });
