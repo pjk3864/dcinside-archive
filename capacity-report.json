@@ -3,7 +3,7 @@
   "media_files": 38670,
   "soft_warning_bytes": 2147483648,
   "warning": true,
-  "free_disk_bytes": 76177563648,
+  "free_disk_bytes": 76113743872,
   "policy": "Warn only; never delete archives or rewrite Git history automatically.",
-  "checked_at": "2026-11-23T18:50:53+07:00"
+  "checked_at": "2026-11-23T18:51:04+07:00"
 }
