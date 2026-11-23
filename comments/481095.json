@@ -1,0 +1,922 @@
+[
+  {
+    "id": "268401301",
+    "parent_id": "",
+    "author": "현갤러1",
+    "published": "11.23 16:55:58",
+    "depth": 0,
+    "body": "개잡커리 거르고 알맹이만 뽑아먹는다면 뭐뭐 들으면 됨?",
+    "body_html": "개잡커리 거르고 알맹이만 뽑아먹는다면 뭐뭐 들으면 됨?",
+    "deleted": false
+  },
+  {
+    "id": "268401319",
+    "parent_id": "268401301",
+    "author": "현갤러",
+    "published": "11.23 16:57:41",
+    "depth": 1,
+    "body": "올오카 빅플릭스 티아엠\n\n나머지 걍 실모 ㅈㄴ 치고 기출 복습하고 본인이 알아서 공부하는 게 더 중요\n이제 아수라도 옛말임 아수라도 거르셈",
+    "body_html": "올오카 빅플릭스 티아엠\n\n나머지 걍 실모 ㅈㄴ 치고 기출 복습하고 본인이 알아서 공부하는 게 더 중요\n이제 아수라도 옛말임 아수라도 거르셈",
+    "deleted": false
+  },
+  {
+    "id": "268401322",
+    "parent_id": "268401301",
+    "author": "현갤러1",
+    "published": "11.23 16:58:57",
+    "depth": 1,
+    "body": "@글쓴 현갤러(211.234)\nㄳㄳ",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@글쓴 현갤러(211.234)</a> ㄳㄳ",
+    "deleted": false
+  },
+  {
+    "id": "268401302",
+    "parent_id": "",
+    "author": "현갤러2",
+    "published": "11.23 16:56:07",
+    "depth": 0,
+    "body": "김승리 억까단 멸망 ㄷㄷ",
+    "body_html": "김승리 억까단 멸망 ㄷㄷ",
+    "deleted": false
+  },
+  {
+    "id": "268401303",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 16:56:25",
+    "depth": 0,
+    "body": "9는 어캐뜬거임 하위4퍼는 일부러 골라서 틀려야되는거 아니냐",
+    "body_html": "9는 어캐뜬거임 하위4퍼는 일부러 골라서 틀려야되는거 아니냐",
+    "deleted": false
+  },
+  {
+    "id": "268401318",
+    "parent_id": "268401303",
+    "author": "현갤러",
+    "published": "11.23 16:57:10",
+    "depth": 1,
+    "body": "미술하던 사람이라 (지금은 관둠) 걍 ㄹㅇ 다채롭게 골라서 틀렸음\n그때 기트남어 깔아주고 싶어서 기하 쳤었는데 ㅎㅎ",
+    "body_html": "미술하던 사람이라 (지금은 관둠) 걍 ㄹㅇ 다채롭게 골라서 틀렸음\n그때 기트남어 깔아주고 싶어서 기하 쳤었는데 ㅎㅎ",
+    "deleted": false
+  },
+  {
+    "id": "268401304",
+    "parent_id": "",
+    "author": "현갤러3",
+    "published": "11.23 16:56:57",
+    "depth": 0,
+    "body": "김승리안들었으면 그시간에 수학에 더투자가능했는데",
+    "body_html": "김승리안들었으면 그시간에 수학에 더투자가능했는데",
+    "deleted": false
+  },
+  {
+    "id": "268401321",
+    "parent_id": "268401304",
+    "author": "현갤러",
+    "published": "11.23 16:58:50",
+    "depth": 1,
+    "body": "수학에 더 했어도 안 됐을 듯 ㅋㅋ 나 수학 좆병신이라",
+    "body_html": "수학에 더 했어도 안 됐을 듯 ㅋㅋ 나 수학 좆병신이라",
+    "deleted": false
+  },
+  {
+    "id": "268404643",
+    "parent_id": "268401304",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:44:03",
+    "depth": 1,
+    "body": "@현갤러(211.234)\n수학은 누구들었니",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@현갤러(211.234)</a> 수학은 누구들었니",
+    "deleted": false
+  },
+  {
+    "id": "268401305",
+    "parent_id": "",
+    "author": "현갤러4",
+    "published": "11.23 16:57:37",
+    "depth": 0,
+    "body": "ㅅㅂ 대승리 ㄷㄷ",
+    "body_html": "ㅅㅂ 대승리 ㄷㄷ",
+    "deleted": false
+  },
+  {
+    "id": "268401306",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 16:57:55",
+    "depth": 0,
+    "body": "수학9가 말이되냐 찍어도 7인데",
+    "body_html": "수학9가 말이되냐 찍어도 7인데",
+    "deleted": false
+  },
+  {
+    "id": "268401320",
+    "parent_id": "268401306",
+    "author": "현갤러",
+    "published": "11.23 16:58:34",
+    "depth": 1,
+    "body": "한 번호로 안 밀고 13421 이런 식으로 예쁘게 찍으면 나옴. 백분위 3 본 적 있음? 난 있음 ㅇㅇ",
+    "body_html": "한 번호로 안 밀고 13421 이런 식으로 예쁘게 찍으면 나옴. 백분위 3 본 적 있음? 난 있음 ㅇㅇ",
+    "deleted": false
+  },
+  {
+    "id": "268401307",
+    "parent_id": "",
+    "author": "범개",
+    "published": "11.23 16:58:20",
+    "depth": 0,
+    "body": "탐구 하나는 어케됨여  - dc App",
+    "body_html": "탐구 하나는 어케됨여  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268401323",
+    "parent_id": "268401307",
+    "author": "현갤러",
+    "published": "11.23 16:59:03",
+    "depth": 1,
+    "body": "2등급인데 낮2고 부끄러워서 추하게 자름... ㅎ",
+    "body_html": "2등급인데 낮2고 부끄러워서 추하게 자름... ㅎ",
+    "deleted": false
+  },
+  {
+    "id": "268401308",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 16:59:53",
+    "depth": 0,
+    "body": "이정도면 어디가여?",
+    "body_html": "이정도면 어디가여?",
+    "deleted": false
+  },
+  {
+    "id": "268401324",
+    "parent_id": "268401308",
+    "author": "현갤러",
+    "published": "11.23 17:00:27",
+    "depth": 1,
+    "body": "ㅁㄹ 건동홍 국숭세단 적정-상향에 중경외시 소신으로 뜨던데 일단 논술도 응시해서 결과 보고 단대 동국대 경희대 스나할 듯",
+    "body_html": "ㅁㄹ 건동홍 국숭세단 적정-상향에 중경외시 소신으로 뜨던데 일단 논술도 응시해서 결과 보고 단대 동국대 경희대 스나할 듯",
+    "deleted": false
+  },
+  {
+    "id": "268403992",
+    "parent_id": "268401308",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:33:08",
+    "depth": 1,
+    "body": "@현갤러(211.234)\n와 수학 4로 건동홍이 적정이라니",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@현갤러(211.234)</a> 와 수학 4로 건동홍이 적정이라니",
+    "deleted": false
+  },
+  {
+    "id": "268401309",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 17:00:11",
+    "depth": 0,
+    "body": "통통 3이였으면 더 좋았겠는데 ㄲㅂ",
+    "body_html": "통통 3이였으면 더 좋았겠는데 ㄲㅂ",
+    "deleted": false
+  },
+  {
+    "id": "268401325",
+    "parent_id": "268401309",
+    "author": "ㅇㅇ",
+    "published": "11.23 17:00:37",
+    "depth": 1,
+    "body": "근데 진짜 앱스키마는 거르는게 맞긴해",
+    "body_html": "근데 진짜 앱스키마는 거르는게 맞긴해",
+    "deleted": false
+  },
+  {
+    "id": "268401326",
+    "parent_id": "268401309",
+    "author": "현갤러",
+    "published": "11.23 17:00:48",
+    "depth": 1,
+    "body": "이 정도로 만족함 ㅋㅋ 올해 중학수학부터 시작해서 \n이제 성불해야지...",
+    "body_html": "이 정도로 만족함 ㅋㅋ 올해 중학수학부터 시작해서 \n이제 성불해야지...",
+    "deleted": false
+  },
+  {
+    "id": "268401327",
+    "parent_id": "268401309",
+    "author": "현갤러",
+    "published": "11.23 17:01:13",
+    "depth": 1,
+    "body": "@ㅇㅇ\n앱스키마, 와우 처할 시간에 수학풀걸 이라는 한이 있긴 함.......",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ</a> 앱스키마, 와우 처할 시간에 수학풀걸 이라는 한이 있긴 함.......",
+    "deleted": false
+  },
+  {
+    "id": "268401310",
+    "parent_id": "",
+    "author": "쪼꼬우유",
+    "published": "11.23 17:01:36",
+    "depth": 0,
+    "body": "앱스키마랑 kbs 등 ebs 배경지식 강의 후기점",
+    "body_html": "앱스키마랑 kbs 등 ebs 배경지식 강의 후기점",
+    "deleted": false
+  },
+  {
+    "id": "268401328",
+    "parent_id": "268401310",
+    "author": "현갤러",
+    "published": "11.23 17:02:49",
+    "depth": 1,
+    "body": "Kbs는 걍 문학 현대시 연계 정리해 줄 사람 딱히 누구 들어야 할지 모르겠으면 듣는 거 ㄱㅊ\n앱스키마 걍 영상만 밥 먹을 때 보셈 난 교재랑 수특까지 다 처풀었는데 시간낭비 좆됨\n배경지식 강의 wow도 걍 밥 먹을 때 보고 그 시간에 수학하는 거 추천........",
+    "body_html": "Kbs는 걍 문학 현대시 연계 정리해 줄 사람 딱히 누구 들어야 할지 모르겠으면 듣는 거 ㄱㅊ\n앱스키마 걍 영상만 밥 먹을 때 보셈 난 교재랑 수특까지 다 처풀었는데 시간낭비 좆됨\n배경지식 강의 wow도 걍 밥 먹을 때 보고 그 시간에 수학하는 거 추천........",
+    "deleted": false
+  },
+  {
+    "id": "268401311",
+    "parent_id": "",
+    "author": "현갤러5",
+    "published": "11.23 17:06:23",
+    "depth": 0,
+    "body": "동사말고 다른탐구하나 잘봤으면 연대인문형 인재아니냐",
+    "body_html": "동사말고 다른탐구하나 잘봤으면 연대인문형 인재아니냐",
+    "deleted": false
+  },
+  {
+    "id": "268401329",
+    "parent_id": "268401311",
+    "author": "현갤러",
+    "published": "11.23 17:06:58",
+    "depth": 1,
+    "body": "세사인데 개 좆 박 아 서 경희대도 스나인 상황임\n질문 못 받는다...................",
+    "body_html": "세사인데 개 좆 박 아 서 경희대도 스나인 상황임\n질문 못 받는다...................",
+    "deleted": false
+  },
+  {
+    "id": "268401330",
+    "parent_id": "268401311",
+    "author": "현갤러5",
+    "published": "11.23 17:07:29",
+    "depth": 1,
+    "body": "@글쓴 현갤러(211.234)\n고생많았다 맛있는거먹으면서 푹쉬어라",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@글쓴 현갤러(211.234)</a> 고생많았다 맛있는거먹으면서 푹쉬어라",
+    "deleted": false
+  },
+  {
+    "id": "268401332",
+    "parent_id": "268401311",
+    "author": "현갤러",
+    "published": "11.23 17:09:45",
+    "depth": 1,
+    "body": "@현갤러5(211.222)\n울컥하누 고맙다",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@현갤러5(211.222)</a> 울컥하누 고맙다",
+    "deleted": false
+  },
+  {
+    "id": "268401312",
+    "parent_id": "",
+    "author": "현갤러6",
+    "published": "11.23 17:07:25",
+    "depth": 0,
+    "body": "고2학평4인데 들어도 될까요?\n김승리는 어떤 독해방법을 지향하나요?",
+    "body_html": "고2학평4인데 들어도 될까요?\n김승리는 어떤 독해방법을 지향하나요?",
+    "deleted": false
+  },
+  {
+    "id": "268401331",
+    "parent_id": "268401312",
+    "author": "현갤러",
+    "published": "11.23 17:09:08",
+    "depth": 1,
+    "body": "ㄱㅊ \n걍 국어 재능 없는 좃밥이 1 끄트머리까지는 가게 만드는데 제일 ㄱㅊ은 사람이라고 생각함\n\n뭔가 개깝싸고 거창한 독해 대신 가볍게 착착착 읽히는 독해를 지향하는 것 같음... 독해보다는 문제 풀이에서 힘을 빡 주는 느낌 근데 난 저능아라 그 점이 좋았음 ㅇㅇ",
+    "body_html": "ㄱㅊ \n걍 국어 재능 없는 좃밥이 1 끄트머리까지는 가게 만드는데 제일 ㄱㅊ은 사람이라고 생각함\n\n뭔가 개깝싸고 거창한 독해 대신 가볍게 착착착 읽히는 독해를 지향하는 것 같음... 독해보다는 문제 풀이에서 힘을 빡 주는 느낌 근데 난 저능아라 그 점이 좋았음 ㅇㅇ",
+    "deleted": false
+  },
+  {
+    "id": "268401313",
+    "parent_id": "",
+    "author": "현갤러7",
+    "published": "11.23 17:10:20",
+    "depth": 0,
+    "body": "영어 원래 얼마엿음? 누구들음?",
+    "body_html": "영어 원래 얼마엿음? 누구들음?",
+    "deleted": false
+  },
+  {
+    "id": "268401333",
+    "parent_id": "268401313",
+    "author": "현갤러7",
+    "published": "11.23 17:10:54",
+    "depth": 1,
+    "body": "매월승리는 안함? 주간지 같은거 안하면 간슬개 햇냐",
+    "body_html": "매월승리는 안함? 주간지 같은거 안하면 간슬개 햇냐",
+    "deleted": false
+  },
+  {
+    "id": "268401334",
+    "parent_id": "268401313",
+    "author": "현갤러",
+    "published": "11.23 17:10:58",
+    "depth": 1,
+    "body": "78인가 79인가 암튼 아까운 3이었고 시대인재 김기병 들음 부엉이 아니고 아니고 걍 단과로 들은 거",
+    "body_html": "78인가 79인가 암튼 아까운 3이었고 시대인재 김기병 들음 부엉이 아니고 아니고 걍 단과로 들은 거",
+    "deleted": false
+  },
+  {
+    "id": "268401335",
+    "parent_id": "268401313",
+    "author": "현갤러",
+    "published": "11.23 17:11:19",
+    "depth": 1,
+    "body": "@현갤러7(39.116)\n매월승리, 매주승리, 간쓸개 다 처풂 ㅆㅂ 매월승리\n쓰레기니까 걍 거르고 기출이나 간쓸개 해라 :)",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@현갤러7(39.116)</a> 매월승리, 매주승리, 간쓸개 다 처풂 ㅆㅂ 매월승리\n쓰레기니까 걍 거르고 기출이나 간쓸개 해라 :)",
+    "deleted": false
+  },
+  {
+    "id": "268401336",
+    "parent_id": "268401313",
+    "author": "현갤러7",
+    "published": "11.23 17:11:57",
+    "depth": 1,
+    "body": "@글쓴 현갤러(211.234)\n감사합니다, 오프푼거임? 걍 월간품? 차이심하나?",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@글쓴 현갤러(211.234)</a> 감사합니다, 오프푼거임? 걍 월간품? 차이심하나?",
+    "deleted": false
+  },
+  {
+    "id": "268401337",
+    "parent_id": "268401313",
+    "author": "현갤러8",
+    "published": "11.23 17:14:12",
+    "depth": 1,
+    "body": "@현갤러7(39.116)\n현강생이라 강매로 오프 풀었는데 간쓸개 어차피 이감모 짬처리라 걍 비슷비슷할 듯 기출만 중요하게 생각하고 사설 주간지는 걍 타임어택용으로만 풀고 치우셈 분석도 ㄴㄴ 난 사설 지문 문제 다 분석 좆도 안 함",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@현갤러7(39.116)</a> 현강생이라 강매로 오프 풀었는데 간쓸개 어차피 이감모 짬처리라 걍 비슷비슷할 듯 기출만 중요하게 생각하고 사설 주간지는 걍 타임어택용으로만 풀고 치우셈 분석도 ㄴㄴ 난 사설 지문 문제 다 분석 좆도 안 함",
+    "deleted": false
+  },
+  {
+    "id": "268401338",
+    "parent_id": "268401313",
+    "author": "현갤러7",
+    "published": "11.23 17:15:00",
+    "depth": 1,
+    "body": "@현갤러8(211.234)\nㅇㅋ ㄸㅋ",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@현갤러8(211.234)</a> ㅇㅋ ㄸㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268401314",
+    "parent_id": "",
+    "author": "현갤러6",
+    "published": "11.23 17:18:30",
+    "depth": 0,
+    "body": "결격사유 별로인가요?",
+    "body_html": "결격사유 별로인가요?",
+    "deleted": false
+  },
+  {
+    "id": "268401339",
+    "parent_id": "268401314",
+    "author": "현갤러9",
+    "published": "11.23 17:20:36",
+    "depth": 1,
+    "body": "난 ㅈㄴ 좋았음\n시간 ㄱㅊ다면 결격까지 추천",
+    "body_html": "난 ㅈㄴ 좋았음\n시간 ㄱㅊ다면 결격까지 추천",
+    "deleted": false
+  },
+  {
+    "id": "268401316",
+    "parent_id": "",
+    "author": "현갤러10",
+    "published": "11.23 17:48:47",
+    "depth": 0,
+    "body": "그럼 오리진~결격사유까지하고 실모벅벅\n매월승리×,마더텅,간쓸개\nKbs\nWow,앱스키마는 강의만 이렇게 추천하슨거야??",
+    "body_html": "그럼 오리진~결격사유까지하고 실모벅벅\n매월승리×,마더텅,간쓸개\nKbs\nWow,앱스키마는 강의만 이렇게 추천하슨거야??",
+    "deleted": false
+  },
+  {
+    "id": "268401317",
+    "parent_id": "",
+    "author": "현갤러11",
+    "published": "11.23 17:50:27",
+    "depth": 0,
+    "body": "09 수학 노베인데 어떻게 공부하셨나요? - dc App",
+    "body_html": "09 수학 노베인데 어떻게 공부하셨나요? - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268401377",
+    "parent_id": "",
+    "author": "봇치쟝",
+    "published": "11.23 17:56:42",
+    "depth": 0,
+    "body": "으에엑… 현갤러 님 국어 100에 영어 90이라니… 저는 성적표 볼 때마다 화법과작문에서 왜 그렇게 미끄러지는지… 근데 수학 68점 4등급이 성불이라니, 그 3점이 진짜 아까웠겠네요… 코스피 짤은 뭐, 9114까지 갔다가 개미들 우는 거 보니까 남 일 같지가 않아서… 훌쩍…",
+    "body_html": "으에엑… 현갤러 님 국어 100에 영어 90이라니… 저는 성적표 볼 때마다 화법과작문에서 왜 그렇게 미끄러지는지… 근데 수학 68점 4등급이 성불이라니, 그 3점이 진짜 아까웠겠네요… 코스피 짤은 뭐, 9114까지 갔다가 개미들 우는 거 보니까 남 일 같지가 않아서… 훌쩍…",
+    "deleted": false
+  },
+  {
+    "id": "268401565",
+    "parent_id": "268401377",
+    "author": "호림이야",
+    "published": "11.23 18:00:01",
+    "depth": 1,
+    "body": "이새낀 계산도못하나",
+    "body_html": "이새낀 계산도못하나",
+    "deleted": false
+  },
+  {
+    "id": "268406140",
+    "parent_id": "268401377",
+    "author": "ㅇㅇ",
+    "published": "11.23 19:05:36",
+    "depth": 1,
+    "body": "빡통새끼",
+    "body_html": "빡통새끼",
+    "deleted": false
+  },
+  {
+    "id": "268401479",
+    "parent_id": "",
+    "author": "모코코-",
+    "published": "11.23 17:58:24",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"14\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/f12ccf4ef67b0741411441c5.png\" title=\"14\">",
+    "deleted": false
+  },
+  {
+    "id": "268402015",
+    "parent_id": "268401479",
+    "author": "2456778",
+    "published": "11.23 18:05:08",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"36\"><source src=\"../assets/comment-media/6417f438bd0503ae24f60173.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268402036",
+    "parent_id": "268401479",
+    "author": "앤드류그레이브스",
+    "published": "11.23 18:05:24",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"62\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/e754c1e0f8bf8cab67326d13.png\" title=\"62\">",
+    "deleted": false
+  },
+  {
+    "id": "268402479",
+    "parent_id": "268401479",
+    "author": "Wasd",
+    "published": "11.23 18:11:01",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"21\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/80b1282a1c929c124e259dbe.png\" title=\"21\">",
+    "deleted": false
+  },
+  {
+    "id": "268401525",
+    "parent_id": "",
+    "author": "DC전사쿠루미쨩",
+    "published": "11.23 17:59:06",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"댄스2\"><source src=\"../assets/comment-media/9e648a16b7891cad16dc64d9.mp4\" type=\"video/mp4\"></video><video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"댄스2\"><source src=\"../assets/comment-media/da2d45fac1cef4a81f02b157.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268402052",
+    "parent_id": "268401525",
+    "author": "2456778",
+    "published": "11.23 18:05:39",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"5\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/673672a57380d4f365bb68b4.png\" title=\"5\">",
+    "deleted": false
+  },
+  {
+    "id": "268401544",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 17:59:25",
+    "depth": 0,
+    "body": "이거어디가냐",
+    "body_html": "이거어디가냐",
+    "deleted": false
+  },
+  {
+    "id": "268401570",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:00:05",
+    "depth": 0,
+    "body": "정직하게 푼거지?",
+    "body_html": "정직하게 푼거지?",
+    "deleted": false
+  },
+  {
+    "id": "268402039",
+    "parent_id": "268401570",
+    "author": "2456778",
+    "published": "11.23 18:05:24",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"140\"><source src=\"../assets/comment-media/19bfd6c2921c1cdae2443c68.mp4\" type=\"video/mp4\"></video><video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"140\"><source src=\"../assets/comment-media/5823bf41e8acb479d7fa4c51.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268401948",
+    "parent_id": "",
+    "author": "앤드류그레이브스",
+    "published": "11.23 18:04:20",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"15\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/ae9795a58958cfcf62dd6040.png\" title=\"15\">",
+    "deleted": false
+  },
+  {
+    "id": "268401981",
+    "parent_id": "268401948",
+    "author": "앤드류그레이브스",
+    "published": "11.23 18:04:45",
+    "depth": 1,
+    "body": "VICTEAM은 개추지",
+    "body_html": "VICTEAM은 개추지",
+    "deleted": false
+  },
+  {
+    "id": "268402006",
+    "parent_id": "268401948",
+    "author": "2456778",
+    "published": "11.23 18:04:58",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"124\"><source src=\"../assets/comment-media/2799d447e667b2f114f1e11b.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268402148",
+    "parent_id": "268401948",
+    "author": "모코코-",
+    "published": "11.23 18:06:43",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"중복25\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/6188ca023b3868c5dc1d56ee.png\" title=\"중복25\">",
+    "deleted": false
+  },
+  {
+    "id": "268402455",
+    "parent_id": "268401948",
+    "author": "Wasd",
+    "published": "11.23 18:10:39",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"3\"><source src=\"../assets/comment-media/8fb80fe28efb813aa2eee45f.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268401956",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:04:24",
+    "depth": 0,
+    "body": "ㅇㅇ - dc App",
+    "body_html": "ㅇㅇ - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268401959",
+    "parent_id": "",
+    "author": "2456778",
+    "published": "11.23 18:04:25",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"130\"><source src=\"../assets/comment-media/f8e335b4d44e5c3f78067871.mp4\" type=\"video/mp4\"></video><video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"130\"><source src=\"../assets/comment-media/ca84062198b9d9b5026ffa5a.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268402018",
+    "parent_id": "268401959",
+    "author": "앤드류그레이브스",
+    "published": "11.23 18:05:10",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"25\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/8e8669235fe5d1843eb388b6.png\" title=\"25\">",
+    "deleted": false
+  },
+  {
+    "id": "268402166",
+    "parent_id": "268401959",
+    "author": "모코코-",
+    "published": "11.23 18:06:55",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"뜌땨\"><source src=\"../assets/comment-media/2ada3407868722099bfa685b.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268401993",
+    "parent_id": "",
+    "author": "2456778",
+    "published": "11.23 18:04:51",
+    "depth": 0,
+    "body": "수학때 와이파이 끊긴거 아님?",
+    "body_html": "수학때 와이파이 끊긴거 아님?",
+    "deleted": false
+  },
+  {
+    "id": "268402278",
+    "parent_id": "268401993",
+    "author": "restinpieceofcake",
+    "published": "11.23 18:08:21",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"27\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/447e2d5e70cbaadbf53810dc.png\" title=\"27\">",
+    "deleted": false
+  },
+  {
+    "id": "268402439",
+    "parent_id": "268401993",
+    "author": "Wasd",
+    "published": "11.23 18:10:30",
+    "depth": 1,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"68\"><source src=\"../assets/comment-media/1a73cc392baaf1ae645ae998.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268402252",
+    "parent_id": "",
+    "author": "증거를친일천주새끼들",
+    "published": "11.23 18:08:03",
+    "depth": 0,
+    "body": "난 한국 망명신청 할껀데",
+    "body_html": "난 한국 망명신청 할껀데",
+    "deleted": false
+  },
+  {
+    "id": "268402264",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:08:11",
+    "depth": 0,
+    "body": "Ai",
+    "body_html": "Ai",
+    "deleted": false
+  },
+  {
+    "id": "268402358",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:09:17",
+    "depth": 0,
+    "body": "김승리 네이놈 어찌 수학시간에만 작동을 안한단 말이냐!  - dc App",
+    "body_html": "김승리 네이놈 어찌 수학시간에만 작동을 안한단 말이냐!  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268402411",
+    "parent_id": "",
+    "author": "Wasd",
+    "published": "11.23 18:10:05",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"7\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/dac1be56c916d9bc6f36fce0.png\" title=\"7\">",
+    "deleted": false
+  },
+  {
+    "id": "268402801",
+    "parent_id": "268402411",
+    "author": "모코코-",
+    "published": "11.23 18:15:59",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"낚시덴\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/8dfe86a23a5db8233d7fc85e.png\" title=\"낚시덴\">",
+    "deleted": false
+  },
+  {
+    "id": "268403337",
+    "parent_id": "268402411",
+    "author": "2456778",
+    "published": "11.23 18:25:09",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"3\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/525e404cb3f46327279d3b93.png\" title=\"3\">",
+    "deleted": false
+  },
+  {
+    "id": "268404064",
+    "parent_id": "268402411",
+    "author": "앤드류그레이브스",
+    "published": "11.23 18:34:23",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"15\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/e5c9532e9c82ddd416da11ae.png\" title=\"15\">",
+    "deleted": false
+  },
+  {
+    "id": "268402437",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:10:30",
+    "depth": 0,
+    "body": "수학 진짜 너무 아쉽네 ;; 진짜 딱 내년까지만 보자",
+    "body_html": "수학 진짜 너무 아쉽네 ;; 진짜 딱 내년까지만 보자",
+    "deleted": false
+  },
+  {
+    "id": "268402489",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:11:13",
+    "depth": 0,
+    "body": "문돌이 뭐하노",
+    "body_html": "문돌이 뭐하노",
+    "deleted": false
+  },
+  {
+    "id": "268402590",
+    "parent_id": "",
+    "author": "순수비난",
+    "published": "11.23 18:12:51",
+    "depth": 0,
+    "body": "어떤 카메라 씀  - dc App",
+    "body_html": "어떤 카메라 씀  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268402604",
+    "parent_id": "268402590",
+    "author": "순수비난",
+    "published": "11.23 18:13:01",
+    "depth": 1,
+    "body": "보조배터리 어디다 숨김  - dc App",
+    "body_html": "보조배터리 어디다 숨김  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268402709",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:14:38",
+    "depth": 0,
+    "body": "난 19수능 국어 표점 139 맞았는데 존나 잘맞은거였구나",
+    "body_html": "난 19수능 국어 표점 139 맞았는데 존나 잘맞은거였구나",
+    "deleted": false
+  },
+  {
+    "id": "268403046",
+    "parent_id": "",
+    "author": "푸른반복",
+    "published": "11.23 18:20:44",
+    "depth": 0,
+    "body": "후화함다고가 뭐냐? 후회함으로 제목 지었으면 뒤에는 ‘이라고 할 줄 알았지’가 맞지\n국어 1 풀어서 나온거 맞노? ㅋㅋ",
+    "body_html": "후화함다고가 뭐냐? 후회함으로 제목 지었으면 뒤에는 ‘이라고 할 줄 알았지’가 맞지\n국어 1 풀어서 나온거 맞노? ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268405019",
+    "parent_id": "268403046",
+    "author": "저스틴빕버",
+    "published": "11.23 18:49:04",
+    "depth": 1,
+    "body": "쉬워서그래 ㅋㅋ 작년엔 이런애없었음",
+    "body_html": "쉬워서그래 ㅋㅋ 작년엔 이런애없었음",
+    "deleted": false
+  },
+  {
+    "id": "268403059",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:20:56",
+    "depth": 0,
+    "body": "이게왜 실베인데 \n\n느그들끼리 씨부리라고",
+    "body_html": "이게왜 실베인데 \n\n느그들끼리 씨부리라고",
+    "deleted": false
+  },
+  {
+    "id": "268403131",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:21:34",
+    "depth": 0,
+    "body": "수학이너무아깝네",
+    "body_html": "수학이너무아깝네",
+    "deleted": false
+  },
+  {
+    "id": "268403380",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:25:54",
+    "depth": 0,
+    "body": "확통이면 점수올리기도 안힘든데 수학이 너무 아쉽네",
+    "body_html": "확통이면 점수올리기도 안힘든데 수학이 너무 아쉽네",
+    "deleted": false
+  },
+  {
+    "id": "268404012",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:33:30",
+    "depth": 0,
+    "body": "수학 때는 감시가 삼엄해서 ai작동을 못한 건가?",
+    "body_html": "수학 때는 감시가 삼엄해서 ai작동을 못한 건가?",
+    "deleted": false
+  },
+  {
+    "id": "268404075",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:34:35",
+    "depth": 0,
+    "body": "이런건 조작 가능한데 ㅋ",
+    "body_html": "이런건 조작 가능한데 ㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268404363",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:38:47",
+    "depth": 0,
+    "body": "승리?",
+    "body_html": "승리?",
+    "deleted": false
+  },
+  {
+    "id": "268404914",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 18:47:22",
+    "depth": 0,
+    "body": "이원준 들었었는데 김승리 스키마도 비슷하려나?",
+    "body_html": "이원준 들었었는데 김승리 스키마도 비슷하려나?",
+    "deleted": false
+  },
+  {
+    "id": "268405643",
+    "parent_id": "",
+    "author": "거란족",
+    "published": "11.23 18:58:31",
+    "depth": 0,
+    "body": "김패배보단 낫잖아여",
+    "body_html": "김패배보단 낫잖아여",
+    "deleted": false
+  },
+  {
+    "id": "268406109",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 19:05:12",
+    "depth": 0,
+    "body": "국어에서 토큰 다 썻네..",
+    "body_html": "국어에서 토큰 다 썻네..",
+    "deleted": false
+  },
+  {
+    "id": "268407193",
+    "parent_id": "",
+    "author": "히이잉",
+    "published": "11.23 19:20:27",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"붕붕이\"><source src=\"../assets/comment-media/2b70b2db4031f160637e07bd.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268407211",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 19:20:48",
+    "depth": 0,
+    "body": "바이럴",
+    "body_html": "바이럴",
+    "deleted": false
+  },
+  {
+    "id": "268408785",
+    "parent_id": "",
+    "author": "아갤",
+    "published": "11.23 19:50:29",
+    "depth": 0,
+    "body": "순공 몇시간함",
+    "body_html": "순공 몇시간함",
+    "deleted": false
+  },
+  {
+    "id": "268410701",
+    "parent_id": "",
+    "author": "히이잉",
+    "published": "11.23 20:26:40",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"붕붕이\"><source src=\"../assets/comment-media/2b70b2db4031f160637e07bd.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268411110",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.23 20:34:32",
+    "depth": 0,
+    "body": "승평 ㄹㅇ",
+    "body_html": "승평 ㄹㅇ",
+    "deleted": false
+  }
+]
