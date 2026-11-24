@@ -16,7 +16,9 @@
     @media(max-width:640px) { header { height:50px; padding:0 14px; } .updated,.search { padding-left:14px; padding-right:14px; } .search-status { padding-left:14px; padding-right:14px; } .post-row { min-height:55px; padding:16px 14px; } .row-title { font-size:16px; } .pager { gap:5px; padding:20px 10px; } .page-link { min-width:32px; padding:7px 8px; } }
   </style>
 </head>
-<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2769개 · 114/139 페이지 · 마지막 수집 2026-11-24 20:24 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="476416" href="posts/476416.html">
+<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2770개 · 114/139 페이지 · 마지막 수집 2026-11-24 20:24 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="476419" href="posts/476419.html">
+  <span class="row-title">취준생들 진짜 월300이 기본이라고 생각하나</span>
+</a><a class="post-row" data-post-id="476416" href="posts/476416.html">
   <span class="row-title">물건 아껴쓰기 대회 열린 스레드촌..jpg</span>
 </a><a class="post-row" data-post-id="476414" href="posts/476414.html">
   <span class="row-title">박진영 “주식? 하나님이 다 해주셔”…JYP 주가는 55%↓</span>
@@ -54,8 +56,6 @@
   <span class="row-title">엔트로픽 내부고발..AI 군비경쟁이 불러온 VC와의 파국</span>
 </a><a class="post-row" data-post-id="476372" href="posts/476372.html">
   <span class="row-title">세브란스 이어 가평 의원서 또…흉기 든 60대, 의료진에 난동</span>
-</a><a class="post-row" data-post-id="476370" href="posts/476370.html">
-  <span class="row-title">흑백리뷰 CU 리센느 원이 도시락 2종 후기.jpg</span>
 </a></section><section id="archive-search-results" hidden aria-label="검색 결과"></section><nav class="pager" aria-label="목록 페이지"><a class="page-link page-shift" href="page-110.html" aria-label="이전 페이지 묶음">이전</a><a class="page-link" href="page-111.html">111</a><a class="page-link" href="page-112.html">112</a><a class="page-link" href="page-113.html">113</a><a class="page-link current" href="page-114.html" aria-current="page">114</a><a class="page-link" href="page-115.html">115</a><a class="page-link" href="page-116.html">116</a><a class="page-link" href="page-117.html">117</a><a class="page-link" href="page-118.html">118</a><a class="page-link" href="page-119.html">119</a><a class="page-link" href="page-120.html">120</a><a class="page-link page-shift" href="page-121.html" aria-label="다음 페이지 묶음">다음</a></nav></main><script id="archive-read-list">
 (() => {
   const key = "dcinside-archive-read-posts";
@@ -113,7 +113,7 @@
     if (!query) return reset();
     status.textContent = "검색 중…";
     try {
-      entries ||= await fetch("archive.json?v=81a4f763a2709605", { cache: "force-cache" }).then((response) => {
+      entries ||= await fetch("archive.json?v=5ba42f3e1819129b", { cache: "force-cache" }).then((response) => {
         if (!response.ok) throw new Error("archive index unavailable");
         return response.json();
       });

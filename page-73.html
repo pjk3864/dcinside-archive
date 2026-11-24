@@ -16,7 +16,9 @@
     @media(max-width:640px) { header { height:50px; padding:0 14px; } .updated,.search { padding-left:14px; padding-right:14px; } .search-status { padding-left:14px; padding-right:14px; } .post-row { min-height:55px; padding:16px 14px; } .row-title { font-size:16px; } .pager { gap:5px; padding:20px 10px; } .page-link { min-width:32px; padding:7px 8px; } }
   </style>
 </head>
-<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2769개 · 73/139 페이지 · 마지막 수집 2026-11-24 20:24 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="478201" href="posts/478201.html">
+<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2770개 · 73/139 페이지 · 마지막 수집 2026-11-24 20:24 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="478203" href="posts/478203.html">
+  <span class="row-title">박현광 &quot;Y를 1700만원이나 들여서 한 이유&quot;</span>
+</a><a class="post-row" data-post-id="478201" href="posts/478201.html">
   <span class="row-title">싱글벙글 아는 형이 돈까스 사준다고 해서 나온 마술사</span>
 </a><a class="post-row" data-post-id="478200" href="posts/478200.html">
   <span class="row-title">서울 아파트값 92주 연속 상승 ㄷㄷ부동산 근황 후기</span>
@@ -54,8 +56,6 @@
   <span class="row-title">빽룸빽룸 홈플러스촌</span>
 </a><a class="post-row" data-post-id="478171" href="posts/478171.html">
   <span class="row-title">나이 안 알려주는 연프 참가자</span>
-</a><a class="post-row" data-post-id="478170" href="posts/478170.html">
-  <span class="row-title">김세의 보석요청하며 무죄 주장‥배우 김수현, 법정 출석해 증언</span>
 </a></section><section id="archive-search-results" hidden aria-label="검색 결과"></section><nav class="pager" aria-label="목록 페이지"><a class="page-link page-shift" href="page-70.html" aria-label="이전 페이지 묶음">이전</a><a class="page-link" href="page-71.html">71</a><a class="page-link" href="page-72.html">72</a><a class="page-link current" href="page-73.html" aria-current="page">73</a><a class="page-link" href="page-74.html">74</a><a class="page-link" href="page-75.html">75</a><a class="page-link" href="page-76.html">76</a><a class="page-link" href="page-77.html">77</a><a class="page-link" href="page-78.html">78</a><a class="page-link" href="page-79.html">79</a><a class="page-link" href="page-80.html">80</a><a class="page-link page-shift" href="page-81.html" aria-label="다음 페이지 묶음">다음</a></nav></main><script id="archive-read-list">
 (() => {
   const key = "dcinside-archive-read-posts";
@@ -113,7 +113,7 @@
     if (!query) return reset();
     status.textContent = "검색 중…";
     try {
-      entries ||= await fetch("archive.json?v=81a4f763a2709605", { cache: "force-cache" }).then((response) => {
+      entries ||= await fetch("archive.json?v=5ba42f3e1819129b", { cache: "force-cache" }).then((response) => {
         if (!response.ok) throw new Error("archive index unavailable");
         return response.json();
       });

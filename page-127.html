@@ -16,7 +16,9 @@
     @media(max-width:640px) { header { height:50px; padding:0 14px; } .updated,.search { padding-left:14px; padding-right:14px; } .search-status { padding-left:14px; padding-right:14px; } .post-row { min-height:55px; padding:16px 14px; } .row-title { font-size:16px; } .pager { gap:5px; padding:20px 10px; } .page-link { min-width:32px; padding:7px 8px; } }
   </style>
 </head>
-<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2769개 · 127/139 페이지 · 마지막 수집 2026-11-24 20:24 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="475877" href="posts/475877.html">
+<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2770개 · 127/139 페이지 · 마지막 수집 2026-11-24 20:24 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="475879" href="posts/475879.html">
+  <span class="row-title">싱글벙글 &#x27;천연 위고비&#x27;라고 이름붙은 식단에 대한 논쟁</span>
+</a><a class="post-row" data-post-id="475877" href="posts/475877.html">
   <span class="row-title">김유정 신규 화보</span>
 </a><a class="post-row" data-post-id="475875" href="posts/475875.html">
   <span class="row-title">그래 나 버튜버 본다</span>
@@ -54,8 +56,6 @@
   <span class="row-title">이 사람이 미국 계엄령 엄청 좋아하는데 글은 좋음</span>
 </a><a class="post-row" data-post-id="475846" href="posts/475846.html">
   <span class="row-title">미국 데센 반대하는 이유 짤 하나로 설명해줌.JPG</span>
-</a><a class="post-row" data-post-id="475845" href="posts/475845.html">
-  <span class="row-title">개씨발 역대급 중까흥 ㅋㅋㅋㅋㅋ 96점 ㅋㅋㅋㅋㅋ</span>
 </a></section><section id="archive-search-results" hidden aria-label="검색 결과"></section><nav class="pager" aria-label="목록 페이지"><a class="page-link page-shift" href="page-120.html" aria-label="이전 페이지 묶음">이전</a><a class="page-link" href="page-121.html">121</a><a class="page-link" href="page-122.html">122</a><a class="page-link" href="page-123.html">123</a><a class="page-link" href="page-124.html">124</a><a class="page-link" href="page-125.html">125</a><a class="page-link" href="page-126.html">126</a><a class="page-link current" href="page-127.html" aria-current="page">127</a><a class="page-link" href="page-128.html">128</a><a class="page-link" href="page-129.html">129</a><a class="page-link" href="page-130.html">130</a><a class="page-link page-shift" href="page-131.html" aria-label="다음 페이지 묶음">다음</a></nav></main><script id="archive-read-list">
 (() => {
   const key = "dcinside-archive-read-posts";
@@ -113,7 +113,7 @@
     if (!query) return reset();
     status.textContent = "검색 중…";
     try {
-      entries ||= await fetch("archive.json?v=81a4f763a2709605", { cache: "force-cache" }).then((response) => {
+      entries ||= await fetch("archive.json?v=5ba42f3e1819129b", { cache: "force-cache" }).then((response) => {
         if (!response.ok) throw new Error("archive index unavailable");
         return response.json();
       });

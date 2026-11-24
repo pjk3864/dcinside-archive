@@ -16,7 +16,9 @@
     @media(max-width:640px) { header { height:50px; padding:0 14px; } .updated,.search { padding-left:14px; padding-right:14px; } .search-status { padding-left:14px; padding-right:14px; } .post-row { min-height:55px; padding:16px 14px; } .row-title { font-size:16px; } .pager { gap:5px; padding:20px 10px; } .page-link { min-width:32px; padding:7px 8px; } }
   </style>
 </head>
-<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2769개 · 20/139 페이지 · 마지막 수집 2026-11-24 20:24 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="480592" href="posts/480592.html">
+<body><main class="site"><header><i class="fa-solid fa-list" aria-hidden="true"></i><h1>디시 아카이브</h1></header><p class="updated">보관된 글 2770개 · 20/139 페이지 · 마지막 수집 2026-11-24 20:24 (방콕)</p><form class="search" id="archive-search" role="search"><label class="sr-only" for="archive-search-input">글 제목 검색</label><input id="archive-search-input" type="search" placeholder="글 제목으로 지난 글 찾기" autocomplete="off"><button type="submit">검색</button><button type="reset">초기화</button></form><p class="search-status" id="archive-search-status" aria-live="polite"></p><section id="archive-post-list"><a class="post-row" data-post-id="480594" href="posts/480594.html">
+  <span class="row-title">소정리역 탈선 사진</span>
+</a><a class="post-row" data-post-id="480592" href="posts/480592.html">
   <span class="row-title">□■□1일차 트럭 현장사진 및 문구(+다음주 의견 주세요)□■□</span>
 </a><a class="post-row" data-post-id="480590" href="posts/480590.html">
   <span class="row-title">싱글벙글 드디어 뉴욕에 상륙한 스시로...jpg</span>
@@ -54,8 +56,6 @@
   <span class="row-title">오픈AI 이사, 초지능까지 6~12개월 남았다</span>
 </a><a class="post-row" data-post-id="480553" href="posts/480553.html">
   <span class="row-title">“의치대 가능, 수년간 사고 없다”…14년전 이미 시험장 뚫은 ‘선수’</span>
-</a><a class="post-row" data-post-id="480552" href="posts/480552.html">
-  <span class="row-title">싱글벙글 교토가 핵을 피할 수 있었던 이유</span>
 </a></section><section id="archive-search-results" hidden aria-label="검색 결과"></section><nav class="pager" aria-label="목록 페이지"><a class="page-link page-shift" href="page-10.html" aria-label="이전 페이지 묶음">이전</a><a class="page-link" href="page-11.html">11</a><a class="page-link" href="page-12.html">12</a><a class="page-link" href="page-13.html">13</a><a class="page-link" href="page-14.html">14</a><a class="page-link" href="page-15.html">15</a><a class="page-link" href="page-16.html">16</a><a class="page-link" href="page-17.html">17</a><a class="page-link" href="page-18.html">18</a><a class="page-link" href="page-19.html">19</a><a class="page-link current" href="page-20.html" aria-current="page">20</a><a class="page-link page-shift" href="page-21.html" aria-label="다음 페이지 묶음">다음</a></nav></main><script id="archive-read-list">
 (() => {
   const key = "dcinside-archive-read-posts";
@@ -113,7 +113,7 @@
     if (!query) return reset();
     status.textContent = "검색 중…";
     try {
-      entries ||= await fetch("archive.json?v=81a4f763a2709605", { cache: "force-cache" }).then((response) => {
+      entries ||= await fetch("archive.json?v=5ba42f3e1819129b", { cache: "force-cache" }).then((response) => {
         if (!response.ok) throw new Error("archive index unavailable");
         return response.json();
       });
