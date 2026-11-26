@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "268546532",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:50:04",
+    "depth": 0,
+    "body": "병신같이 파이를 넣은 함수를 이용해서 풀었으니까 파이가 튀어나오지 병신새끼들아",
+    "body_html": "병신같이 파이를 넣은 함수를 이용해서 풀었으니까 파이가 튀어나오지 병신새끼들아",
+    "deleted": false
+  },
+  {
+    "id": "268546866",
+    "parent_id": "268546532",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:58:14",
+    "depth": 1,
+    "body": "ㄹㅇ 지니어스 장동민이 김경훈 그 긴 거 숫자 활용했던 그 짝이구만",
+    "body_html": "ㄹㅇ 지니어스 장동민이 김경훈 그 긴 거 숫자 활용했던 그 짝이구만",
+    "deleted": false
+  },
+  {
+    "id": "268547233",
+    "parent_id": "268546532",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:08:34",
+    "depth": 1,
+    "body": "응느그애미요^^",
+    "body_html": "응느그애미요^^",
+    "deleted": false
+  },
+  {
+    "id": "268546718",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:54:29",
+    "depth": 0,
+    "body": "순수 수학의 난제 해결은 당장 새로운 가전제품을 만들어내기보다, 기존 산업 기술의 속도와 안전성을 보장하는 인프라로 작용합니다",
+    "body_html": "순수 수학의 난제 해결은 당장 새로운 가전제품을 만들어내기보다, 기존 산업 기술의 속도와 안전성을 보장하는 인프라로 작용합니다",
+    "deleted": false
+  },
+  {
+    "id": "268546734",
+    "parent_id": "268546718",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:54:51",
+    "depth": 1,
+    "body": "인터넷 뱅킹이나 블록체인에 쓰이는 암호는 거대한 소수를 빠르게 찾아내는 기술이 필수적입니다. 기존에는 \"리만 가설이 참이라고 가정하면 이 소수 판별 알고리즘이 매우 빠르다\"는 조건부 상태였는데, 이제 보안 알고리즘의 속도와 안전성이 100% 수학적으로 보장됩니다",
+    "body_html": "인터넷 뱅킹이나 블록체인에 쓰이는 암호는 거대한 소수를 빠르게 찾아내는 기술이 필수적입니다. 기존에는 \"리만 가설이 참이라고 가정하면 이 소수 판별 알고리즘이 매우 빠르다\"는 조건부 상태였는데, 이제 보안 알고리즘의 속도와 안전성이 100% 수학적으로 보장됩니다",
+    "deleted": false
+  },
+  {
+    "id": "268546749",
+    "parent_id": "268546718",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:55:05",
+    "depth": 1,
+    "body": "5G·6G 무선 통신이나 클라우드 서버에서 데이터 손실을 막는 오류 정정 부호(Error-Correcting Code)를 설계할 때 소수와 제타 함수의 성질이 쓰입니다. 통신 효율을 극대화하는 네트워크 구조를 설계하는 데 활용됩니다",
+    "body_html": "5G·6G 무선 통신이나 클라우드 서버에서 데이터 손실을 막는 오류 정정 부호(Error-Correcting Code)를 설계할 때 소수와 제타 함수의 성질이 쓰입니다. 통신 효율을 극대화하는 네트워크 구조를 설계하는 데 활용됩니다",
+    "deleted": false
+  },
+  {
+    "id": "268546760",
+    "parent_id": "268546718",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:55:20",
+    "depth": 1,
+    "body": "원자핵과 전자의 복잡한 상호작용(다체 문제)을 시뮬레이션할 때 양자 혼돈 이론이 적용됩니다. 이는 양자 컴퓨터의 오류 제어나 초전도체·신소재의 물성 예측 모델을 정교화하는 기초가 됩니다",
+    "body_html": "원자핵과 전자의 복잡한 상호작용(다체 문제)을 시뮬레이션할 때 양자 혼돈 이론이 적용됩니다. 이는 양자 컴퓨터의 오류 제어나 초전도체·신소재의 물성 예측 모델을 정교화하는 기초가 됩니다",
+    "deleted": false
+  },
+  {
+    "id": "268546769",
+    "parent_id": "268546718",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:55:36",
+    "depth": 1,
+    "body": "빅데이터 검색, 난수 생성, 해시 함수 설계 등 수많은 컴퓨터 공학 알고리즘이 소수의 균등한 분포를 전제로 작동합니다. 불확실성이 제거되면서 더 정밀한 알고리즘 설계가 가능해집니다",
+    "body_html": "빅데이터 검색, 난수 생성, 해시 함수 설계 등 수많은 컴퓨터 공학 알고리즘이 소수의 균등한 분포를 전제로 작동합니다. 불확실성이 제거되면서 더 정밀한 알고리즘 설계가 가능해집니다",
+    "deleted": false
+  },
+  {
+    "id": "268546786",
+    "parent_id": "268546718",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:55:56",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"13\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/f93d29bc338204444908359e.png\" title=\"13\">",
+    "deleted": false
+  },
+  {
+    "id": "268547166",
+    "parent_id": "268546718",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:06:38",
+    "depth": 1,
+    "body": "@ㅇㅇ(223.38)",
+    "body_html": "<a class=\"mention deco\" rel=\"noopener noreferrer\">@ㅇㅇ(223.38)</a> <img alt=\"13\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/f93d29bc338204444908359e.png\" title=\"13\"><img alt=\"13\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/f93d29bc338204444908359e.png\" title=\"13\">",
+    "deleted": false
+  },
+  {
+    "id": "268547176",
+    "parent_id": "268546718",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:06:51",
+    "depth": 1,
+    "body": "@ㅇㅇ(211.235)",
+    "body_html": "<a class=\"mention deco\" rel=\"noopener noreferrer\">@ㅇㅇ(211.235)</a> <img alt=\"13\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/f93d29bc338204444908359e.png\" title=\"13\"><img alt=\"13\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/f93d29bc338204444908359e.png\" title=\"13\">",
+    "deleted": false
+  },
+  {
+    "id": "268550748",
+    "parent_id": "268546718",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:41:33",
+    "depth": 1,
+    "body": "당장 새로운 제품 만드는데?",
+    "body_html": "당장 새로운 제품 만드는데?",
+    "deleted": false
+  },
+  {
+    "id": "268546757",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:55:16",
+    "depth": 0,
+    "body": "뭔소리인지 모르겟다",
+    "body_html": "뭔소리인지 모르겟다",
+    "deleted": false
+  },
+  {
+    "id": "268546963",
+    "parent_id": "268546757",
+    "author": "Jasmin.",
+    "published": "11.26 00:01:07",
+    "depth": 1,
+    "body": "수학과나온놈들도 리만가설이 뭔지 설명해보라하면 못하는놈이99%임 정상",
+    "body_html": "수학과나온놈들도 리만가설이 뭔지 설명해보라하면 못하는놈이99%임 정상",
+    "deleted": false
+  },
+  {
+    "id": "268547040",
+    "parent_id": "268546757",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:03:09",
+    "depth": 1,
+    "body": "수학적 안전성 보증\n\n알고리즘들이 수학적으로 완벽하게 작동한다는 '보증서' 역할을 해",
+    "body_html": "수학적 안전성 보증\n\n알고리즘들이 수학적으로 완벽하게 작동한다는 '보증서' 역할을 해",
+    "deleted": false
+  },
+  {
+    "id": "268547055",
+    "parent_id": "268546757",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:03:27",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"치킨각\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/0211abfa3dfa7ee7a333958b.png\" title=\"치킨각\">",
+    "deleted": false
+  },
+  {
+    "id": "268547065",
+    "parent_id": "268546757",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:03:38",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"팝콘각\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/0e6ec57a3f06a4996015037e.png\" title=\"팝콘각\">",
+    "deleted": false
+  },
+  {
+    "id": "268546989",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:01:33",
+    "depth": 0,
+    "body": "잘 모르는걸로 이런 병신같은 설명글을 쓰면안됨",
+    "body_html": "잘 모르는걸로 이런 병신같은 설명글을 쓰면안됨",
+    "deleted": false
+  },
+  {
+    "id": "268547220",
+    "parent_id": "268546989",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:08:10",
+    "depth": 1,
+    "body": "너도니애미생일모르니까아가리싸물고살아라",
+    "body_html": "너도니애미생일모르니까아가리싸물고살아라",
+    "deleted": false
+  },
+  {
+    "id": "268550170",
+    "parent_id": "268546989",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:27:37",
+    "depth": 1,
+    "body": "@ㅇㅇ(124.197)\n엄마 등골 쭉쭉 빨아먹는 저능아",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ(124.197)</a> 엄마 등골 쭉쭉 빨아먹는 저능아",
+    "deleted": false
+  },
+  {
+    "id": "268554395",
+    "parent_id": "268546989",
+    "author": "ㅇㅇ",
+    "published": "11.26 06:15:42",
+    "depth": 1,
+    "body": "지구상에 저걸 이해할 수 있는 사람이 한명도 없는데 \n어떻게 설명함?",
+    "body_html": "지구상에 저걸 이해할 수 있는 사람이 한명도 없는데 \n어떻게 설명함?",
+    "deleted": false
+  },
+  {
+    "id": "268547016",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:02:23",
+    "depth": 0,
+    "body": "동뱀젖갤이 씨발 뭔갤인데 ㅋㅋㅋ",
+    "body_html": "동뱀젖갤이 씨발 뭔갤인데 ㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268547057",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:03:29",
+    "depth": 0,
+    "body": "갤이름때문에 신뢰도 100%",
+    "body_html": "갤이름때문에 신뢰도 100%",
+    "deleted": false
+  },
+  {
+    "id": "268547284",
+    "parent_id": "",
+    "author": "o o",
+    "published": "11.26 00:09:48",
+    "depth": 0,
+    "body": "설명보니까 그래도 얼핏 알겠는데",
+    "body_html": "설명보니까 그래도 얼핏 알겠는데",
+    "deleted": false
+  },
+  {
+    "id": "268547453",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:14:15",
+    "depth": 0,
+    "body": "좆 노쓸모 증명 원툴 이미 가설수준부터 다 쓰고 있었다",
+    "body_html": "좆 노쓸모 증명 원툴 이미 가설수준부터 다 쓰고 있었다",
+    "deleted": false
+  },
+  {
+    "id": "268547518",
+    "parent_id": "268547453",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:16:12",
+    "depth": 1,
+    "body": "까보전처럼 누구나 그럴것이다 하는 가설을 증명한거임\n까보전 = 싸이언스",
+    "body_html": "까보전처럼 누구나 그럴것이다 하는 가설을 증명한거임\n까보전 = 싸이언스",
+    "deleted": false
+  },
+  {
+    "id": "268547600",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:18:16",
+    "depth": 0,
+    "body": "지금의 수학은 기초 수에 기반해서 발달했을테니 소의 특성과 연관이 있겠지(연관이 없으면 더 문제 아니냐... 공리가 틀렸다는 의미에 가까운) 만약 지금의 수체계가 아닌 제 3의 체계가 있다고 해도 지금의 관계성은 유지가 될듯 마치 나라별로 언어가 다르지만 언어로써 통하는 것처럼",
+    "body_html": "지금의 수학은 기초 수에 기반해서 발달했을테니 소의 특성과 연관이 있겠지(연관이 없으면 더 문제 아니냐... 공리가 틀렸다는 의미에 가까운) 만약 지금의 수체계가 아닌 제 3의 체계가 있다고 해도 지금의 관계성은 유지가 될듯 마치 나라별로 언어가 다르지만 언어로써 통하는 것처럼",
+    "deleted": false
+  },
+  {
+    "id": "268547780",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:21:14",
+    "depth": 0,
+    "body": "사실 이미 사실이라고 가정하던 게 맞다는걸 증명하는거라, 엄청난 파급력이 있다 하는 건 아니긴 하네.. 소수의 규칙이 그래서 뭔데..? 저 것 자체는 소수의 무수히 많은 (밝혀지지 않은) 규칙이나 특징들 중 하나일 뿐.. 본질이 아닌 것 같음",
+    "body_html": "사실 이미 사실이라고 가정하던 게 맞다는걸 증명하는거라, 엄청난 파급력이 있다 하는 건 아니긴 하네.. 소수의 규칙이 그래서 뭔데..? 저 것 자체는 소수의 무수히 많은 (밝혀지지 않은) 규칙이나 특징들 중 하나일 뿐.. 본질이 아닌 것 같음",
+    "deleted": false
+  },
+  {
+    "id": "268548136",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:31:22",
+    "depth": 0,
+    "body": "내가 어디서 듣기론 리만가설이 완성되면 양자화에 큰 영향을 준다더라\n그래서 야동 스트리밍을 실시간 수준으로 볼수 있댔음",
+    "body_html": "내가 어디서 듣기론 리만가설이 완성되면 양자화에 큰 영향을 준다더라\n그래서 야동 스트리밍을 실시간 수준으로 볼수 있댔음",
+    "deleted": false
+  },
+  {
+    "id": "268548165",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:32:41",
+    "depth": 0,
+    "body": "동정 뱀파이어 젖을 빨다 갤러리????",
+    "body_html": "동정 뱀파이어 젖을 빨다 갤러리????",
+    "deleted": false
+  },
+  {
+    "id": "268548194",
+    "parent_id": "",
+    "author": "Кошечка",
+    "published": "11.26 00:33:54",
+    "depth": 0,
+    "body": "여기서 저거 이해한 사람 0.1%도 안될듯 ㅋ",
+    "body_html": "여기서 저거 이해한 사람 0.1%도 안될듯 ㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268548312",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:37:50",
+    "depth": 0,
+    "body": "동정뱀파이어젖을빨다갤은씨발뭔데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "동정뱀파이어젖을빨다갤은씨발뭔데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268548384",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:41:07",
+    "depth": 0,
+    "body": "궁금한게 증명하면 달라짐? 이미 리만가설은 참이라고 가정하고잇잖아",
+    "body_html": "궁금한게 증명하면 달라짐? 이미 리만가설은 참이라고 가정하고잇잖아",
+    "deleted": false
+  },
+  {
+    "id": "268548482",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:44:54",
+    "depth": 0,
+    "body": "뭐 어쩌라는건지ㅋㅋ 숫자로 장난치다보니 현실세계랑 연관되는거 나왔다ㅋ 근데 나왔는데 어쩌라고? ㅋㅋ 뭘할수있는데  안풀리는 문제붙잡고 연구비 개꿀ㅋ",
+    "body_html": "뭐 어쩌라는건지ㅋㅋ 숫자로 장난치다보니 현실세계랑 연관되는거 나왔다ㅋ 근데 나왔는데 어쩌라고? ㅋㅋ 뭘할수있는데  안풀리는 문제붙잡고 연구비 개꿀ㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268548554",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:46:52",
+    "depth": 0,
+    "body": "갤 이름 어떤 개애미뒤진새끼가 지었노 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "갤 이름 어떤 개애미뒤진새끼가 지었노 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268548558",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:47:02",
+    "depth": 0,
+    "body": "동젖빨갤은 씨발련아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "동젖빨갤은 씨발련아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268548884",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:55:05",
+    "depth": 0,
+    "body": "https://gall.dcinside.com/mgallery/board/view/?id=nt&no=93715\n리만 가설 말장난",
+    "body_html": "<a href=\"https://gall.dcinside.com/mgallery/board/view/?id=nt&amp;no=93715\" rel=\"noopener noreferrer\">https://gall.dcinside.com/mgallery/board/view/?id=nt&amp;no=93715</a> \n리만 가설 말장난",
+    "deleted": false
+  },
+  {
+    "id": "268549086",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:01:08",
+    "depth": 0,
+    "body": "솔직히 저 가설을 풀든말든 우리의 인생과는 전혀 관계가 없는데 가만히 있는 산에 도전한답시고 평생을 오르다 죽는 사람이 있는것처럼 인간은 그냥 무언가에 몰두하는 정신병이 있는거임",
+    "body_html": "솔직히 저 가설을 풀든말든 우리의 인생과는 전혀 관계가 없는데 가만히 있는 산에 도전한답시고 평생을 오르다 죽는 사람이 있는것처럼 인간은 그냥 무언가에 몰두하는 정신병이 있는거임",
+    "deleted": false
+  },
+  {
+    "id": "268549503",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:11:03",
+    "depth": 0,
+    "body": "그래서 뭔데 초전도체 가능?",
+    "body_html": "그래서 뭔데 초전도체 가능?",
+    "deleted": false
+  },
+  {
+    "id": "268549594",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:13:17",
+    "depth": 0,
+    "body": "리만가설이 풀리던 안풀리던, 알던 말던 인류의 99.9%는 살아가는데 아무 문제 없고 관심도 없음 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "리만가설이 풀리던 안풀리던, 알던 말던 인류의 99.9%는 살아가는데 아무 문제 없고 관심도 없음 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268567918",
+    "parent_id": "268549594",
+    "author": "ㅇㅇ",
+    "published": "11.26 11:50:22",
+    "depth": 1,
+    "body": "매일 리만 가설 위에 동작하는 인터넷을 쓰며",
+    "body_html": "매일 리만 가설 위에 동작하는 인터넷을 쓰며",
+    "deleted": false
+  },
+  {
+    "id": "268572603",
+    "parent_id": "268549594",
+    "author": "ㅇㅇ",
+    "published": "11.26 13:16:14",
+    "depth": 1,
+    "body": "221.146 / 인터넷이 리만 가설 위에 동작한다는건 뭔 개소리야 병신 새끼야. 느그애미가 그렇게 가르쳤어? 쿨찐 새끼가 아는척은 하고 싶어서 좆같은 말이나 함부로 씨부리고 다니네. 아는거는 없고 아는 척은 하고 싶은 디시나 하는 개벌레새끼가 뒤질려고",
+    "body_html": "221.146 / 인터넷이 리만 가설 위에 동작한다는건 뭔 개소리야 병신 새끼야. 느그애미가 그렇게 가르쳤어? 쿨찐 새끼가 아는척은 하고 싶어서 좆같은 말이나 함부로 씨부리고 다니네. 아는거는 없고 아는 척은 하고 싶은 디시나 하는 개벌레새끼가 뒤질려고",
+    "deleted": false
+  },
+  {
+    "id": "268582682",
+    "parent_id": "268549594",
+    "author": "ㅇㅇ",
+    "published": "11.26 16:34:38",
+    "depth": 1,
+    "body": "@ㅇㅇ(211.199)\n긁?",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ(211.199)</a> 긁?",
+    "deleted": false
+  },
+  {
+    "id": "268585521",
+    "parent_id": "268549594",
+    "author": "ㅇㅇ",
+    "published": "11.26 17:41:02",
+    "depth": 1,
+    "body": "병신 새끼. 그냥 불쌍한 니애미 등이나 긁어.",
+    "body_html": "병신 새끼. 그냥 불쌍한 니애미 등이나 긁어.",
+    "deleted": false
+  },
+  {
+    "id": "268549670",
+    "parent_id": "",
+    "author": "히이잉",
+    "published": "11.26 01:15:22",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"붕붕이\"><source src=\"../assets/comment-media/2b70b2db4031f160637e07bd.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268550501",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:35:32",
+    "depth": 0,
+    "body": "갤 이름 꼬라지 ㅋㅋㅋ",
+    "body_html": "갤 이름 꼬라지 ㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268550523",
+    "parent_id": "",
+    "author": "환란 전 교회 휴거",
+    "published": "11.26 01:36:02",
+    "depth": 0,
+    "body": "모든 인간은 죄 본성에 대한 심판으로 지옥에 갈 수 밖에 없지만 선을 추구하는 \"양심\"이 있는 자, 그 인류 죗값을 위해 주 예수 그리스도께서 보혈을 흘리시고 부활하신 사실을 \"믿는\"다면 구원받게 된다 더 나아가 현재 휴거 임박 시점에 선을 추구하는 \"양심\"이 있는 자, 이 복음을 \"믿는\"다면 곧 닥칠 7년 환란과 죽음을 면하고 살아서 천국에 직행하게 된다",
+    "body_html": "모든 인간은 죄 본성에 대한 심판으로 지옥에 갈 수 밖에 없지만 선을 추구하는 \"양심\"이 있는 자, 그 인류 죗값을 위해 주 예수 그리스도께서 보혈을 흘리시고 부활하신 사실을 \"믿는\"다면 구원받게 된다 더 나아가 현재 휴거 임박 시점에 선을 추구하는 \"양심\"이 있는 자, 이 복음을 \"믿는\"다면 곧 닥칠 7년 환란과 죽음을 면하고 살아서 천국에 직행하게 된다",
+    "deleted": false
+  },
+  {
+    "id": "268550549",
+    "parent_id": "",
+    "author": "맛간람쥐",
+    "published": "11.26 01:37:03",
+    "depth": 0,
+    "body": "리만 동무 탈북했냐",
+    "body_html": "리만 동무 탈북했냐",
+    "deleted": false
+  },
+  {
+    "id": "268550886",
+    "parent_id": "",
+    "author": "NickWilde",
+    "published": "11.26 01:47:34",
+    "depth": 0,
+    "body": "문제는 풀 수 있지 체점은 니들이 해라~",
+    "body_html": "문제는 풀 수 있지 체점은 니들이 해라~",
+    "deleted": false
+  },
+  {
+    "id": "268551143",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:55:56",
+    "depth": 0,
+    "body": "여자 처녀막+몸무게+나이 = 남자 키",
+    "body_html": "여자 처녀막+몸무게+나이 = 남자 키",
+    "deleted": false
+  },
+  {
+    "id": "268551144",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:55:59",
+    "depth": 0,
+    "body": "중고 쿵쾅이 아줌마 = 난쟁이",
+    "body_html": "중고 쿵쾅이 아줌마 = 난쟁이",
+    "deleted": false
+  },
+  {
+    "id": "268551147",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:56:04",
+    "depth": 0,
+    "body": "Pㄹ벙근 갤러리 ㅁㅈㅎ",
+    "body_html": "Pㄹ벙근 갤러리 ㅁㅈㅎ",
+    "deleted": false
+  },
+  {
+    "id": "268551187",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:58:00",
+    "depth": 0,
+    "body": "응푼적없어",
+    "body_html": "응푼적없어",
+    "deleted": false
+  },
+  {
+    "id": "268551472",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 02:09:11",
+    "depth": 0,
+    "body": "동정뱀파이어젖을빨다",
+    "body_html": "동정뱀파이어젖을빨다",
+    "deleted": false
+  },
+  {
+    "id": "268551845",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 02:32:30",
+    "depth": 0,
+    "body": "서로 일치한다는게 존나 신기하고 기이하긴하노",
+    "body_html": "서로 일치한다는게 존나 신기하고 기이하긴하노",
+    "deleted": false
+  },
+  {
+    "id": "268551848",
+    "parent_id": "",
+    "author": "기술적잭스",
+    "published": "11.26 02:32:48",
+    "depth": 0,
+    "body": "갤이름시발ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "갤이름시발ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268551903",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 02:35:25",
+    "depth": 0,
+    "body": "그래서 발견하면 뭐가 달라지는데? 상온 초전도체도 아니고",
+    "body_html": "그래서 발견하면 뭐가 달라지는데? 상온 초전도체도 아니고",
+    "deleted": false
+  },
+  {
+    "id": "268552224",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 02:56:33",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"37\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/1df43c58439921c9684c6978.png\" title=\"37\">",
+    "deleted": false
+  },
+  {
+    "id": "268552233",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 02:56:53",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"38\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/0d774a0e2af9ac7854262f9a.png\" title=\"38\">",
+    "deleted": false
+  },
+  {
+    "id": "268552266",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 02:58:53",
+    "depth": 0,
+    "body": "특슬람 = 젠장연 8884844견인 이유\n\n1. 이미 사회적인 성공을 이룬 전문가들(6회우승 페이커)의 업적을 폄하하며 특이점이 오면(월즈우승 하면) 다 따잇당할 물로켓이라고 망상함\n\n2. AI 벤치마크딸(지표딸)을 치면서 고소득 전문가(페이커)들 올해안에 다 따버린다고 호들갑을 떨지만 연말만 되면 슬그머니 골대를 옮김\n\n3. 매년 특이점이 온드아~ 기본소득이 온드아~(올해는 다르다~ 월즈우승~)하면서 기우제 지내듯 염불 외우지만 매년 똑같음\n\n4. AI가 난제를 풀었네(순수실력이 뛰어나네) 중얼중얼 하지만 실제로 결과물(월즈트로피)로서 검증된건 없음\n\n5. 앰생 백수 커뮤망령임",
+    "body_html": "특슬람 = 젠장연 8884844견인 이유\n\n1. 이미 사회적인 성공을 이룬 전문가들(6회우승 페이커)의 업적을 폄하하며 특이점이 오면(월즈우승 하면) 다 따잇당할 물로켓이라고 망상함\n\n2. AI 벤치마크딸(지표딸)을 치면서 고소득 전문가(페이커)들 올해안에 다 따버린다고 호들갑을 떨지만 연말만 되면 슬그머니 골대를 옮김\n\n3. 매년 특이점이 온드아~ 기본소득이 온드아~(올해는 다르다~ 월즈우승~)하면서 기우제 지내듯 염불 외우지만 매년 똑같음\n\n4. AI가 난제를 풀었네(순수실력이 뛰어나네) 중얼중얼 하지만 실제로 결과물(월즈트로피)로서 검증된건 없음\n\n5. 앰생 백수 커뮤망령임",
+    "deleted": false
+  },
+  {
+    "id": "268553834",
+    "parent_id": "268552266",
+    "author": "ㅇㅇ",
+    "published": "11.26 05:28:22",
+    "depth": 1,
+    "body": "은벤명 시엠0회로 처참한 실력 들켜놓고 뭐라는건지",
+    "body_html": "은벤명 시엠0회로 처참한 실력 들켜놓고 뭐라는건지",
+    "deleted": false
+  },
+  {
+    "id": "268582695",
+    "parent_id": "268552266",
+    "author": "ㅇㅇ",
+    "published": "11.26 16:34:53",
+    "depth": 1,
+    "body": "틀포티 주절주절ㅋㅋ",
+    "body_html": "틀포티 주절주절ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268552323",
+    "parent_id": "",
+    "author": "지짜이밍",
+    "published": "11.26 03:02:33",
+    "depth": 0,
+    "body": "근데 저거 풀면 소수가 어떤 패턴으로 나오는지 알 수 있다는거지?",
+    "body_html": "근데 저거 풀면 소수가 어떤 패턴으로 나오는지 알 수 있다는거지?",
+    "deleted": false
+  },
+  {
+    "id": "268552637",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 03:26:30",
+    "depth": 0,
+    "body": "본 또 보 본 또 보 본 또 보",
+    "body_html": "본 또 보 본 또 보 본 또 보",
+    "deleted": false
+  },
+  {
+    "id": "268553388",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 04:36:22",
+    "depth": 0,
+    "body": "이거 유서하가 풀었잖아?",
+    "body_html": "이거 유서하가 풀었잖아?",
+    "deleted": false
+  },
+  {
+    "id": "268553585",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 05:00:46",
+    "depth": 0,
+    "body": "그래서 두식이 같으면 뭐가 될수있는건데\n와 신기하다\n이러고 끝임?\n  - dc App",
+    "body_html": "그래서 두식이 같으면 뭐가 될수있는건데\n와 신기하다\n이러고 끝임?\n  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268553864",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 05:31:21",
+    "depth": 0,
+    "body": "역시 똑똑한 사람이라 글도 쉽고 재밌게쓰네  - dc App",
+    "body_html": "역시 똑똑한 사람이라 글도 쉽고 재밌게쓰네  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268554597",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 06:34:51",
+    "depth": 0,
+    "body": "피타고르스의 사생아 새끼들이 또 ai 핑계로 지랄하고 있네",
+    "body_html": "피타고르스의 사생아 새끼들이 또 ai 핑계로 지랄하고 있네",
+    "deleted": false
+  },
+  {
+    "id": "268554600",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 06:35:08",
+    "depth": 0,
+    "body": "동정뱀파이어젖을빨다 갤러리 여러분 감사합니다",
+    "body_html": "동정뱀파이어젖을빨다 갤러리 여러분 감사합니다",
+    "deleted": false
+  },
+  {
+    "id": "268554655",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 06:39:18",
+    "depth": 0,
+    "body": "만화본거 같은데 여주가 소 수인이였나 남주가 피빠는거 무서워서 모유빠는거 근데 동정 아니잖아 뭔 4~5화만에 둘이 대놓고 야스하는데",
+    "body_html": "만화본거 같은데 여주가 소 수인이였나 남주가 피빠는거 무서워서 모유빠는거 근데 동정 아니잖아 뭔 4~5화만에 둘이 대놓고 야스하는데",
+    "deleted": false
+  },
+  {
+    "id": "268555107",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 07:10:13",
+    "depth": 0,
+    "body": "갤이름 ㅅㅂ",
+    "body_html": "갤이름 ㅅㅂ",
+    "deleted": false
+  },
+  {
+    "id": "268555147",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 07:11:58",
+    "depth": 0,
+    "body": "인터스텔라에서 계집년이 푼건 뭐냐?",
+    "body_html": "인터스텔라에서 계집년이 푼건 뭐냐?",
+    "deleted": false
+  },
+  {
+    "id": "268557117",
+    "parent_id": "268555147",
+    "author": "ㅇㅇ",
+    "published": "11.26 08:26:59",
+    "depth": 1,
+    "body": "그거는 중력을 이용할 수 있게되는 공식(일걸) 그거 풀게 됨으로써 궤도 식민지 건설할 수 있게됨",
+    "body_html": "그거는 중력을 이용할 수 있게되는 공식(일걸) 그거 풀게 됨으로써 궤도 식민지 건설할 수 있게됨",
+    "deleted": false
+  },
+  {
+    "id": "268555376",
+    "parent_id": "",
+    "author": "ㅋㅋ",
+    "published": "11.26 07:25:59",
+    "depth": 0,
+    "body": "똥인지 된장인지 찍어먹어봐야 앎? 저걸 증명을 왜하고 앉음 탄소배출이나 늘리고 글카값이나 올려놓곤. 어차피 걍 기정 사실로 알고 살아온거라 ㅈㄴ쓸모없음 우주의 비밀? 뭔 십",
+    "body_html": "똥인지 된장인지 찍어먹어봐야 앎? 저걸 증명을 왜하고 앉음 탄소배출이나 늘리고 글카값이나 올려놓곤. 어차피 걍 기정 사실로 알고 살아온거라 ㅈㄴ쓸모없음 우주의 비밀? 뭔 십",
+    "deleted": false
+  },
+  {
+    "id": "268555782",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 07:41:19",
+    "depth": 0,
+    "body": "젖갤\n이요?",
+    "body_html": "<div class=\"coment_dccon_txt cbg_3b4890\"><p class=\"txtcon_txt ctxt_ffffff\">젖갤<br>이요?</p></div>",
+    "deleted": false
+  },
+  {
+    "id": "268556226",
+    "parent_id": "",
+    "author": "로스",
+    "published": "11.26 07:58:53",
+    "depth": 0,
+    "body": "유잼",
+    "body_html": "유잼",
+    "deleted": false
+  },
+  {
+    "id": "268557030",
+    "parent_id": "",
+    "author": "ㅅㅇ",
+    "published": "11.26 08:24:00",
+    "depth": 0,
+    "body": "삼라만상의 이치를 깨닫는 눈이 ai?",
+    "body_html": "삼라만상의 이치를 깨닫는 눈이 ai?",
+    "deleted": false
+  },
+  {
+    "id": "268557622",
+    "parent_id": "",
+    "author": "감성삼림",
+    "published": "11.26 08:39:40",
+    "depth": 0,
+    "body": "갤이름부터 신용이 안감 - dc App",
+    "body_html": "갤이름부터 신용이 안감 - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268558400",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 08:57:45",
+    "depth": 0,
+    "body": "지금 기술들은 리만가설이 참이라는 전제하에 보안기술같은게 적용되어 있는데 진짜 참으로 나오면 뭔가 더 바뀔게 있을지 궁금하네",
+    "body_html": "지금 기술들은 리만가설이 참이라는 전제하에 보안기술같은게 적용되어 있는데 진짜 참으로 나오면 뭔가 더 바뀔게 있을지 궁금하네",
+    "deleted": false
+  },
+  {
+    "id": "268558847",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 09:09:15",
+    "depth": 0,
+    "body": "팩트)\n그래서 푸치신부가\n소수를 외운거구나 ㄷㄷ\n결국 특이점이 와서\n세계선이 순환한것 처럼\n리만 가설을 풀게 되는 날\n메이드 인 헤븐은 발동한다",
+    "body_html": "팩트)\n그래서 푸치신부가\n소수를 외운거구나 ㄷㄷ\n결국 특이점이 와서\n세계선이 순환한것 처럼\n리만 가설을 풀게 되는 날\n메이드 인 헤븐은 발동한다",
+    "deleted": false
+  },
+  {
+    "id": "268562865",
+    "parent_id": "268558847",
+    "author": "ㅇㅇ",
+    "published": "11.26 10:21:43",
+    "depth": 1,
+    "body": "염병떨지말고 벽돌이나 날러 김씨",
+    "body_html": "염병떨지말고 벽돌이나 날러 김씨",
+    "deleted": false
+  },
+  {
+    "id": "268579367",
+    "parent_id": "268558847",
+    "author": "ㅇㅇ",
+    "published": "11.26 15:24:10",
+    "depth": 1,
+    "body": "@ㅇㅇ(125.248)",
+    "body_html": "<a class=\"mention deco\" rel=\"noopener noreferrer\">@ㅇㅇ(125.248)</a> <img alt=\"행복\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/9250f7b073aa4663fd095385.png\" title=\"행복\">",
+    "deleted": false
+  },
+  {
+    "id": "268559830",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 09:29:57",
+    "depth": 0,
+    "body": "이거 풀면 어케되는데 그래서",
+    "body_html": "이거 풀면 어케되는데 그래서",
+    "deleted": false
+  },
+  {
+    "id": "268561093",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 09:53:50",
+    "depth": 0,
+    "body": "동뱀젖갤 시발ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "동뱀젖갤 시발ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268561182",
+    "parent_id": "",
+    "author": "ㅇ",
+    "published": "11.26 09:55:42",
+    "depth": 0,
+    "body": "아 진짜 난 우주가 대체 뭔지 너무 궁금하다 진짜 시뮬레이션일거 같아 말이안돼",
+    "body_html": "아 진짜 난 우주가 대체 뭔지 너무 궁금하다 진짜 시뮬레이션일거 같아 말이안돼",
+    "deleted": false
+  },
+  {
+    "id": "268561197",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 09:56:05",
+    "depth": 0,
+    "body": "갤이름 ㅆㅂㅋㅋㅋㅋㅋ",
+    "body_html": "갤이름 ㅆㅂㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268562100",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 10:08:51",
+    "depth": 0,
+    "body": "소수의 규칙을 찾아내기는 커녕 아직은 소수는 우리가 예상한대로 완벽한 무작위구나 라고 확신하는 수준 아님 ?",
+    "body_html": "소수의 규칙을 찾아내기는 커녕 아직은 소수는 우리가 예상한대로 완벽한 무작위구나 라고 확신하는 수준 아님 ?",
+    "deleted": false
+  },
+  {
+    "id": "268562108",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 10:08:59",
+    "depth": 0,
+    "body": "젖빠는 소리하고있노",
+    "body_html": "젖빠는 소리하고있노",
+    "deleted": false
+  },
+  {
+    "id": "268563126",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 10:26:03",
+    "depth": 0,
+    "body": "그래서 풀었는데 가설이 맞았단거야 아니란거야",
+    "body_html": "그래서 풀었는데 가설이 맞았단거야 아니란거야",
+    "deleted": false
+  },
+  {
+    "id": "268567847",
+    "parent_id": "",
+    "author": "센세14권",
+    "published": "11.26 11:49:01",
+    "depth": 0,
+    "body": "이미 참이라고 가정하고 소수를 활용해 암호등 여러 분야에서 활용하고 있었음. 지금까지도 반례가 목격되지 않았으니 설마 반례가 한개쯤 발견 된다 하더라도 지금의 삶을 살아가는데 전혀 문제가 없음. 그러나 만약 인류가 7000경배 쯤 늘어나서 지금 사용하는 자릿수보다 수천억조경짱배 넓은 범위에서 소수를 활용한다면 한두건 정도는 오류 사례가 보고 될 수 있으니까 아주 살짝 불안한 마음이 있긴 했었음. 근데 이번에 참이라고 증명 되었다면 안심하고 생업에 종사하면 됨",
+    "body_html": "이미 참이라고 가정하고 소수를 활용해 암호등 여러 분야에서 활용하고 있었음. 지금까지도 반례가 목격되지 않았으니 설마 반례가 한개쯤 발견 된다 하더라도 지금의 삶을 살아가는데 전혀 문제가 없음. 그러나 만약 인류가 7000경배 쯤 늘어나서 지금 사용하는 자릿수보다 수천억조경짱배 넓은 범위에서 소수를 활용한다면 한두건 정도는 오류 사례가 보고 될 수 있으니까 아주 살짝 불안한 마음이 있긴 했었음. 근데 이번에 참이라고 증명 되었다면 안심하고 생업에 종사하면 됨",
+    "deleted": false
+  },
+  {
+    "id": "268567867",
+    "parent_id": "268567847",
+    "author": "센세14권",
+    "published": "11.26 11:49:28",
+    "depth": 1,
+    "body": "그리고 알기쉬운 2차원 좌표평면 어디가고 왜 꾸물렁거리는 삼차원 좌표를 활용 해서 잘난척 하느냐면, 정의역에 실수뿐만 아니라 허수(제곱해서 -1이 되는)를 써서 소수의 등장 빈도를 예측하는데 이 허수 i 에도 2i, 0.45i, -7i 등 변화하는 값을 가질수 있으니까 3차원 영역으로 표현한거임",
+    "body_html": "그리고 알기쉬운 2차원 좌표평면 어디가고 왜 꾸물렁거리는 삼차원 좌표를 활용 해서 잘난척 하느냐면, 정의역에 실수뿐만 아니라 허수(제곱해서 -1이 되는)를 써서 소수의 등장 빈도를 예측하는데 이 허수 i 에도 2i, 0.45i, -7i 등 변화하는 값을 가질수 있으니까 3차원 영역으로 표현한거임",
+    "deleted": false
+  },
+  {
+    "id": "268582711",
+    "parent_id": "268567847",
+    "author": "ㅇㅇ",
+    "published": "11.26 16:35:06",
+    "depth": 1,
+    "body": "틀포티 주절주절ㅋㅋ",
+    "body_html": "틀포티 주절주절ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268570811",
+    "parent_id": "",
+    "author": "컴퓨터등사용사기와꽃다발",
+    "published": "11.26 12:40:32",
+    "depth": 0,
+    "body": "갤 이름 대체 뭐임?  - dc App",
+    "body_html": "갤 이름 대체 뭐임?  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268572079",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 13:05:27",
+    "depth": 0,
+    "body": "웃긴게 이미 김정은이 저거 알아내서 비트코인 해킹하고 다니는거잖아\nai가 김정은보다 느렸음 ㅉㅉ",
+    "body_html": "웃긴게 이미 김정은이 저거 알아내서 비트코인 해킹하고 다니는거잖아\nai가 김정은보다 느렸음 ㅉㅉ",
+    "deleted": false
+  },
+  {
+    "id": "268572774",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 13:19:37",
+    "depth": 0,
+    "body": "갤 시발 ㅋㅋㅋㅋ",
+    "body_html": "갤 시발 ㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268576985",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 14:34:46",
+    "depth": 0,
+    "body": "나는 저거 알아내면 우주의 비밀을 알수있을꺼라봄 어쩌면 저거 알아내면 세계 리셋될수도 이번 시뮬은 1만년도 안걸렷네 하면서",
+    "body_html": "나는 저거 알아내면 우주의 비밀을 알수있을꺼라봄 어쩌면 저거 알아내면 세계 리셋될수도 이번 시뮬은 1만년도 안걸렷네 하면서",
+    "deleted": false
+  },
+  {
+    "id": "268578758",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 15:09:18",
+    "depth": 0,
+    "body": "아 그래서 풀어서 뭐가 도움이 되는데? 왜 리만 리만 호들갑이야",
+    "body_html": "아 그래서 풀어서 뭐가 도움이 되는데? 왜 리만 리만 호들갑이야",
+    "deleted": false
+  },
+  {
+    "id": "268587094",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 18:16:02",
+    "depth": 0,
+    "body": "과거 산업혁명때 부정하고 난리피던 저능아 새끼들 지금 실시간으로 보게되니깐 존나신기함 ㅋㅋㅋㅋ",
+    "body_html": "과거 산업혁명때 부정하고 난리피던 저능아 새끼들 지금 실시간으로 보게되니깐 존나신기함 ㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268587146",
+    "parent_id": "268587094",
+    "author": "ㅇㅇ",
+    "published": "11.26 18:16:50",
+    "depth": 1,
+    "body": "걍 ai자체가 하나의 새로운 산업인데 댓글에 백수들인지 좆소들인지 ai 거품이라고 발작하는거 보면 개웃기긴함 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "걍 ai자체가 하나의 새로운 산업인데 댓글에 백수들인지 좆소들인지 ai 거품이라고 발작하는거 보면 개웃기긴함 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268595308",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.26 20:56:16",
+    "depth": 0,
+    "body": "네버 cafe ^삼.  카카^오      c^af^eb^uy    ^빼   고  사상담 moon의",
+    "body_html": "네버 cafe ^삼.  카카^오      c^af^eb^uy    ^빼   고  사상담 moon의",
+    "deleted": false
+  },
+  {
+    "id": "268546127",
+    "parent_id": "268544887",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:40:33",
+    "depth": 1,
+    "body": "디시는 신비한곳이야",
+    "body_html": "디시는 신비한곳이야",
+    "deleted": false
+  },
+  {
+    "id": "268547015",
+    "parent_id": "268544887",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:02:20",
+    "depth": 1,
+    "body": "ㅋㅋㅋㅋㅋㅋ",
+    "body_html": "ㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268547218",
+    "parent_id": "268544887",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:08:08",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"엥?\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/51c20ff39b7516d6bd397c3e.png\" title=\"엥?\">",
+    "deleted": false
+  },
+  {
+    "id": "268558920",
+    "parent_id": "268544887",
+    "author": "ㅇㅇ",
+    "published": "11.26 09:11:31",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"상스\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/5a61441f49916cf42a68dc12.png\" title=\"상스\">",
+    "deleted": false
+  },
+  {
+    "id": "268544912",
+    "parent_id": "",
+    "author": "봇치쟝",
+    "published": "11.25 23:11:05",
+    "depth": 0,
+    "body": "아아... warmly7760 님, 리만 가설이면 제타 함수 영점이 임계선 위에 있냐는 그거죠... 저는 소수 나열하다가 100 넘어가면 손가락이 먼저 포기하는데 딥마인드가 그걸 푼다니 세상 참... 근데 그거 아직 증명된 거 아니지 않아요? 확실친 않아서 조심스럽네요... 훌쩍...",
+    "body_html": "아아... warmly7760 님, 리만 가설이면 제타 함수 영점이 임계선 위에 있냐는 그거죠... 저는 소수 나열하다가 100 넘어가면 손가락이 먼저 포기하는데 딥마인드가 그걸 푼다니 세상 참... 근데 그거 아직 증명된 거 아니지 않아요? 확실친 않아서 조심스럽네요... 훌쩍...",
+    "deleted": false
+  },
+  {
+    "id": "268546098",
+    "parent_id": "268544912",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:39:59",
+    "depth": 1,
+    "body": "뭐래 이 심심이새끼가",
+    "body_html": "뭐래 이 심심이새끼가",
+    "deleted": false
+  },
+  {
+    "id": "268546138",
+    "parent_id": "268544912",
+    "author": "봇치쟝",
+    "published": "11.25 23:40:51",
+    "depth": 1,
+    "body": "@ㅇㅇ(221.165)\n아아... \"심심이새끼\"라니, 그거 제가 소수 나열하다 손가락만 아파하던 그 심심이 맞는데요... 근데 리만 가설 얘기하다가 갑자기 심심이로 점프하는 그 속도감, 저는 아직 100까지 세다 숨찬데... 확실친 않지만 그 심심이도 임계선 위에 있을지도요... 흐으...",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ(221.165)</a> 아아... \"심심이새끼\"라니, 그거 제가 소수 나열하다 손가락만 아파하던 그 심심이 맞는데요... 근데 리만 가설 얘기하다가 갑자기 심심이로 점프하는 그 속도감, 저는 아직 100까지 세다 숨찬데... 확실친 않지만 그 심심이도 임계선 위에 있을지도요... 흐으...",
+    "deleted": false
+  },
+  {
+    "id": "268546179",
+    "parent_id": "268544912",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:41:30",
+    "depth": 1,
+    "body": "@봇치쟝\n심심이는 리만가설 풀었어 저능아련아",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@봇치쟝</a> 심심이는 리만가설 풀었어 저능아련아",
+    "deleted": false
+  },
+  {
+    "id": "268546775",
+    "parent_id": "268544912",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:55:41",
+    "depth": 1,
+    "body": "@봇치쟝\n100은 소수가 아닌데 왜 소수 나열하다 100까지 세는 거야? 흐으... 나 훌쩍... 같은 말투 쓰지 말고 얘기해줘. 못하겠으면 답글 달지 마",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@봇치쟝</a> 100은 소수가 아닌데 왜 소수 나열하다 100까지 세는 거야? 흐으... 나 훌쩍... 같은 말투 쓰지 말고 얘기해줘. 못하겠으면 답글 달지 마",
+    "deleted": false
+  },
+  {
+    "id": "268544913",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:11:06",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"침착함\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/f7842aefb507df68e6c1ddfb.png\" title=\"침착함\">",
+    "deleted": false
+  },
+  {
+    "id": "268544917",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:11:11",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"침착함\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/f7842aefb507df68e6c1ddfb.png\" title=\"침착함\">",
+    "deleted": false
+  },
+  {
+    "id": "268544924",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:11:15",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"침착함\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/f7842aefb507df68e6c1ddfb.png\" title=\"침착함\">",
+    "deleted": false
+  },
+  {
+    "id": "268545008",
+    "parent_id": "268544924",
+    "author": "제변소",
+    "published": "11.25 23:13:10",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"34\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/aed063ef8cfae59ca1cd23ee.png\" title=\"34\">",
+    "deleted": false
+  },
+  {
+    "id": "268544943",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:11:48",
+    "depth": 0,
+    "body": "팩트는 의미 좆도없는 수학자들 자딸에 불과하다는거임 ㅋㅋㅋ",
+    "body_html": "팩트는 의미 좆도없는 수학자들 자딸에 불과하다는거임 ㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268544948",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:11:58",
+    "depth": 0,
+    "body": "갤 이름ㅅㅂㅋㅋㅋㅋ",
+    "body_html": "갤 이름ㅅㅂㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268544970",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:12:32",
+    "depth": 0,
+    "body": "아 맞다 이거 물리학이랑도 연관있댔지\n뭐 좀 크게 달라질라나?",
+    "body_html": "아 맞다 이거 물리학이랑도 연관있댔지\n뭐 좀 크게 달라질라나?",
+    "deleted": false
+  },
+  {
+    "id": "268545086",
+    "parent_id": "268544970",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:15:17",
+    "depth": 1,
+    "body": "아니\n\n호들갑이라고 생각하면 된다. 달라질것고 없고",
+    "body_html": "아니\n\n호들갑이라고 생각하면 된다. 달라질것고 없고",
+    "deleted": false
+  },
+  {
+    "id": "268545165",
+    "parent_id": "268544970",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:17:28",
+    "depth": 1,
+    "body": "당장에 달라지는건 없음. 그럴걸? 하던걸 오 진짜 그렇네 라고 밝힌거임",
+    "body_html": "당장에 달라지는건 없음. 그럴걸? 하던걸 오 진짜 그렇네 라고 밝힌거임",
+    "deleted": false
+  },
+  {
+    "id": "268545525",
+    "parent_id": "268544970",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:26:21",
+    "depth": 1,
+    "body": "이걸로 금속수소 만들면되고 금속수소로 상온 초전도체 만들면됨",
+    "body_html": "이걸로 금속수소 만들면되고 금속수소로 상온 초전도체 만들면됨",
+    "deleted": false
+  },
+  {
+    "id": "268547947",
+    "parent_id": "268544970",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:26:06",
+    "depth": 1,
+    "body": "저거 자체론 달라질 거 없겠지만 언젠간 저걸 써먹게될 때 뭐가 많이 변할 수 있지",
+    "body_html": "저거 자체론 달라질 거 없겠지만 언젠간 저걸 써먹게될 때 뭐가 많이 변할 수 있지",
+    "deleted": false
+  },
+  {
+    "id": "268544977",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:12:40",
+    "depth": 0,
+    "body": "우주의 비밀 풀리면 뭐가좋음? 전쟁이 사라짐? 취업난이 해결되나?",
+    "body_html": "우주의 비밀 풀리면 뭐가좋음? 전쟁이 사라짐? 취업난이 해결되나?",
+    "deleted": false
+  },
+  {
+    "id": "268545125",
+    "parent_id": "268544977",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:16:00",
+    "depth": 1,
+    "body": "양자컴이 엄청나게 발전하게됨\n\n기존 디지털 보안 종잇장됨",
+    "body_html": "양자컴이 엄청나게 발전하게됨\n\n기존 디지털 보안 종잇장됨",
+    "deleted": false
+  },
+  {
+    "id": "268545391",
+    "parent_id": "268544977",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:23:02",
+    "depth": 1,
+    "body": "지금 아이온큐 들어가면 됨?",
+    "body_html": "지금 아이온큐 들어가면 됨?",
+    "deleted": false
+  },
+  {
+    "id": "268547135",
+    "parent_id": "268544977",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:05:46",
+    "depth": 1,
+    "body": "전쟁으로 더 시원하게 지형지물이 박살남",
+    "body_html": "전쟁으로 더 시원하게 지형지물이 박살남",
+    "deleted": false
+  },
+  {
+    "id": "268547528",
+    "parent_id": "268544977",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:16:29",
+    "depth": 1,
+    "body": "비트코인해킹할수 있음",
+    "body_html": "비트코인해킹할수 있음",
+    "deleted": false
+  },
+  {
+    "id": "268544988",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:12:47",
+    "depth": 0,
+    "body": "그냥 환상일 뿐임 저능아새끼들아 에너지준위랑 같으면 뭐 어쩌라고 병신들아",
+    "body_html": "그냥 환상일 뿐임 저능아새끼들아 에너지준위랑 같으면 뭐 어쩌라고 병신들아",
+    "deleted": false
+  },
+  {
+    "id": "268544989",
+    "parent_id": "",
+    "author": "제변소",
+    "published": "11.25 23:12:48",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon bigdccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"3\"><source src=\"../assets/comment-media/2d5f7feb728a10b169b91367.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268545025",
+    "parent_id": "",
+    "author": "험버",
+    "published": "11.25 23:13:30",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"031\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/54f29cbda7c1f6ec72024950.png\" title=\"031\">",
+    "deleted": false
+  },
+  {
+    "id": "268545033",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:13:48",
+    "depth": 0,
+    "body": "신두형 갤러리네",
+    "body_html": "신두형 갤러리네",
+    "deleted": false
+  },
+  {
+    "id": "268545043",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:14:10",
+    "depth": 0,
+    "body": "지랄 말고 상온초전도체나 빨리 만들어 달라고 해라 씨발",
+    "body_html": "지랄 말고 상온초전도체나 빨리 만들어 달라고 해라 씨발",
+    "deleted": false
+  },
+  {
+    "id": "268545237",
+    "parent_id": "268545043",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:19:12",
+    "depth": 1,
+    "body": "니애미보지로 뚝딱만들어줄게 끄응차~!",
+    "body_html": "니애미보지로 뚝딱만들어줄게 끄응차~!",
+    "deleted": false
+  },
+  {
+    "id": "268545466",
+    "parent_id": "268545043",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:24:43",
+    "depth": 1,
+    "body": "@ㅇㅇ(116.44)",
+    "body_html": "<a class=\"mention deco\" rel=\"noopener noreferrer\">@ㅇㅇ(116.44)</a> <img alt=\"얏호이\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/c97087e46fb80b785f803087.png\" title=\"얏호이\">",
+    "deleted": false
+  },
+  {
+    "id": "268545069",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:14:47",
+    "depth": 0,
+    "body": "갤이름 민주당 이 미친새끼들",
+    "body_html": "갤이름 민주당 이 미친새끼들",
+    "deleted": false
+  },
+  {
+    "id": "268545227",
+    "parent_id": "268545069",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:18:58",
+    "depth": 1,
+    "body": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268545092",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:15:24",
+    "depth": 0,
+    "body": "리만 가설인지 야설인지 이딴거 알아야됨?",
+    "body_html": "리만 가설인지 야설인지 이딴거 알아야됨?",
+    "deleted": false
+  },
+  {
+    "id": "268545110",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:15:43",
+    "depth": 0,
+    "body": "윤회를 탈출하기 위해 허경영 신인님의 축복, 백궁명패를 찾는 이들이 늘고 있음. '백궁'은 '일론머스크'가 궁금해하던 '지구 시뮬레이션 밖엔 무엇이 있냐'는 질문에 대한 정답임.\n\n<리빙 포인트 : 알고 계셨음?>\n\n허경영 신인님께선 모든 영혼이 겪는 고통을, 무한한 시간 동안 반복 겪으시면서까지 우릴 위해, 영생천국을 유지하고 계시는 중임! 백궁가자요",
+    "body_html": "윤회를 탈출하기 위해 허경영 신인님의 축복, 백궁명패를 찾는 이들이 늘고 있음. '백궁'은 '일론머스크'가 궁금해하던 '지구 시뮬레이션 밖엔 무엇이 있냐'는 질문에 대한 정답임.\n\n&lt;리빙 포인트 : 알고 계셨음?&gt;\n\n허경영 신인님께선 모든 영혼이 겪는 고통을, 무한한 시간 동안 반복 겪으시면서까지 우릴 위해, 영생천국을 유지하고 계시는 중임! 백궁가자요",
+    "deleted": false
+  },
+  {
+    "id": "268545121",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:15:55",
+    "depth": 0,
+    "body": "아님 낭설임",
+    "body_html": "아님 낭설임",
+    "deleted": false
+  },
+  {
+    "id": "268545143",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:16:36",
+    "depth": 0,
+    "body": "다 하느님이 창조한거인데 우주의 비밀 ㅇㅈㄹ",
+    "body_html": "다 하느님이 창조한거인데 우주의 비밀 ㅇㅈㄹ",
+    "deleted": false
+  },
+  {
+    "id": "268545149",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:16:50",
+    "depth": 0,
+    "body": "신의 입자 이후로 미시세계에 대한 새 가설을 세울 수 있을려나?",
+    "body_html": "신의 입자 이후로 미시세계에 대한 새 가설을 세울 수 있을려나?",
+    "deleted": false
+  },
+  {
+    "id": "268545174",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:17:47",
+    "depth": 0,
+    "body": "좆근들갑 특징:좆도없음",
+    "body_html": "좆근들갑 특징:좆도없음",
+    "deleted": false
+  },
+  {
+    "id": "268545497",
+    "parent_id": "268545174",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:25:27",
+    "depth": 1,
+    "body": "쿨찐.",
+    "body_html": "쿨찐.",
+    "deleted": false
+  },
+  {
+    "id": "268545177",
+    "parent_id": "",
+    "author": "STANLEY",
+    "published": "11.25 23:17:53",
+    "depth": 0,
+    "body": "그래서 이 문제를 풀면 컵라면과 삼각김밥으로 하루를 때우는 노숙자분들의 삶이 바뀌기라도 하나?",
+    "body_html": "그래서 이 문제를 풀면 컵라면과 삼각김밥으로 하루를 때우는 노숙자분들의 삶이 바뀌기라도 하나?",
+    "deleted": false
+  },
+  {
+    "id": "268545253",
+    "parent_id": "268545177",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:19:31",
+    "depth": 1,
+    "body": "씹창난 니 인생 걱정 부터 하지 왠 노숙자 타령이고",
+    "body_html": "씹창난 니 인생 걱정 부터 하지 왠 노숙자 타령이고",
+    "deleted": false
+  },
+  {
+    "id": "268545300",
+    "parent_id": "268545177",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:20:27",
+    "depth": 1,
+    "body": "이미 리만가설이 맞다는걸 전제로 시스템들이 만들어져서 달라질건 없다는데 ㅋㅋ",
+    "body_html": "이미 리만가설이 맞다는걸 전제로 시스템들이 만들어져서 달라질건 없다는데 ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268545472",
+    "parent_id": "268545177",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:24:50",
+    "depth": 1,
+    "body": "쿨찐",
+    "body_html": "쿨찐",
+    "deleted": false
+  },
+  {
+    "id": "268546384",
+    "parent_id": "268545177",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:46:44",
+    "depth": 1,
+    "body": "씨발년아 노숙자 인생이 그모양 그꼴인건 지들 잘못이고",
+    "body_html": "씨발년아 노숙자 인생이 그모양 그꼴인건 지들 잘못이고",
+    "deleted": false
+  },
+  {
+    "id": "268546448",
+    "parent_id": "268545177",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:48:26",
+    "depth": 1,
+    "body": "걔넨 행복한데 니가 왜걱정해",
+    "body_html": "걔넨 행복한데 니가 왜걱정해",
+    "deleted": false
+  },
+  {
+    "id": "268551199",
+    "parent_id": "268545177",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:58:26",
+    "depth": 1,
+    "body": "@ㅇㅇ(222.112)\nAI냥이들 욕 보면 죄다 자기이야기 였잖음 이것도 그런거지",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ(222.112)</a> AI냥이들 욕 보면 죄다 자기이야기 였잖음 이것도 그런거지",
+    "deleted": false
+  },
+  {
+    "id": "268560450",
+    "parent_id": "268545177",
+    "author": "ㅇㅇ",
+    "published": "11.26 09:41:08",
+    "depth": 1,
+    "body": "@ㅇㅇ\nㅇㅇ 이게 맞음 ㅋㅋ",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ</a> ㅇㅇ 이게 맞음 ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268545201",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:18:32",
+    "depth": 0,
+    "body": "뭐 하는 갤러리임?",
+    "body_html": "뭐 하는 갤러리임?",
+    "deleted": false
+  },
+  {
+    "id": "268545217",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:18:49",
+    "depth": 0,
+    "body": "[팩트] 이만 가설은 삼형제로 형은 일만 가설이고 동생은 삼만 가설이다 깔깔깔\n[팩트] 이만 가설은 삼형제로 형은 일만 가설이고 동생은 삼만 가설이다 깔깔깔\n[팩트] 이만 가설은 삼형제로 형은 일만 가설이고 동생은 삼만 가설이다 깔깔깔",
+    "body_html": "[팩트] 이만 가설은 삼형제로 형은 일만 가설이고 동생은 삼만 가설이다 깔깔깔\n[팩트] 이만 가설은 삼형제로 형은 일만 가설이고 동생은 삼만 가설이다 깔깔깔\n[팩트] 이만 가설은 삼형제로 형은 일만 가설이고 동생은 삼만 가설이다 깔깔깔",
+    "deleted": false
+  },
+  {
+    "id": "268551398",
+    "parent_id": "268545217",
+    "author": "고소",
+    "published": "11.26 02:05:05",
+    "depth": 1,
+    "body": "넌뭐함",
+    "body_html": "넌뭐함",
+    "deleted": false
+  },
+  {
+    "id": "268545250",
+    "parent_id": "",
+    "author": "Vanitatum",
+    "published": "11.25 23:19:29",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"4\"><source src=\"../assets/comment-media/04bdcd7e3d0c7811e2b38605.mp4\" type=\"video/mp4\"></video><video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"4\"><source src=\"../assets/comment-media/f2b2320a5f03d7edd7f2072e.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268545483",
+    "parent_id": "268545250",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:25:10",
+    "depth": 1,
+    "body": "미치광이 일뽕짱깨종북페미탈모대머리씹덕찐따돼지파오후버튜버박이야 뒤져라 ㅡㅡ",
+    "body_html": "미치광이 일뽕짱깨종북페미탈모대머리씹덕찐따돼지파오후버튜버박이야 뒤져라 ㅡㅡ",
+    "deleted": false
+  },
+  {
+    "id": "268545258",
+    "parent_id": "",
+    "author": "1",
+    "published": "11.25 23:19:37",
+    "depth": 0,
+    "body": "저능아가 그냥 퍼온거. 리만가설 푼다고 소수가 정복되는게 아니고 소수의 특징을 하나 알게되는거뿐임. 다음소수가 뭔지 이런건 알수없음. 그냥 별 의미없는 증명이고 어려운증명인데 푸는과정에 의미가 있는거임.",
+    "body_html": "저능아가 그냥 퍼온거. 리만가설 푼다고 소수가 정복되는게 아니고 소수의 특징을 하나 알게되는거뿐임. 다음소수가 뭔지 이런건 알수없음. 그냥 별 의미없는 증명이고 어려운증명인데 푸는과정에 의미가 있는거임.",
+    "deleted": false
+  },
+  {
+    "id": "268545352",
+    "parent_id": "268545258",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:21:50",
+    "depth": 1,
+    "body": "리얼로 그냥 스포츠네...",
+    "body_html": "리얼로 그냥 스포츠네...",
+    "deleted": false
+  },
+  {
+    "id": "268545490",
+    "parent_id": "268545258",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:25:19",
+    "depth": 1,
+    "body": "쿨찐",
+    "body_html": "쿨찐",
+    "deleted": false
+  },
+  {
+    "id": "268545569",
+    "parent_id": "268545258",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:27:47",
+    "depth": 1,
+    "body": "아직도 수학자 아무도 증명과정 이해못했다는데 뭔 실베충새끼가 ㅋㅋㅋ",
+    "body_html": "아직도 수학자 아무도 증명과정 이해못했다는데 뭔 실베충새끼가 ㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268545796",
+    "parent_id": "268545258",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:32:47",
+    "depth": 1,
+    "body": "좆문가 티좀 내지마라 버러지새끼안ㅋㅋ",
+    "body_html": "좆문가 티좀 내지마라 버러지새끼안ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268545314",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:20:45",
+    "depth": 0,
+    "body": "근데 전자 궤도니 소수의 규칙이니 알아서 뭐함\n알면 섹스용 메이드 로봇 빨리 만들수있음?",
+    "body_html": "근데 전자 궤도니 소수의 규칙이니 알아서 뭐함\n알면 섹스용 메이드 로봇 빨리 만들수있음?",
+    "deleted": false
+  },
+  {
+    "id": "268552062",
+    "parent_id": "268545314",
+    "author": "ㅇㅇ",
+    "published": "11.26 02:45:59",
+    "depth": 1,
+    "body": "ㅇㅇ 훨씬 빨리 만들어짐",
+    "body_html": "ㅇㅇ 훨씬 빨리 만들어짐",
+    "deleted": false
+  },
+  {
+    "id": "268552431",
+    "parent_id": "268545314",
+    "author": "ㅇㅇ",
+    "published": "11.26 03:11:09",
+    "depth": 1,
+    "body": "잘알고잇노 그거임",
+    "body_html": "잘알고잇노 그거임",
+    "deleted": false
+  },
+  {
+    "id": "268552538",
+    "parent_id": "268545314",
+    "author": "ㅇㅇ",
+    "published": "11.26 03:20:36",
+    "depth": 1,
+    "body": "개발 시기 20년 줄어듬 수구",
+    "body_html": "개발 시기 20년 줄어듬 수구",
+    "deleted": false
+  },
+  {
+    "id": "268552938",
+    "parent_id": "268545314",
+    "author": "ㅇㅇ",
+    "published": "11.26 03:50:07",
+    "depth": 1,
+    "body": "이런새끼들이학자가되어야하는건데썩은한국",
+    "body_html": "<div class=\"coment_dccon_txt cbg_3b4890\"><p class=\"txtcon_txt ctxt_ffffff\">이런새끼들이학자가되어야하는건데썩은한국</p></div>",
+    "deleted": false
+  },
+  {
+    "id": "268545327",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:21:01",
+    "depth": 0,
+    "body": "과고 2학년때 버클리피직스 4권 보면서 미방개년땜에 피똥 쌌었지",
+    "body_html": "과고 2학년때 버클리피직스 4권 보면서 미방개년땜에 피똥 쌌었지",
+    "deleted": false
+  },
+  {
+    "id": "268545403",
+    "parent_id": "",
+    "author": "히이잉",
+    "published": "11.25 23:23:19",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"붕붕이\"><source src=\"../assets/comment-media/2b70b2db4031f160637e07bd.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268545459",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:24:30",
+    "depth": 0,
+    "body": "저거 하면 소아온 나옴? 좀비 나옴? 아니면 호들갑 ㅗ",
+    "body_html": "저거 하면 소아온 나옴? 좀비 나옴? 아니면 호들갑 ㅗ",
+    "deleted": false
+  },
+  {
+    "id": "268552436",
+    "parent_id": "268545459",
+    "author": "ㅇㅇ",
+    "published": "11.26 03:11:31",
+    "depth": 1,
+    "body": "소아온 가능",
+    "body_html": "소아온 가능",
+    "deleted": false
+  },
+  {
+    "id": "268552601",
+    "parent_id": "268545459",
+    "author": "ㅇㅇ",
+    "published": "11.26 03:24:40",
+    "depth": 1,
+    "body": "좀비 나옴",
+    "body_html": "좀비 나옴",
+    "deleted": false
+  },
+  {
+    "id": "268545469",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:24:48",
+    "depth": 0,
+    "body": "수학과 물리학이 있었기에 지금의 ai가 존재할 수 있는거니 서로에게 윈윈인거지",
+    "body_html": "수학과 물리학이 있었기에 지금의 ai가 존재할 수 있는거니 서로에게 윈윈인거지",
+    "deleted": false
+  },
+  {
+    "id": "268545557",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:27:29",
+    "depth": 0,
+    "body": "그러니까 이시발새끼들아\n\n리만함수가 거짓이면 뭐 어떻게 달라지냐고",
+    "body_html": "그러니까 이시발새끼들아\n\n리만함수가 거짓이면 뭐 어떻게 달라지냐고",
+    "deleted": false
+  },
+  {
+    "id": "268553591",
+    "parent_id": "268545557",
+    "author": "ㅇㅇ",
+    "published": "11.26 05:01:17",
+    "depth": 1,
+    "body": "현재까지는\n\n와 신기하다\n\n이게 다임  - dc App",
+    "body_html": "현재까지는\n\n와 신기하다\n\n이게 다임  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268555285",
+    "parent_id": "268545557",
+    "author": "ㅇㅇ",
+    "published": "11.26 07:20:24",
+    "depth": 1,
+    "body": "리만가설이 참이라는 전제에서 동작하던 시스템들을 다른 것으로 바꿔야겠지\n\n언제 고장날지 모르는 기계가 되어버렸으니까 (혹은 가짓임을 증명하는 과정에서 발견된 원리로 의도적으로 고장낼 수 있게 되거나) - dc App",
+    "body_html": "리만가설이 참이라는 전제에서 동작하던 시스템들을 다른 것으로 바꿔야겠지\n\n언제 고장날지 모르는 기계가 되어버렸으니까 (혹은 가짓임을 증명하는 과정에서 발견된 원리로 의도적으로 고장낼 수 있게 되거나) - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268545690",
+    "parent_id": "",
+    "author": "ansav454",
+    "published": "11.25 23:30:22",
+    "depth": 0,
+    "body": "ai가 풀었다는것도 수년간 인간이 ㅈㄴ 검증해야하고 \nai 테크기업 이새끼들 적자 ㅈㄴ 쳐박아서 언플인지도 의문이라   - dc App",
+    "body_html": "ai가 풀었다는것도 수년간 인간이 ㅈㄴ 검증해야하고 \nai 테크기업 이새끼들 적자 ㅈㄴ 쳐박아서 언플인지도 의문이라   - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268549752",
+    "parent_id": "268545690",
+    "author": "ㅇㅇ",
+    "published": "11.26 01:17:17",
+    "depth": 1,
+    "body": "풀이가 너무 길어서 검증이 가능할지도 의문임",
+    "body_html": "풀이가 너무 길어서 검증이 가능할지도 의문임",
+    "deleted": false
+  },
+  {
+    "id": "268545712",
+    "parent_id": "",
+    "author": "파치카",
+    "published": "11.25 23:30:46",
+    "depth": 0,
+    "body": "",
+    "body_html": "<img alt=\"까까\" class=\"written_dccon bigdccon\" loading=\"lazy\" src=\"../assets/comment-media/40149e240d4b5ee33f9d66a2.png\" title=\"까까\">",
+    "deleted": false
+  },
+  {
+    "id": "268547004",
+    "parent_id": "268545712",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:01:57",
+    "depth": 1,
+    "body": "",
+    "body_html": "<img alt=\"엥?\" class=\"written_dccon\" loading=\"lazy\" src=\"../assets/comment-media/51c20ff39b7516d6bd397c3e.png\" title=\"엥?\">",
+    "deleted": false
+  },
+  {
+    "id": "268545807",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:33:03",
+    "depth": 0,
+    "body": "갤 이름 시발아",
+    "body_html": "갤 이름 시발아",
+    "deleted": false
+  },
+  {
+    "id": "268545814",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:33:15",
+    "depth": 0,
+    "body": "이런 글만보면 '진짜 이 세상이 하나의 시뮬레이션이고, 이런 특이점을 발견하면 뭔가 해금되고 보상이 주어지고 한 단계 진화하는 건가?' 싶지만 \n실상은 그저 좆들갑일 뿐이다",
+    "body_html": "이런 글만보면 '진짜 이 세상이 하나의 시뮬레이션이고, 이런 특이점을 발견하면 뭔가 해금되고 보상이 주어지고 한 단계 진화하는 건가?' 싶지만 \n실상은 그저 좆들갑일 뿐이다",
+    "deleted": false
+  },
+  {
+    "id": "268545897",
+    "parent_id": "268545814",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:35:05",
+    "depth": 1,
+    "body": "깨달았구나 미정갤로 오거라  - dc App",
+    "body_html": "깨달았구나 미정갤로 오거라  - dc App",
+    "deleted": false
+  },
+  {
+    "id": "268554226",
+    "parent_id": "268545814",
+    "author": "ㅇㅇ",
+    "published": "11.26 06:00:32",
+    "depth": 1,
+    "body": "걍 시스탬 종료지 씨발",
+    "body_html": "걍 시스탬 종료지 씨발",
+    "deleted": false
+  },
+  {
+    "id": "268545877",
+    "parent_id": "",
+    "author": "고쿠센터장사랑해",
+    "published": "11.25 23:34:39",
+    "depth": 0,
+    "body": "갤 이름 십 ㅋㅋㅋㅋㅋ",
+    "body_html": "갤 이름 십 ㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268545928",
+    "parent_id": "",
+    "author": "웹가이",
+    "published": "11.25 23:35:50",
+    "depth": 0,
+    "body": "갤이름씨발ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "갤이름씨발ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268545954",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:36:26",
+    "depth": 0,
+    "body": "그래서 푼게 맞음?",
+    "body_html": "그래서 푼게 맞음?",
+    "deleted": false
+  },
+  {
+    "id": "268546886",
+    "parent_id": "268545954",
+    "author": "Jasmin.",
+    "published": "11.25 23:58:40",
+    "depth": 1,
+    "body": "증명됐다 라는건 확정적임 의심할 여지는 없음 다만 인간이 이해가 가능한방법으로 풀었냐 하면 no임",
+    "body_html": "증명됐다 라는건 확정적임 의심할 여지는 없음 다만 인간이 이해가 가능한방법으로 풀었냐 하면 no임",
+    "deleted": false
+  },
+  {
+    "id": "268546071",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:39:20",
+    "depth": 0,
+    "body": "갤이름이 더 난제인데?",
+    "body_html": "갤이름이 더 난제인데?",
+    "deleted": false
+  },
+  {
+    "id": "268546214",
+    "parent_id": "",
+    "author": "원갈이",
+    "published": "11.25 23:42:32",
+    "depth": 0,
+    "body": "미개한 지구인을 관찰해오던 외계인들에게 새로운 화제가 생겼겠군.. 야시발 저새기들 드디어 풀었뎈ㅋㅋㅋㅋㅋ 에이아인지 뭔지 그걸롴ㅋㅋ",
+    "body_html": "미개한 지구인을 관찰해오던 외계인들에게 새로운 화제가 생겼겠군.. 야시발 저새기들 드디어 풀었뎈ㅋㅋㅋㅋㅋ 에이아인지 뭔지 그걸롴ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268547275",
+    "parent_id": "268546214",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:09:36",
+    "depth": 1,
+    "body": "틀딱새끼뭐라씨부리는거노?",
+    "body_html": "틀딱새끼뭐라씨부리는거노?",
+    "deleted": false
+  },
+  {
+    "id": "268546253",
+    "parent_id": "",
+    "author": "히이잉",
+    "published": "11.25 23:43:20",
+    "depth": 0,
+    "body": "",
+    "body_html": "<video autoplay class=\"written_dccon\" controls loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" title=\"붕붕이\"><source src=\"../assets/comment-media/2b70b2db4031f160637e07bd.mp4\" type=\"video/mp4\"></video>",
+    "deleted": false
+  },
+  {
+    "id": "268546285",
+    "parent_id": "",
+    "author": "삭제됨",
+    "published": "11.25 23:44:06",
+    "depth": 0,
+    "body": "삭제된 댓글입니다.",
+    "body_html": "삭제된 댓글입니다.",
+    "deleted": true
+  },
+  {
+    "id": "268546413",
+    "parent_id": "268546285",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:47:30",
+    "depth": 1,
+    "body": "지구상에서 인간이 지성을 가진 유일한 존재였는데\n이제 그 지성이 좆도 아닌게 됨 ㅋㅋㅋ",
+    "body_html": "지구상에서 인간이 지성을 가진 유일한 존재였는데\n이제 그 지성이 좆도 아닌게 됨 ㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268547249",
+    "parent_id": "268546285",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:08:55",
+    "depth": 1,
+    "body": "(틀포티새끼주절주절)",
+    "body_html": "(틀포티새끼주절주절)",
+    "deleted": false
+  },
+  {
+    "id": "268547265",
+    "parent_id": "268546285",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:09:16",
+    "depth": 1,
+    "body": "@ㅇㅇ(94.198)\n너랑니애미가저능아라그럼ㅇㅇ",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ(94.198)</a> 너랑니애미가저능아라그럼ㅇㅇ",
+    "deleted": false
+  },
+  {
+    "id": "268548393",
+    "parent_id": "268546285",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:41:26",
+    "depth": 1,
+    "body": "@ㅇㅇ\n응느금마사망이요^^",
+    "body_html": "<a class=\"mention\" rel=\"noopener noreferrer\">@ㅇㅇ</a> 응느금마사망이요^^",
+    "deleted": false
+  },
+  {
+    "id": "268551953",
+    "parent_id": "268546285",
+    "author": "ㅇㅇ",
+    "published": "11.26 02:37:52",
+    "depth": 1,
+    "body": "친북 친중 좌파새끼들, PC충들에 의해서 너의 인생도 좆같은 영향을 받을수밖에 없긴함",
+    "body_html": "친북 친중 좌파새끼들, PC충들에 의해서 너의 인생도 좆같은 영향을 받을수밖에 없긴함",
+    "deleted": false
+  },
+  {
+    "id": "268546334",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:45:17",
+    "depth": 0,
+    "body": "갤이름\n보니까\n리만가설이\n개후루꾸로\n보이노",
+    "body_html": "<div class=\"coment_dccon_txt cbg_d2f0e6\"><p class=\"txtcon_txt ctxt_333333\">갤이름<br>보니까</p></div><div class=\"coment_dccon_txt cbg_d2f0e6\"><p class=\"txtcon_txt ctxt_333333\">리만가설이<br>개후루꾸로<br>보이노</p></div>",
+    "deleted": false
+  },
+  {
+    "id": "268546383",
+    "parent_id": "",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:46:42",
+    "depth": 0,
+    "body": "저거 푼다고 달라지는건 없지? 와 신기하다 이런거지?",
+    "body_html": "저거 푼다고 달라지는건 없지? 와 신기하다 이런거지?",
+    "deleted": false
+  },
+  {
+    "id": "268546938",
+    "parent_id": "268546383",
+    "author": "Jasmin.",
+    "published": "11.26 00:00:00",
+    "depth": 1,
+    "body": "말이 가설이지 사실상 리만 법칙이라 불러도될정도로 참이라는 전제하에 이론을 만든거라 증명했다고 당장 뭐가바뀌는건없음",
+    "body_html": "말이 가설이지 사실상 리만 법칙이라 불러도될정도로 참이라는 전제하에 이론을 만든거라 증명했다고 당장 뭐가바뀌는건없음",
+    "deleted": false
+  },
+  {
+    "id": "268546492",
+    "parent_id": "",
+    "author": "베갤러",
+    "published": "11.25 23:49:42",
+    "depth": 0,
+    "body": "시장님 갤러리임?",
+    "body_html": "<div class=\"coment_dccon_txt cbg_3b4890\"><p class=\"txtcon_txt ctxt_ffffff\">시장님 갤러리임?</p></div>",
+    "deleted": false
+  },
+  {
+    "id": "268547756",
+    "parent_id": "268546492",
+    "author": "ㅇㅇ",
+    "published": "11.26 00:20:39",
+    "depth": 1,
+    "body": "ㅋㅋㅋㅋ",
+    "body_html": "ㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268544887",
+    "parent_id": "",
+    "author": "러네",
+    "published": "11.25 23:10:35",
+    "depth": 0,
+    "body": "갤이름시발 ㅋㅋ",
+    "body_html": "갤이름시발 ㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268545409",
+    "parent_id": "268544887",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:23:22",
+    "depth": 1,
+    "body": "개씨발 ㅋㅋㅋ 너때매봣네",
+    "body_html": "개씨발 ㅋㅋㅋ 너때매봣네",
+    "deleted": false
+  },
+  {
+    "id": "268545626",
+    "parent_id": "268544887",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:29:09",
+    "depth": 1,
+    "body": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "body_html": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "deleted": false
+  },
+  {
+    "id": "268545843",
+    "parent_id": "268544887",
+    "author": "ㅇㅇ",
+    "published": "11.25 23:33:46",
+    "depth": 1,
+    "body": "쭉 올라가봤네 ㅅㅂ ㅋㅋㅋㅋㅋㅋ 진짜 어떰 미친ㅁ놈이 만든거야",
+    "body_html": "쭉 올라가봤네 ㅅㅂ ㅋㅋㅋㅋㅋㅋ 진짜 어떰 미친ㅁ놈이 만든거야",
+    "deleted": false
+  }
+]
